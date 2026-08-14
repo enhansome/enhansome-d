@@ -1,6 +1,6 @@
 # Awesome D with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,673 | 🐛 26 | 🌐 Python | 📅 2026-08-05.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 313,878 | 🐛 26 | 🌐 Python | 📅 2026-08-05.
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 764 | 🐛 3 | 🌐 D | 📅 2026-06-28 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 764 | 🐛 3 | 🌐 D | 📅 2026-06-28.
 
@@ -189,8 +189,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,298 | 🐛 3,839 | 🌐 D | 📅 2026-08-13 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
-* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,362 | 🐛 580 | 🌐 D | 📅 2026-08-13 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,299 | 🐛 3,839 | 🌐 D | 📅 2026-08-14 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,361 | 🐛 580 | 🌐 D | 📅 2026-08-14 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ## Alternative / WIP Compilers
@@ -384,10 +384,10 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,685 | 🐛 25 | 🌐 D | 📅 2026-08-09 - #1 Free OneDrive Client for Linux.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,688 | 🐛 24 | 🌐 D | 📅 2026-08-14 - #1 Free OneDrive Client for Linux.
 * [Literate](https://github.com/zyedidia/Literate) ⭐ 913 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
 * [tshare](https://github.com/trikko/tshare) ⭐ 141 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
-* [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 45 | 🐛 12 | 🌐 D | 📅 2026-08-12 - Soulseek server implementation in D.
+* [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 45 | 🐛 13 | 🌐 D | 📅 2026-08-12 - Soulseek server implementation in D.
 * [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,335 | 🐛 154 | 🌐 C | 📅 2026-05-02.
 
 ## GUI Libraries
@@ -408,9 +408,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## GUI Applications
 
-* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,711 | 🐛 454 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
-* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,193 | 🐛 139 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
-* [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 399 | 🐛 25 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
+* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,713 | 🐛 454 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,194 | 🐛 139 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
+* [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 400 | 🐛 25 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 
 ## Game Bindings
 
@@ -602,4 +602,4 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
