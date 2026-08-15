@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-14T05:09:49Z",
+            "last_commit": "2026-08-15T05:18:55Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3299
+            "stars": 3300
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-14T02:15:01Z",
+            "last_commit": "2026-08-15T01:27:39Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1361
+            "stars": 1362
           }
         },
         {
@@ -161,7 +161,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-07T08:10:40Z",
+            "last_commit": "2026-08-14T13:19:00Z",
             "owner": "dlang",
             "repo": "dub",
             "stars": 734
@@ -1085,10 +1085,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-14T01:35:21Z",
+            "last_commit": "2026-08-15T02:24:45Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12688
+            "stars": 12690
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1194
+            "stars": 1196
           }
         },
         {
@@ -2754,7 +2754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:58:17.464Z",
+    "last_updated": "2026-08-15T07:08:17.078Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
