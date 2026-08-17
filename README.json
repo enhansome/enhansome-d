@@ -79,7 +79,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-16T05:34:18Z",
+            "last_commit": "2026-08-17T04:16:48Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3300
@@ -93,7 +93,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-16T01:38:08Z",
+            "last_commit": "2026-08-17T01:29:23Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1362
@@ -550,7 +550,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         }
       ],
@@ -852,7 +852,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -970,7 +970,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -1085,10 +1085,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-16T03:40:13Z",
+            "last_commit": "2026-08-17T06:38:34Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12691
+            "stars": 12694
           }
         },
         {
@@ -1102,7 +1102,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 913
+            "stars": 914
           }
         },
         {
@@ -1116,7 +1116,7 @@
             "last_commit": "2023-12-13T14:30:52Z",
             "owner": "trikko",
             "repo": "tshare",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -1130,7 +1130,7 @@
             "last_commit": "2026-08-12T13:07:21Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1196
+            "stars": 1198
           }
         },
         {
@@ -1310,7 +1310,7 @@
             "last_commit": "2025-11-08T18:18:23Z",
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 400
+            "stars": 402
           }
         }
       ],
@@ -2000,7 +2000,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -2014,7 +2014,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -2330,7 +2330,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -2426,7 +2426,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 566
+            "stars": 562
           }
         },
         {
@@ -2754,7 +2754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:09:31.649Z",
+    "last_updated": "2026-08-17T07:33:51.646Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
