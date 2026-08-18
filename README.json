@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-17T04:16:48Z",
+            "last_commit": "2026-08-17T23:20:18Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3300
+            "stars": 3301
           }
         },
         {
@@ -93,7 +93,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-17T01:29:23Z",
+            "last_commit": "2026-08-18T01:25:44Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1362
@@ -175,7 +175,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-12T11:15:13Z",
+            "last_commit": "2026-08-18T07:07:20Z",
             "owner": "atilaneves",
             "repo": "reggae",
             "stars": 190
@@ -643,7 +643,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-13T00:32:00Z",
+            "last_commit": "2026-08-17T18:47:58Z",
             "owner": "etcimon",
             "repo": "memutils",
             "stars": 45
@@ -691,7 +691,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-09T10:49:04Z",
+            "last_commit": "2026-08-17T23:39:42Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 32
@@ -1085,10 +1085,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-17T06:38:34Z",
+            "last_commit": "2026-08-17T23:41:08Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12694
+            "stars": 12698
           }
         },
         {
@@ -1127,7 +1127,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-12T13:07:21Z",
+            "last_commit": "2026-08-17T17:58:28Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 46
@@ -1383,7 +1383,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T17:48:51Z",
+            "last_commit": "2026-08-17T17:26:49Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 28
@@ -2457,7 +2457,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-08-13T00:32:04Z",
+            "last_commit": "2026-08-17T21:38:59Z",
             "owner": "etcimon",
             "repo": "botan",
             "stars": 91
@@ -2754,7 +2754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:33:51.646Z",
+    "last_updated": "2026-08-18T07:21:04.605Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
