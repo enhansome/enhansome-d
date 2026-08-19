@@ -84,7 +84,7 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-19T02:54:41Z",
+            "last_commit": "2026-08-19T08:27:47Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3302
@@ -171,7 +171,7 @@
             "archived": false,
             "id": 6470655,
             "language": "D",
-            "last_commit": "2026-08-14T13:19:00Z",
+            "last_commit": "2026-08-19T10:42:20Z",
             "owner": "dlang",
             "repo": "dub",
             "stars": 734
@@ -1305,10 +1305,10 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-19T04:07:17Z",
+            "last_commit": "2026-08-19T11:17:57Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12707
+            "stars": 12708
           }
         },
         {
@@ -1530,7 +1530,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1198
+            "stars": 1199
           }
         },
         {
@@ -2282,7 +2282,7 @@
             "archived": false,
             "id": 70403001,
             "language": "D",
-            "last_commit": "2026-08-18T21:32:48Z",
+            "last_commit": "2026-08-19T11:49:39Z",
             "owner": "gecko0307",
             "repo": "dagon",
             "stars": 405
@@ -2429,7 +2429,7 @@
             "archived": false,
             "id": 855632,
             "language": "D",
-            "last_commit": "2026-08-19T07:04:50Z",
+            "last_commit": "2026-08-19T08:08:21Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 178
@@ -3190,8 +3190,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:21:37.737Z",
+    "last_updated": "2026-08-19T12:22:39.511Z",
     "original_repository": "dlang-community/awesome-d",
+    "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
     "enhanced_repository_description": null,
