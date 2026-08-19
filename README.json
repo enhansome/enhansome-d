@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15827539,
             "language": "D",
             "last_commit": "2020-12-18T22:24:39Z",
             "owner": "Circular-Studios",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99037063,
             "language": "D",
             "last_commit": "2024-06-11T20:04:21Z",
             "owner": "atilaneves",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3000819,
             "language": "HTML",
             "last_commit": "2021-09-21T11:50:40Z",
             "owner": "PhilippeSigaud",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29434531,
             "language": "D",
             "last_commit": "2014-12-30T17:34:59Z",
             "owner": "drewet",
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-17T23:20:18Z",
+            "last_commit": "2026-08-19T02:54:41Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3301
+            "stars": 3302
           }
         },
         {
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-18T01:25:44Z",
+            "last_commit": "2026-08-19T01:28:15Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3759178,
             "language": "D",
             "last_commit": "2018-12-25T19:50:49Z",
             "owner": "D-Programming-GDC",
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4096145,
             "language": "D",
             "last_commit": "2026-02-18T14:48:43Z",
             "owner": "dlang-community",
@@ -140,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29113713,
             "language": "D",
             "last_commit": "2026-05-30T13:54:25Z",
             "owner": "dlang-community",
@@ -160,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6470655,
             "language": "D",
             "last_commit": "2026-08-14T13:19:00Z",
             "owner": "dlang",
@@ -174,8 +184,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30976075,
             "language": "D",
-            "last_commit": "2026-08-18T07:07:20Z",
+            "last_commit": "2026-08-18T07:45:43Z",
             "owner": "atilaneves",
             "repo": "reggae",
             "stars": 190
@@ -188,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13512659,
             "language": "CMake",
             "last_commit": "2023-06-09T09:57:36Z",
             "owner": "dcarp",
@@ -202,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14263302,
             "language": "D",
             "last_commit": "2023-04-30T22:24:17Z",
             "owner": "gecko0307",
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2954409,
             "language": "CSS",
             "last_commit": "2016-04-19T09:37:27Z",
             "owner": "bioinfornatics",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36097787,
             "language": "D",
             "last_commit": "2016-08-14T07:46:25Z",
             "owner": "Vild",
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32639403,
             "language": "Lua",
             "last_commit": "2016-11-16T16:24:13Z",
             "owner": "premake",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641697997,
             "language": "C",
             "last_commit": "2023-05-18T00:52:55Z",
             "owner": "redthing1",
@@ -278,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11419535,
             "language": "D",
             "last_commit": "2026-08-10T17:43:02Z",
             "owner": "dlang-community",
@@ -292,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4564528,
             "language": "D",
             "last_commit": "2026-07-26T15:31:17Z",
             "owner": "dlang",
@@ -306,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84109846,
             "language": "D",
             "last_commit": "2026-07-19T15:05:19Z",
             "owner": "Pure-D",
@@ -320,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22913510,
             "language": "Vim script",
             "last_commit": "2020-04-02T09:39:52Z",
             "owner": "idanarye",
@@ -331,7 +352,7 @@
       "title": "IDEs & Editors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -340,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3593205,
             "language": "D",
             "last_commit": "2025-07-31T23:45:57Z",
             "owner": "dlang-community",
@@ -354,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21142714,
             "language": "D",
             "last_commit": "2026-05-10T16:14:14Z",
             "owner": "dlang-community",
@@ -368,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2041242,
             "language": "D",
             "last_commit": "2015-05-06T04:43:13Z",
             "owner": "youxkei",
@@ -382,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4341082,
             "language": "C#",
             "last_commit": "2020-06-04T19:33:09Z",
             "owner": "aBothe",
@@ -396,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5359394,
             "language": "D",
             "last_commit": "2014-05-18T14:00:37Z",
             "owner": "MartinNowak",
@@ -410,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8596337,
             "language": "D",
             "last_commit": "2017-07-14T04:25:40Z",
             "owner": "pwil3058",
@@ -421,7 +448,7 @@
       "title": "Lexers, Parsers & Generators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -430,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3272778,
             "language": "D",
             "last_commit": "2025-05-08T08:04:29Z",
             "owner": "jacob-carlborg",
@@ -444,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905335988,
             "language": "D",
             "last_commit": "2026-06-22T01:12:57Z",
             "owner": "kassane",
@@ -455,7 +484,7 @@
       "title": "Version Managers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -464,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207611023,
             "language": "TypeScript",
             "last_commit": "2025-10-05T19:23:00Z",
             "owner": "dlang-community",
@@ -478,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284113488,
             "language": "JavaScript",
             "last_commit": "2026-08-05T12:46:28Z",
             "owner": "WebFreak001",
@@ -489,7 +520,7 @@
       "title": "GitHub Actions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -498,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11226361,
             "language": "D",
             "last_commit": "2026-05-28T17:59:50Z",
             "owner": "atilaneves",
@@ -512,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85077228,
             "language": "D",
             "last_commit": "2026-06-22T09:42:54Z",
             "owner": "gedaiu",
@@ -532,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5534485,
             "language": "JavaScript",
             "last_commit": "2023-06-09T14:20:07Z",
             "owner": "higgsjs",
@@ -546,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -566,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26831846,
             "language": "D",
             "last_commit": "2019-03-02T00:24:14Z",
             "owner": "PowerNex",
@@ -580,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12386602,
             "language": "D",
             "last_commit": "2025-06-16T09:36:09Z",
             "owner": "Rikarin",
@@ -594,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124334880,
             "language": "Rust",
             "last_commit": "2025-12-30T07:47:16Z",
             "owner": "xomboverlord",
@@ -614,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11385077,
             "language": "D",
             "last_commit": "2026-08-04T11:19:11Z",
             "owner": "gecko0307",
@@ -628,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18615769,
             "language": "D",
             "last_commit": "2023-11-15T12:40:13Z",
             "owner": "dlang-community",
@@ -642,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29814736,
             "language": "D",
             "last_commit": "2026-08-17T18:47:58Z",
             "owner": "etcimon",
@@ -656,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40979326,
             "language": "D",
             "last_commit": "2019-09-12T09:39:11Z",
             "owner": "burner",
@@ -676,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719344381,
             "language": "D",
             "last_commit": "2026-08-12T02:37:49Z",
             "owner": "Inochi2D",
@@ -690,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 839582107,
             "language": "D",
             "last_commit": "2026-08-17T23:39:42Z",
             "owner": "Kapendev",
@@ -704,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934549399,
             "language": "D",
             "last_commit": "2026-08-10T19:29:48Z",
             "owner": "Inochi2D",
@@ -715,7 +760,7 @@
       "title": "Core Utilities"
     },
     {
-      "description": "Networking libraries.",
+      "description": "Networking libraries.\nFull stack web frameworks.\nRPC libraries.\nStatic Site Generator.",
       "items": [
         {
           "node_type": "item",
@@ -724,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56168307,
             "language": "D",
             "last_commit": "2026-05-01T20:12:50Z",
             "owner": "ikod",
@@ -738,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23385889,
             "language": "D",
             "last_commit": "2024-07-04T18:26:13Z",
             "owner": "etcimon",
@@ -752,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486284504,
             "language": "D",
             "last_commit": "2026-05-21T17:46:36Z",
             "owner": "trikko",
@@ -766,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 438768597,
             "language": "D",
             "last_commit": "2026-04-01T22:51:14Z",
             "owner": "andrewlalis",
@@ -780,18 +829,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31226423,
             "language": "D",
             "last_commit": "2023-03-02T19:49:43Z",
             "owner": "etcimon",
             "repo": "libhttp2",
             "stars": 36
           }
+        },
+        {
+          "node_type": "item",
+          "title": "arsd",
+          "description": "Adam D. Ruppe's web framework. (See for the CGI/FastCGI/SCGI/webserver component.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2052937,
+            "language": "D",
+            "last_commit": "2026-06-28T14:27:19Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmsed",
+          "description": "A component library for Vibe that functions as a CMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15764105,
+            "language": "D",
+            "last_commit": "2015-01-23T10:02:23Z",
+            "owner": "rikkimax",
+            "repo": "Cmsed",
+            "stars": 18
+          }
         }
       ],
       "title": "Web Frameworks"
     },
     {
-      "description": "JSON, XML, protobuf and other data serialization libraries.",
+      "description": "JSON, XML, protobuf and other data serialization libraries.\nJSON libraries.\nXML libraries.",
       "items": [
         {
           "node_type": "item",
@@ -800,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11619359,
             "language": "D",
             "last_commit": "2026-05-14T11:03:06Z",
             "owner": "atilaneves",
@@ -814,11 +895,132 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8889498,
             "language": "D",
             "last_commit": "2020-05-02T23:36:33Z",
             "owner": "msoucy",
             "repo": "dproto",
             "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast.json",
+          "description": "A library for D that aims to provide the fastest possible implementation of some every day routines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11093654,
+            "language": "D",
+            "last_commit": "2023-03-03T15:00:21Z",
+            "owner": "etcimon",
+            "repo": "fast",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "std.data.json",
+          "description": "Phobos candidate for JSON serialization (based on Vibed)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23148464,
+            "language": "D",
+            "last_commit": "2025-12-29T16:43:35Z",
+            "owner": "dlang-community",
+            "repo": "std_data_json",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "painlessjson",
+          "description": "Convert between D types and std.json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22250554,
+            "language": "D",
+            "last_commit": "2019-07-12T07:01:44Z",
+            "owner": "BlackEdder",
+            "repo": "painlessjson",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asdf",
+          "description": "Cache oriented string based JSON representation for fast read & writes and serialisation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252686975,
+            "language": "D",
+            "last_commit": "2025-11-06T18:09:55Z",
+            "owner": "libmir",
+            "repo": "asdf",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arsd dom.d",
+          "description": "an xml/html DOM based on what Javascript provides in browsers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2052937,
+            "language": "D",
+            "last_commit": "2026-06-28T14:27:19Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orange",
+          "description": "General purpose serializer (currently only supports XML)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2217276,
+            "language": "D",
+            "last_commit": "2020-03-21T19:06:05Z",
+            "owner": "jacob-carlborg",
+            "repo": "orange",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "std.experimental.xml",
+          "description": "Phobos candidate for a XML serialization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53450498,
+            "language": "D",
+            "last_commit": "2017-07-27T14:24:05Z",
+            "owner": "lodo1995",
+            "repo": "experimental.xml",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "newxml",
+          "description": "Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 532543488,
+            "language": "D",
+            "last_commit": "2026-01-17T21:49:11Z",
+            "owner": "ZILtoid1991",
+            "repo": "newxml",
+            "stars": 8
           }
         }
       ],
@@ -834,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4081150,
             "language": "D",
             "last_commit": "2026-07-04T14:36:17Z",
             "owner": "vibe-d",
@@ -848,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -862,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9391449,
             "language": "D",
             "last_commit": "2024-12-22T21:33:27Z",
             "owner": "buggins",
@@ -876,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4176168,
             "language": "D",
             "last_commit": "2024-01-10T00:06:56Z",
             "owner": "mysql-d",
@@ -890,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9391376,
             "language": "D",
             "last_commit": "2025-08-26T16:15:03Z",
             "owner": "buggins",
@@ -904,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1555865,
             "language": "D",
             "last_commit": "2022-07-31T14:04:41Z",
             "owner": "pszturmaj",
@@ -918,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15527277,
             "language": "D",
             "last_commit": "2016-05-12T10:57:08Z",
             "owner": "rikkimax",
@@ -932,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583335207,
             "language": "D",
             "last_commit": "2023-06-18T11:35:02Z",
             "owner": "Hax-io",
@@ -943,7 +1153,7 @@
       "title": "Database Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -952,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382449,
             "language": "Ruby",
             "last_commit": "2024-05-21T23:51:26Z",
             "owner": "fazibear",
@@ -966,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -980,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16724986,
             "language": "D",
             "last_commit": "2021-03-10T10:47:45Z",
             "owner": "Abscissa",
@@ -994,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255488651,
             "language": "D",
             "last_commit": "2023-08-14T17:27:35Z",
             "owner": "fbeline",
@@ -1008,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211294272,
             "language": "D",
             "last_commit": "2024-08-21T09:19:36Z",
             "owner": "robik",
@@ -1022,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91346123,
             "language": "D",
             "last_commit": "2025-11-21T21:50:23Z",
             "owner": "burner",
@@ -1036,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52986090,
             "language": "D",
             "last_commit": "2017-11-10T19:37:33Z",
             "owner": "markuslaker",
@@ -1050,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13776184,
             "language": "D",
             "last_commit": "2020-12-21T17:20:22Z",
             "owner": "grogancolin",
@@ -1064,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308275255,
             "language": "D",
             "last_commit": "2026-01-04T13:18:33Z",
             "owner": "deavmi",
@@ -1075,7 +1294,7 @@
       "title": "CLI Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1084,11 +1303,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-17T23:41:08Z",
+            "last_commit": "2026-08-19T04:07:17Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12698
+            "stars": 12707
           }
         },
         {
@@ -1098,6 +1318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38539538,
             "language": "D",
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
@@ -1112,6 +1333,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 700591607,
             "language": "D",
             "last_commit": "2023-12-13T14:30:52Z",
             "owner": "trikko",
@@ -1126,6 +1348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82344147,
             "language": "D",
             "last_commit": "2026-08-17T17:58:28Z",
             "owner": "soulfind-dev",
@@ -1140,6 +1363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18890948,
             "language": "D",
             "last_commit": "2017-03-22T19:28:24Z",
             "owner": "BlackEdder",
@@ -1151,7 +1375,7 @@
       "title": "CLI Applications"
     },
     {
-      "description": "Libraries for working with graphical user interface applications.",
+      "description": "Libraries for working with graphical user interface applications.\nNote: You can also find a list of GUI libs on wiki.dlang.org, but not all of the libraries are actively maintained now.",
       "items": [
         {
           "node_type": "item",
@@ -1160,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17363774,
             "language": "D",
             "last_commit": "2026-04-05T09:15:27Z",
             "owner": "buggins",
@@ -1174,6 +1399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -1188,6 +1414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3441205,
             "language": "D",
             "last_commit": "2025-11-01T18:47:07Z",
             "owner": "gtkd-developers",
@@ -1202,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15747034,
             "language": "D",
             "last_commit": "2021-10-15T16:40:59Z",
             "owner": "nomad-software",
@@ -1216,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 923238342,
             "language": "D",
             "last_commit": "2026-06-14T17:20:41Z",
             "owner": "Kymorphia",
@@ -1230,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31545053,
             "language": "D",
             "last_commit": "2022-10-12T09:24:40Z",
             "owner": "filcuc",
@@ -1244,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31928984,
             "language": "D",
             "last_commit": "2017-06-12T03:17:04Z",
             "owner": "sciter-sdk",
@@ -1258,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1007216215,
             "language": "D",
             "last_commit": "2026-03-20T11:06:21Z",
             "owner": "Kapendev",
@@ -1269,7 +1501,7 @@
       "title": "GUI Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1278,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48780523,
             "language": "D",
             "last_commit": "2026-07-01T19:01:40Z",
             "owner": "gnunn1",
@@ -1292,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314383297,
             "language": "D",
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
@@ -1306,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385046417,
             "language": "D",
             "last_commit": "2025-11-08T18:18:23Z",
             "owner": "Inochi2D",
@@ -1326,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87456107,
             "language": "D",
             "last_commit": "2023-09-04T13:02:37Z",
             "owner": "godot-d",
@@ -1340,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9001097,
             "language": "D",
             "last_commit": "2019-04-28T17:31:53Z",
             "owner": "Jebbs",
@@ -1354,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347123032,
             "language": "D",
             "last_commit": "2026-04-27T12:47:07Z",
             "owner": "schveiguy",
@@ -1368,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078461,
             "language": "D",
             "last_commit": "2024-10-31T05:48:28Z",
             "owner": "SiegeLord",
@@ -1382,8 +1621,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730376427,
             "language": "C",
-            "last_commit": "2026-08-17T17:26:49Z",
+            "last_commit": "2026-08-18T20:07:16Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 28
@@ -1401,6 +1641,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 124232670,
                 "language": "D",
                 "last_commit": "2026-06-01T13:09:29Z",
                 "owner": "BindBC",
@@ -1415,6 +1656,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 165145836,
                 "language": "D",
                 "last_commit": "2023-09-22T18:03:45Z",
                 "owner": "Timu5",
@@ -1429,6 +1671,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 152732765,
                 "language": "D",
                 "last_commit": "2026-07-31T15:41:23Z",
                 "owner": "BindBC",
@@ -1443,6 +1686,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 140157285,
                 "language": "D",
                 "last_commit": "2026-01-02T10:16:26Z",
                 "owner": "BindBC",
@@ -1457,6 +1701,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 212442980,
                 "language": "C++",
                 "last_commit": "2025-12-01T19:03:03Z",
                 "owner": "DLangGamedev",
@@ -1471,6 +1716,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 306948464,
                 "language": "D",
                 "last_commit": "2025-10-22T19:33:39Z",
                 "owner": "Inochi2D",
@@ -1485,6 +1731,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 211602751,
                 "language": "D",
                 "last_commit": "2022-12-17T14:51:48Z",
                 "owner": "GoaLitiuM",
@@ -1499,6 +1746,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 178420727,
                 "language": "D",
                 "last_commit": "2025-12-14T09:32:11Z",
                 "owner": "BindBC",
@@ -1513,6 +1761,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 216367028,
                 "language": "D",
                 "last_commit": "2024-03-02T18:44:26Z",
                 "owner": "BindBC",
@@ -1527,6 +1776,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 419875082,
                 "language": "C",
                 "last_commit": "2023-12-24T15:25:37Z",
                 "owner": "o3o",
@@ -1541,6 +1791,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 309336050,
                 "language": "D",
                 "last_commit": "2024-11-28T14:22:40Z",
                 "owner": "BindBC",
@@ -1555,6 +1806,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160939060,
                 "language": "D",
                 "last_commit": "2024-01-18T08:17:58Z",
                 "owner": "BindBC",
@@ -1569,6 +1821,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 166959861,
                 "language": "D",
                 "last_commit": "2025-04-13T11:32:43Z",
                 "owner": "DLangGamedev",
@@ -1583,6 +1836,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 198807392,
                 "language": "D",
                 "last_commit": "2025-03-29T22:31:59Z",
                 "owner": "DLangGamedev",
@@ -1597,6 +1851,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 179520798,
                 "language": "D",
                 "last_commit": "2023-07-07T20:52:20Z",
                 "owner": "BindBC",
@@ -1611,6 +1866,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 231122117,
                 "language": "D",
                 "last_commit": "2023-04-05T20:40:04Z",
                 "owner": "kdmult",
@@ -1625,6 +1881,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 203799680,
                 "language": "D",
                 "last_commit": "2019-10-25T15:58:16Z",
                 "owner": "aferust",
@@ -1639,6 +1896,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 256982277,
                 "language": "D",
                 "last_commit": "2020-04-20T11:26:03Z",
                 "owner": "aferust",
@@ -1653,6 +1911,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 204997538,
                 "language": "D",
                 "last_commit": "2024-11-19T16:29:25Z",
                 "owner": "DlangGraphicsWG",
@@ -1667,6 +1926,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163115715,
                 "language": "D",
                 "last_commit": "2019-05-07T17:05:20Z",
                 "owner": "ZILtoid1991",
@@ -1681,6 +1941,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 276436763,
                 "language": "D",
                 "last_commit": "2020-10-01T12:40:40Z",
                 "owner": "ZILtoid1991",
@@ -1695,6 +1956,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 222802900,
                 "language": "D",
                 "last_commit": "2019-11-19T22:39:34Z",
                 "owner": "aferust",
@@ -1709,6 +1971,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 300805021,
                 "language": "D",
                 "last_commit": "2020-10-03T05:42:40Z",
                 "owner": "DarkRiDDeR",
@@ -1719,6 +1982,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 124233500,
             "language": "D",
             "last_commit": "2025-01-28T13:37:19Z",
             "owner": "BindBC",
@@ -1738,6 +2002,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21228553,
                 "language": "D",
                 "last_commit": "2020-09-08T12:47:14Z",
                 "owner": "DerelictOrg",
@@ -1752,6 +2017,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12804677,
                 "language": "D",
                 "last_commit": "2025-09-08T13:05:36Z",
                 "owner": "DerelictOrg",
@@ -1766,6 +2032,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16762439,
                 "language": "D",
                 "last_commit": "2017-06-16T12:24:42Z",
                 "owner": "DerelictOrg",
@@ -1780,6 +2047,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15132201,
                 "language": "D",
                 "last_commit": "2017-06-04T03:46:35Z",
                 "owner": "DerelictOrg",
@@ -1794,6 +2062,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19974014,
                 "language": "D",
                 "last_commit": "2017-02-12T22:48:33Z",
                 "owner": "DerelictOrg",
@@ -1808,6 +2077,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12192508,
                 "language": "D",
                 "last_commit": "2017-09-22T03:17:19Z",
                 "owner": "DerelictOrg",
@@ -1822,6 +2092,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15132232,
                 "language": "D",
                 "last_commit": "2017-08-12T07:59:16Z",
                 "owner": "DerelictOrg",
@@ -1836,6 +2107,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17285051,
                 "language": "D",
                 "last_commit": "2017-06-04T02:46:03Z",
                 "owner": "DerelictOrg",
@@ -1850,6 +2122,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 20255799,
                 "language": "D",
                 "last_commit": "2017-06-04T03:59:49Z",
                 "owner": "DerelictOrg",
@@ -1864,6 +2137,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15276574,
                 "language": "D",
                 "last_commit": "2017-11-15T07:50:14Z",
                 "owner": "DerelictOrg",
@@ -1877,7 +2151,7 @@
       "title": "Game Bindings"
     },
     {
-      "description": "D libraries for game development.",
+      "description": "D libraries for game development.\nLibraries for 2D-related projects.\nLibraries for 2D/3D-related projects.\nLibraries for 3D-related projects.",
       "items": [
         {
           "node_type": "item",
@@ -1886,6 +2160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492283001,
             "language": "D",
             "last_commit": "2026-04-11T14:51:24Z",
             "owner": "Inochi2D",
@@ -1900,6 +2175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1097648230,
             "language": "D",
             "last_commit": "2026-06-10T16:30:24Z",
             "owner": "AuburnSounds",
@@ -1914,11 +2190,117 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 805790086,
             "language": "D",
             "last_commit": "2026-05-04T13:11:57Z",
             "owner": "AuburnSounds",
             "repo": "text-mode",
             "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixmapPresenter",
+          "description": "High-level display library for blitting fully-rendered frames to the screen (→ software-rendering, retro graphics).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2052937,
+            "language": "D",
+            "last_commit": "2026-06-28T14:27:19Z",
+            "owner": "adamdruppe",
+            "repo": "arsd",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HipremeEngine",
+          "description": "Cross Platform D-Lang Game Engine with scripting support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228531733,
+            "language": "D",
+            "last_commit": "2026-07-31T16:52:17Z",
+            "owner": "MrcSnm",
+            "repo": "HipremeEngine",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelPerfectEngine",
+          "description": "2D graphics engine written in D.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30218095,
+            "language": "D",
+            "last_commit": "2026-01-17T21:42:01Z",
+            "owner": "ZILtoid1991",
+            "repo": "pixelperfectengine",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parin",
+          "description": "A delightfully simple 2D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 767346331,
+            "language": "D",
+            "last_commit": "2026-08-17T23:38:12Z",
+            "owner": "Kapendev",
+            "repo": "parin",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gfm",
+          "description": "D gamedev toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248184097,
+            "language": "D",
+            "last_commit": "2024-07-27T09:37:19Z",
+            "owner": "drug007",
+            "repo": "gfm7",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dagon",
+          "description": "3D game engine for D. See: https://gecko0307.github.io/dagon/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70403001,
+            "language": "D",
+            "last_commit": "2026-08-18T21:32:48Z",
+            "owner": "gecko0307",
+            "repo": "dagon",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voxelman",
+          "description": "Plugin-based client-server voxel game engine written in D language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21798503,
+            "language": "D",
+            "last_commit": "2022-05-10T16:24:02Z",
+            "owner": "MrSmith33",
+            "repo": "voxelman",
+            "stars": 129
           }
         }
       ],
@@ -1934,6 +2316,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7225339,
             "language": "D",
             "last_commit": "2026-06-29T11:29:08Z",
             "owner": "gecko0307",
@@ -1948,6 +2331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157265071,
             "language": "D",
             "last_commit": "2024-06-19T11:06:47Z",
             "owner": "jonathanballs",
@@ -1962,6 +2346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5736356,
             "language": "D",
             "last_commit": "2014-06-11T16:52:45Z",
             "owner": "Ingrater",
@@ -1976,6 +2361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31157411,
             "language": "C++",
             "last_commit": "2016-01-28T22:45:34Z",
             "owner": "kingsleyh",
@@ -1987,7 +2373,7 @@
       "title": "Games"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1996,6 +2382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -2010,6 +2397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -2024,6 +2412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11385077,
             "language": "D",
             "last_commit": "2026-08-04T11:19:11Z",
             "owner": "gecko0307",
@@ -2038,8 +2427,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 855632,
             "language": "D",
-            "last_commit": "2026-08-06T08:44:12Z",
+            "last_commit": "2026-08-19T07:04:50Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 178
@@ -2052,6 +2442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179586450,
             "language": "D",
             "last_commit": "2021-09-06T12:19:56Z",
             "owner": "aferust",
@@ -2063,7 +2454,7 @@
       "title": "Image Processing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2072,6 +2463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99009304,
             "language": "D",
             "last_commit": "2024-05-02T18:52:43Z",
             "owner": "Netflix",
@@ -2086,6 +2478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260663724,
             "language": "D",
             "last_commit": "2021-06-15T14:07:00Z",
             "owner": "ShigekiKarita",
@@ -2100,6 +2493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247284114,
             "language": "D",
             "last_commit": "2023-03-05T17:05:13Z",
             "owner": "lempiji",
@@ -2114,6 +2508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195398358,
             "language": "D",
             "last_commit": "2020-03-14T17:15:05Z",
             "owner": "ShigekiKarita",
@@ -2125,7 +2520,7 @@
       "title": "Machine Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2134,6 +2529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63517055,
             "language": "D",
             "last_commit": "2026-07-19T08:04:31Z",
             "owner": "libmir",
@@ -2148,6 +2544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25292327,
             "language": "D",
             "last_commit": "2019-02-22T18:22:43Z",
             "owner": "DerelictOrg",
@@ -2162,6 +2559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27719746,
             "language": "D",
             "last_commit": "2019-10-30T20:11:43Z",
             "owner": "DerelictOrg",
@@ -2182,6 +2580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37379986,
             "language": "D",
             "last_commit": "2022-06-05T10:20:02Z",
             "owner": "libmir",
@@ -2196,6 +2595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37379986,
             "language": "D",
             "last_commit": "2022-06-05T10:20:02Z",
             "owner": "libmir",
@@ -2210,6 +2610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1287514,
             "language": "D",
             "last_commit": "2020-04-30T01:46:03Z",
             "owner": "DlangScience",
@@ -2224,6 +2625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74410870,
             "language": "D",
             "last_commit": "2026-06-10T15:39:48Z",
             "owner": "libmir",
@@ -2238,6 +2640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21941091,
             "language": "D",
             "last_commit": "2022-12-10T17:22:08Z",
             "owner": "DlangScience",
@@ -2249,7 +2652,7 @@
       "title": "Scientific"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2258,6 +2661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55643245,
             "language": "D",
             "last_commit": "2022-09-14T17:43:16Z",
             "owner": "eBay",
@@ -2272,6 +2676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162270939,
             "language": "D",
             "last_commit": "2022-04-15T09:48:14Z",
             "owner": "huntlabs",
@@ -2292,6 +2697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18491965,
             "language": "D",
             "last_commit": "2017-11-10T01:41:00Z",
             "owner": "NCrashed",
@@ -2306,6 +2712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441127561,
             "language": "D",
             "last_commit": "2025-03-21T12:07:36Z",
             "owner": "deavmi",
@@ -2326,6 +2733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -2340,6 +2748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8474022,
             "language": "D",
             "last_commit": "2023-04-30T01:06:05Z",
             "owner": "dlang-community",
@@ -2354,6 +2763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2216701,
             "language": "D",
             "last_commit": "2026-01-24T17:04:19Z",
             "owner": "dlang-community",
@@ -2368,6 +2778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20290754,
             "language": "D",
             "last_commit": "2022-10-19T11:30:42Z",
             "owner": "burner",
@@ -2388,6 +2799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56943916,
             "language": "D",
             "last_commit": "2026-06-23T13:37:28Z",
             "owner": "adamdruppe",
@@ -2402,6 +2814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36841098,
             "language": "D",
             "last_commit": "2020-11-20T15:12:24Z",
             "owner": "mihails-strasuns",
@@ -2422,6 +2835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2052937,
             "language": "D",
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
@@ -2436,6 +2850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20462012,
             "language": "D",
             "last_commit": "2026-01-08T22:07:00Z",
             "owner": "mbierlee",
@@ -2447,7 +2862,7 @@
       "title": "Dependency Injection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2456,6 +2871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24461622,
             "language": "D",
             "last_commit": "2026-08-17T21:38:59Z",
             "owner": "etcimon",
@@ -2470,6 +2886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2691399,
             "language": "C",
             "last_commit": "2025-08-26T11:09:03Z",
             "owner": "D-Programming-Deimos",
@@ -2484,6 +2901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135366960,
             "language": "D",
             "last_commit": "2025-01-01T09:59:07Z",
             "owner": "shove70",
@@ -2504,6 +2922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58442039,
             "language": "D",
             "last_commit": "2024-03-11T11:03:26Z",
             "owner": "huntlabs",
@@ -2518,6 +2937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2586513,
             "language": "D",
             "last_commit": "2026-05-02T20:19:26Z",
             "owner": "d-widget-toolkit",
@@ -2532,6 +2952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84389437,
             "language": "D",
             "last_commit": "2024-01-17T09:42:17Z",
             "owner": "huntlabs",
@@ -2546,6 +2967,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12986313,
             "language": "D",
             "last_commit": "2020-02-04T21:19:51Z",
             "owner": "nomad-software",
@@ -2560,6 +2982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55131849,
             "language": "D",
             "last_commit": "2018-09-12T02:53:31Z",
             "owner": "huntlabs",
@@ -2574,6 +2997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62301006,
             "language": "D",
             "last_commit": "2022-07-22T09:57:30Z",
             "owner": "huntlabs",
@@ -2588,6 +3012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95102625,
             "language": "D",
             "last_commit": "2023-11-15T08:15:53Z",
             "owner": "huntlabs",
@@ -2602,6 +3027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146406965,
             "language": "D",
             "last_commit": "2022-03-12T05:22:40Z",
             "owner": "huntlabs",
@@ -2616,6 +3042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93359313,
             "language": "D",
             "last_commit": "2018-03-22T02:26:40Z",
             "owner": "huntlabs",
@@ -2630,6 +3057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59381257,
             "language": "D",
             "last_commit": "2021-05-28T07:59:33Z",
             "owner": "extrawurst",
@@ -2644,6 +3072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141401513,
             "language": "D",
             "last_commit": "2022-05-17T13:49:58Z",
             "owner": "huntlabs",
@@ -2658,6 +3087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137469996,
             "language": "D",
             "last_commit": "2022-02-21T06:18:34Z",
             "owner": "huntlabs",
@@ -2672,6 +3102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56118431,
             "language": "D",
             "last_commit": "2017-07-21T08:20:50Z",
             "owner": "huntlabs",
@@ -2686,6 +3117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117651958,
             "language": "D",
             "last_commit": "2022-12-26T02:17:25Z",
             "owner": "huntlabs",
@@ -2700,6 +3132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163092090,
             "language": "D",
             "last_commit": "2021-10-29T10:05:04Z",
             "owner": "huntlabs",
@@ -2714,6 +3147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162109630,
             "language": "D",
             "last_commit": "2024-01-18T02:39:18Z",
             "owner": "huntlabs",
@@ -2728,6 +3162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164577950,
             "language": "D",
             "last_commit": "2021-03-17T11:55:59Z",
             "owner": "huntlabs",
@@ -2742,6 +3177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171814978,
             "language": "D",
             "last_commit": "2019-03-11T12:22:33Z",
             "owner": "huntlabs",
@@ -2754,7 +3190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:04.605Z",
+    "last_updated": "2026-08-19T07:21:37.737Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
