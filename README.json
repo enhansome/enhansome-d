@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-19T08:27:47Z",
+            "last_commit": "2026-08-20T00:34:06Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3302
+            "stars": 3300
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-19T01:28:15Z",
+            "last_commit": "2026-08-20T01:27:28Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1363
+            "stars": 1364
           }
         },
         {
@@ -171,7 +171,7 @@
             "archived": false,
             "id": 6470655,
             "language": "D",
-            "last_commit": "2026-08-19T10:42:20Z",
+            "last_commit": "2026-08-19T13:07:13Z",
             "owner": "dlang",
             "repo": "dub",
             "stars": 734
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 29814736,
             "language": "D",
-            "last_commit": "2026-08-17T18:47:58Z",
+            "last_commit": "2026-08-19T23:28:52Z",
             "owner": "etcimon",
             "repo": "memutils",
             "stars": 45
@@ -786,7 +786,7 @@
             "archived": false,
             "id": 23385889,
             "language": "D",
-            "last_commit": "2024-07-04T18:26:13Z",
+            "last_commit": "2026-08-19T23:28:54Z",
             "owner": "etcimon",
             "repo": "libasync",
             "stars": 148
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-07-04T14:36:17Z",
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1213
+            "stars": 1214
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2024-05-21T23:51:26Z",
             "owner": "fazibear",
             "repo": "colorize",
-            "stars": 1283
+            "stars": 1282
           }
         },
         {
@@ -1305,10 +1305,10 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-19T11:17:57Z",
+            "last_commit": "2026-08-20T02:21:55Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12708
+            "stars": 12712
           }
         },
         {
@@ -1515,7 +1515,7 @@
             "last_commit": "2026-07-01T19:01:40Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5712
+            "stars": 5713
           }
         },
         {
@@ -1530,7 +1530,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1199
+            "stars": 1202
           }
         },
         {
@@ -2666,7 +2666,7 @@
             "last_commit": "2022-09-14T17:43:16Z",
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1482
+            "stars": 1481
           }
         },
         {
@@ -2873,7 +2873,7 @@
             "archived": false,
             "id": 24461622,
             "language": "D",
-            "last_commit": "2026-08-17T21:38:59Z",
+            "last_commit": "2026-08-19T23:28:56Z",
             "owner": "etcimon",
             "repo": "botan",
             "stars": 91
@@ -3190,7 +3190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:39.511Z",
+    "last_updated": "2026-08-20T07:24:39.217Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
