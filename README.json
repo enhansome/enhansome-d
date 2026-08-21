@@ -15,7 +15,7 @@
             "last_commit": "2020-12-18T22:24:39Z",
             "owner": "Circular-Studios",
             "repo": "Dash",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-20T00:34:06Z",
+            "last_commit": "2026-08-21T07:07:37Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3300
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-20T01:27:28Z",
+            "last_commit": "2026-08-21T01:19:49Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1364
@@ -366,7 +366,7 @@
             "last_commit": "2025-07-31T23:45:57Z",
             "owner": "dlang-community",
             "repo": "Pegged",
-            "stars": 550
+            "stars": 549
           }
         },
         {
@@ -1305,10 +1305,10 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-20T02:21:55Z",
+            "last_commit": "2026-08-21T04:58:52Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12712
+            "stars": 12716
           }
         },
         {
@@ -1530,7 +1530,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1202
+            "stars": 1203
           }
         },
         {
@@ -1646,7 +1646,7 @@
                 "last_commit": "2026-06-01T13:09:29Z",
                 "owner": "BindBC",
                 "repo": "bindbc-sdl",
-                "stars": 130
+                "stars": 131
               }
             },
             {
@@ -2429,7 +2429,7 @@
             "archived": false,
             "id": 855632,
             "language": "D",
-            "last_commit": "2026-08-19T08:08:21Z",
+            "last_commit": "2026-08-20T18:36:28Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 178
@@ -2534,7 +2534,7 @@
             "last_commit": "2026-07-19T08:04:31Z",
             "owner": "libmir",
             "repo": "dcompute",
-            "stars": 144
+            "stars": 143
           }
         },
         {
@@ -2753,7 +2753,7 @@
             "last_commit": "2023-04-30T01:06:05Z",
             "owner": "dlang-community",
             "repo": "SDLang-D",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -3190,7 +3190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:24:39.217Z",
+    "last_updated": "2026-08-21T07:25:02.238Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
