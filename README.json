@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-21T07:07:37Z",
+            "last_commit": "2026-08-22T06:15:37Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3300
+            "stars": 3301
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-21T01:19:49Z",
+            "last_commit": "2026-08-22T01:26:46Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1364
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-18T07:45:43Z",
             "owner": "atilaneves",
             "repo": "reggae",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         }
       ],
@@ -849,7 +849,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -1056,7 +1056,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-04-05T09:15:27Z",
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -1404,7 +1404,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -2210,7 +2210,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -2285,7 +2285,7 @@
             "last_commit": "2026-08-19T11:49:39Z",
             "owner": "gecko0307",
             "repo": "dagon",
-            "stars": 405
+            "stars": 406
           }
         },
         {
@@ -2387,7 +2387,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -2402,7 +2402,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -2666,7 +2666,7 @@
             "last_commit": "2022-09-14T17:43:16Z",
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1481
+            "stars": 1482
           }
         },
         {
@@ -2738,7 +2738,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -2840,7 +2840,7 @@
             "last_commit": "2026-06-28T14:27:19Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -3190,7 +3190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:25:02.238Z",
+    "last_updated": "2026-08-22T07:10:46.219Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
