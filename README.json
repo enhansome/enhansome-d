@@ -15,7 +15,7 @@
             "last_commit": "2020-12-18T22:24:39Z",
             "owner": "Circular-Studios",
             "repo": "Dash",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-24T06:34:09Z",
+            "last_commit": "2026-08-24T13:35:21Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3301
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-24T01:38:08Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -866,6 +866,36 @@
             "repo": "Cmsed",
             "stars": 18
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Hprose",
+          "description": "A very newbility RPC Library for D, and it support 25+ languages now.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18673942,
+            "language": "D",
+            "last_commit": "2016-11-14T06:59:38Z",
+            "owner": "hprose",
+            "repo": "hprose-d",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSSG",
+          "description": "A static site generator with a different approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91019544,
+            "language": "D",
+            "last_commit": "2023-03-12T06:12:15Z",
+            "owner": "kambrium",
+            "repo": "dssg",
+            "stars": 21
+          }
         }
       ],
       "title": "Web Frameworks"
@@ -1623,7 +1653,7 @@
             "archived": false,
             "id": 730376427,
             "language": "C",
-            "last_commit": "2026-08-18T20:07:16Z",
+            "last_commit": "2026-08-24T08:15:17Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 28
@@ -2275,6 +2305,21 @@
         },
         {
           "node_type": "item",
+          "title": "rengfx",
+          "description": "lightweight, expressive, extensible 2D/3D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282025572,
+            "language": "D",
+            "last_commit": "2024-10-12T20:12:10Z",
+            "owner": "bmchtech",
+            "repo": "rengfx",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Dagon",
           "description": "3D game engine for D. See: https://gecko0307.github.io/dagon/",
           "children": [],
@@ -2647,6 +2692,28 @@
             "repo": "dstats",
             "stars": 26
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bindbc-mecab",
+              "description": "bindbc MeCab binding (Part-of-Speech and Morphological Analyzer for Japanese)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282186629,
+                "language": "D",
+                "last_commit": "2020-07-24T10:15:06Z",
+                "owner": "lempiji",
+                "repo": "bindbc-mecab",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Processing"
         }
       ],
       "title": "Scientific"
@@ -3190,7 +3257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:39:22.562Z",
+    "last_updated": "2026-08-24T14:17:46.199Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
