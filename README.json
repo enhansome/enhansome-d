@@ -84,7 +84,7 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-23T00:24:27Z",
+            "last_commit": "2026-08-24T06:34:09Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3301
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-23T01:40:07Z",
+            "last_commit": "2026-08-24T01:38:08Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 719344381,
             "language": "D",
-            "last_commit": "2026-08-12T02:37:49Z",
+            "last_commit": "2026-08-23T19:30:24Z",
             "owner": "Inochi2D",
             "repo": "numem",
             "stars": 37
@@ -750,7 +750,7 @@
             "archived": false,
             "id": 934549399,
             "language": "D",
-            "last_commit": "2026-08-10T19:29:48Z",
+            "last_commit": "2026-08-23T19:32:23Z",
             "owner": "Inochi2D",
             "repo": "nulib",
             "stars": 15
@@ -1206,7 +1206,7 @@
           "description": "A command-line fuzzy finder.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 255488651,
             "language": "D",
             "last_commit": "2023-08-14T17:27:35Z",
@@ -1305,10 +1305,10 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-21T04:58:52Z",
+            "last_commit": "2026-08-24T07:02:31Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12722
+            "stars": 12725
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 914
+            "stars": 915
           }
         },
         {
@@ -3190,7 +3190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:11:33.934Z",
+    "last_updated": "2026-08-24T07:39:22.562Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
