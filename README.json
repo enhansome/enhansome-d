@@ -1335,7 +1335,7 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-25T04:31:48Z",
+            "last_commit": "2026-08-25T07:16:15Z",
             "owner": "abraunegg",
             "repo": "onedrive",
             "stars": 12729
@@ -3257,7 +3257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:59.368Z",
+    "last_updated": "2026-08-25T07:26:22.742Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
