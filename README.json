@@ -84,7 +84,7 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-24T23:39:16Z",
+            "last_commit": "2026-08-26T02:34:48Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3301
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-25T01:27:32Z",
+            "last_commit": "2026-08-26T01:38:21Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1366
@@ -1197,7 +1197,7 @@
             "last_commit": "2024-05-21T23:51:26Z",
             "owner": "fazibear",
             "repo": "colorize",
-            "stars": 1282
+            "stars": 1283
           }
         },
         {
@@ -1335,10 +1335,10 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-25T07:16:15Z",
+            "last_commit": "2026-08-26T07:09:16Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12729
+            "stars": 12738
           }
         },
         {
@@ -1560,7 +1560,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1205
+            "stars": 1207
           }
         },
         {
@@ -2327,7 +2327,7 @@
             "archived": false,
             "id": 70403001,
             "language": "D",
-            "last_commit": "2026-08-19T11:49:39Z",
+            "last_commit": "2026-08-25T09:10:16Z",
             "owner": "gecko0307",
             "repo": "dagon",
             "stars": 406
@@ -3257,7 +3257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:26:22.742Z",
+    "last_updated": "2026-08-26T07:27:15.289Z",
     "original_repository": "dlang-community/awesome-d",
     "original_repository_id": 21602406,
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
