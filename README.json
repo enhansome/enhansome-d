@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-26T02:34:48Z",
+            "last_commit": "2026-08-27T10:14:58Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3301
+            "stars": 3303
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-26T01:38:21Z",
+            "last_commit": "2026-08-27T10:41:11Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1366
@@ -950,6 +950,21 @@
         },
         {
           "node_type": "item",
+          "title": "painlessjson",
+          "description": "Convert between D types and std.json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22250554,
+            "language": "D",
+            "last_commit": "2019-07-12T07:01:44Z",
+            "owner": "BlackEdder",
+            "repo": "painlessjson",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
           "title": "std.data.json",
           "description": "Phobos candidate for JSON serialization (based on Vibed)",
           "children": [],
@@ -961,21 +976,6 @@
             "owner": "dlang-community",
             "repo": "std_data_json",
             "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "painlessjson",
-          "description": "Convert between D types and std.json.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 22250554,
-            "language": "D",
-            "last_commit": "2019-07-12T07:01:44Z",
-            "owner": "BlackEdder",
-            "repo": "painlessjson",
-            "stars": 25
           }
         },
         {
@@ -1335,10 +1335,10 @@
             "archived": false,
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-26T07:09:16Z",
+            "last_commit": "2026-08-27T07:31:41Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12738
+            "stars": 12744
           }
         },
         {
@@ -1353,7 +1353,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 915
+            "stars": 916
           }
         },
         {
@@ -1545,7 +1545,7 @@
             "last_commit": "2026-07-01T19:01:40Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5714
+            "stars": 5715
           }
         },
         {
@@ -1560,7 +1560,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1207
+            "stars": 1209
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "archived": false,
             "id": 730376427,
             "language": "C",
-            "last_commit": "2026-08-24T08:15:17Z",
+            "last_commit": "2026-08-26T17:16:22Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 28
@@ -2301,21 +2301,6 @@
             "owner": "drug007",
             "repo": "gfm7",
             "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rengfx",
-          "description": "lightweight, expressive, extensible 2D/3D game engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 282025572,
-            "language": "D",
-            "last_commit": "2024-10-12T20:12:10Z",
-            "owner": "bmchtech",
-            "repo": "rengfx",
-            "stars": 88
           }
         },
         {
@@ -3257,9 +3242,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:27:15.289Z",
-    "original_repository": "dlang-community/awesome-d",
-    "original_repository_id": 21602406,
+    "last_updated": "2026-08-27T11:33:00.872Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21602406,
+      "language": "D",
+      "last_commit": "2026-06-28T00:08:29Z",
+      "owner": "dlang-community",
+      "repo": "awesome-d",
+      "stars": 762
+    },
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
     "enhanced_repository_description": null,
