@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-27T10:14:58Z",
+            "last_commit": "2026-08-27T14:55:38Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3303
+            "stars": 3302
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 2174666,
             "language": "D",
-            "last_commit": "2026-08-27T10:41:11Z",
+            "last_commit": "2026-08-27T17:32:36Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1366
@@ -657,7 +657,7 @@
             "last_commit": "2026-08-04T11:19:11Z",
             "owner": "gecko0307",
             "repo": "dlib",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2026-07-04T14:36:17Z",
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1214
+            "stars": 1213
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "last_commit": "2026-08-27T07:31:41Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12744
+            "stars": 12747
           }
         },
         {
@@ -2447,7 +2447,7 @@
             "last_commit": "2026-08-04T11:19:11Z",
             "owner": "gecko0307",
             "repo": "dlib",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -3242,7 +3242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:00.872Z",
+    "last_updated": "2026-08-27T17:51:38.539Z",
     "original_repository_info": {
       "archived": false,
       "id": 21602406,
