@@ -1,6 +1,6 @@
 # Awesome D with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,454 | 🐛 15 | 🌐 Python | 📅 2026-08-25.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,729 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28.
 
@@ -120,7 +120,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Organizations that contribute to D projects.*
 
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash) ⭐ 425 | 🐛 32 | 🌐 D | 📅 2020-12-18, a 3D game engine written in D, and other related libs.
-* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp) ⭐ 245 | 🐛 86 | 🌐 D | 📅 2024-06-11, [autowrap](https://github.com/symmetryinvestments/autowrap) ⭐ 82 | 🐛 51 | 🌐 D | 📅 2026-04-20, [mir-algorithm](https://github.com/libmir/mir-algorithm) ⭐ 179 | 🐛 29 | 🌐 D | 📅 2026-02-04, and various other projects.
+* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp) ⭐ 245 | 🐛 86 | 🌐 D | 📅 2024-06-11, [autowrap](https://github.com/symmetryinvestments/autowrap) ⭐ 82 | 🐛 51 | 🌐 D | 📅 2026-04-20, [mir-algorithm](https://github.com/libmir/mir-algorithm) ⭐ 179 | 🐛 28 | 🌐 D | 📅 2026-02-04, and various other projects.
 * [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet, SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
@@ -183,14 +183,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](https://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub](https://github.com/dlang/dub) ⭐ 734 | 🐛 539 | 🌐 D | 📅 2026-08-19 - Official package and build management system for D.
+* [dub](https://github.com/dlang/dub) ⭐ 735 | 🐛 539 | 🌐 D | 📅 2026-08-19 - Official package and build management system for D.
 
 ## Compilers
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,302 | 🐛 3,821 | 🌐 D | 📅 2026-08-27 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
-* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,366 | 🐛 580 | 🌐 D | 📅 2026-08-27 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,302 | 🐛 3,820 | 🌐 D | 📅 2026-08-28 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,367 | 🐛 581 | 🌐 D | 📅 2026-08-28 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ## Alternative / WIP Compilers
@@ -211,7 +211,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Manage projects and compile software from source code.*
 
-* [dub](https://github.com/dlang/dub) ⭐ 734 | 🐛 539 | 🌐 D | 📅 2026-08-19 - De facto official package and build management system for D. Will be included officially soon.
+* [dub](https://github.com/dlang/dub) ⭐ 735 | 🐛 539 | 🌐 D | 📅 2026-08-19 - De facto official package and build management system for D. Will be included officially soon.
 * [reggae](https://github.com/atilaneves/reggae) ⭐ 191 | 🐛 32 | 🌐 D | 📅 2026-08-18 - meta build system in D
 * [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 67 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
 * [cook2](https://github.com/gecko0307/Cook2) ⚠️ Archived - Fast incremental build tool intended for projects in D
@@ -305,7 +305,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [NuMem](https://github.com/Inochi2D/numem) ⭐ 37 | 🐛 0 | 🌐 D | 📅 2026-08-23 - No-GC memory management utilities for DLang.
 * [Joka](https://github.com/Kapendev/joka) ⭐ 32 | 🐛 0 | 🌐 D | 📅 2026-08-17 - A nogc utility library.
-* [NuLib](https://github.com/Inochi2D/nulib) ⭐ 15 | 🐛 2 | 🌐 D | 📅 2026-08-24 - D "standard" library built ontop of numem.
+* [NuLib](https://github.com/Inochi2D/nulib) ⭐ 15 | 🐛 1 | 🌐 D | 📅 2026-08-28 - D "standard" library built ontop of numem.
 
 ## Web Frameworks
 
@@ -384,7 +384,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,747 | 🐛 25 | 🌐 D | 📅 2026-08-27 - #1 Free OneDrive Client for Linux.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,750 | 🐛 25 | 🌐 D | 📅 2026-08-28 - #1 Free OneDrive Client for Linux.
 * [Literate](https://github.com/zyedidia/Literate) ⭐ 916 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
 * [tshare](https://github.com/trikko/tshare) ⭐ 142 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
 * [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 46 | 🐛 14 | 🌐 D | 📅 2026-08-17 - Soulseek server implementation in D.
@@ -409,7 +409,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## GUI Applications
 
 * [tilix](https://github.com/gnunn1/tilix) ⭐ 5,715 | 🐛 455 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
-* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,209 | 🐛 142 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,211 | 🐛 142 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
 * [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 402 | 🐛 26 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 
 ## Game Bindings
@@ -420,7 +420,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [DSFML](https://github.com/Jebbs/DSFML) ⭐ 97 | 🐛 49 | 🌐 D | 📅 2019-04-28 - A static binding of SFML in a way that makes sense for D.
 * [raylib-d](https://github.com/schveiguy/raylib-d) ⭐ 93 | 🐛 10 | 🌐 D | 📅 2026-04-27 - D bindings for raylib.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5) ⭐ 45 | 🐛 6 | 🌐 D | 📅 2024-10-31 - D binding/wrapper to Allegro 5, a modern game programming library.
-* [sokol-d](https://github.com/floooh/sokol-d) ⭐ 28 | 🐛 3 | 🌐 C | 📅 2026-08-26 - D bindings for the sokol headers.
+* [sokol-d](https://github.com/floooh/sokol-d) ⭐ 28 | 🐛 3 | 🌐 C | 📅 2026-08-28 - D bindings for the sokol headers.
 * [BindBC](https://github.com/BindBC) - Bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader) ⭐ 27 | 🐛 1 | 🌐 D | 📅 2025-01-28.
   * [SDL 2](https://github.com/BindBC/bindbc-sdl) ⭐ 131 | 🐛 2 | 🌐 D | 📅 2026-06-01 - Multimedia library
   * [Nuklear](https://github.com/Timu5/bindbc-nuklear) ⭐ 46 | 🐛 1 | 🌐 D | 📅 2023-09-22 - Immediate mode GUI
@@ -602,4 +602,4 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
