@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free and open 3D game engine written in D.",
+            "homepage": "https://circularstudios.com/Dash",
             "id": 15827539,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2020-12-18T22:24:39Z",
+            "open_issues": 32,
             "owner": "Circular-Studios",
             "repo": "Dash",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "3d",
+              "d",
+              "engine"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -26,12 +35,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Directly include C headers in D source code",
+            "homepage": null,
             "id": 99037063,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2024-06-11T20:04:21Z",
+            "open_issues": 86,
             "owner": "atilaneves",
             "repo": "dpp",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "clang",
+              "cpp",
+              "cpp17",
+              "d",
+              "dlang",
+              "dlanguage",
+              "libclang",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -48,12 +71,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tutorial on the D programming language templates.",
+            "homepage": null,
             "id": 3000819,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-09-21T11:50:40Z",
+            "open_issues": 11,
             "owner": "PhilippeSigaud",
             "repo": "D-templates-tutorial",
-            "stars": 236
+            "stars": 236,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -64,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of D OpenGL Tutorials and D ports of C/C++/WebGL samples.",
+            "homepage": null,
             "id": 29434531,
             "language": "D",
+            "license": null,
             "last_commit": "2014-12-30T17:34:59Z",
+            "open_issues": 0,
             "owner": "drewet",
             "repo": "opengl-tutorials",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -86,12 +119,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dmd D Programming Language compiler",
+            "homepage": "https://dlang.org",
             "id": 1257070,
             "language": "D",
-            "last_commit": "2026-08-28T06:28:33Z",
+            "license": "BSL-1.0",
+            "last_commit": "2026-08-28T23:21:31Z",
+            "open_issues": 3821,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3302
+            "stars": 3302,
+            "topics": [
+              "compiler",
+              "d",
+              "dlang",
+              "dmd",
+              "fast",
+              "hacktoberfest",
+              "language",
+              "native",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -102,12 +150,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LLVM-based D Compiler.",
+            "homepage": "http://wiki.dlang.org/LDC",
             "id": 2174666,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:26:40Z",
+            "open_issues": 581,
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1367
+            "stars": 1367,
+            "topics": [
+              "compiler",
+              "d",
+              "dlang",
+              "ldc",
+              "llvm"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -118,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GNU D Compiler",
+            "homepage": "http://gdcproject.org",
             "id": 3759178,
             "language": "D",
+            "license": null,
             "last_commit": "2018-12-25T19:50:49Z",
+            "open_issues": 12,
             "owner": "D-Programming-GDC",
             "repo": "gdc",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -140,12 +204,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swiss-army knife for D source code",
+            "homepage": null,
             "id": 4096145,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-02-18T14:48:43Z",
+            "open_issues": 130,
             "owner": "dlang-community",
             "repo": "D-Scanner",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "ctags",
+              "dlang",
+              "lint",
+              "linter",
+              "static-analysis",
+              "syntax-checker"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -156,12 +232,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dfmt is a formatter for D source code",
+            "homepage": null,
             "id": 29113713,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-05-30T13:54:25Z",
+            "open_issues": 106,
             "owner": "dlang-community",
             "repo": "dfmt",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "code-formatter",
+              "dlang",
+              "formatter"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -178,12 +263,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package and build management system for D",
+            "homepage": null,
             "id": 6470655,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-08-19T13:07:13Z",
+            "open_issues": 539,
             "owner": "dlang",
             "repo": "dub",
-            "stars": 735
+            "stars": 736,
+            "topics": [
+              "d",
+              "dub",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -194,12 +288,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build system in D, Python, Ruby, Javascript or Lua",
+            "homepage": null,
             "id": 30976075,
             "language": "D",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-18T07:45:43Z",
+            "open_issues": 32,
             "owner": "atilaneves",
             "repo": "reggae",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "build-system",
+              "build-tool",
+              "cmake",
+              "d",
+              "dlang",
+              "dlanguage",
+              "javascript",
+              "lua",
+              "make",
+              "makefile",
+              "makefile-generation",
+              "meta-buildtool",
+              "ninja",
+              "python",
+              "ruby",
+              "scripting-language",
+              "tup"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -210,12 +327,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cmake for D2",
+            "homepage": null,
             "id": 13512659,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2023-06-09T09:57:36Z",
+            "open_issues": 4,
             "owner": "dcarp",
             "repo": "cmake-d",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "build-tool",
+              "cmake",
+              "d",
+              "dlang"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -226,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build automation tool for D",
+            "homepage": null,
             "id": 14263302,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2023-04-30T22:24:17Z",
+            "open_issues": 0,
             "owner": "gecko0307",
             "repo": "cook2",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -242,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a template makefile for add quickly a build sytem for your project",
+            "homepage": null,
             "id": 2954409,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-19T09:37:27Z",
+            "open_issues": 0,
             "owner": "bioinfornatics",
             "repo": "MakefileForD",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -258,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another buildsystem, but in D!",
+            "homepage": null,
             "id": 36097787,
             "language": "D",
+            "license": "MPL-2.0",
             "last_commit": "2016-08-14T07:46:25Z",
+            "open_issues": 2,
             "owner": "Vild",
             "repo": "Wild",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -274,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 32639403,
             "language": "Lua",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-11-16T16:24:13Z",
+            "open_issues": 2,
             "owner": "premake",
             "repo": "premake-dlang",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -290,12 +437,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a highly flexible recipe build system/modern make replacement",
+            "homepage": null,
             "id": 641697997,
             "language": "C",
+            "license": null,
             "last_commit": "2023-05-18T00:52:55Z",
+            "open_issues": 0,
             "owner": "redthing1",
             "repo": "wox",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "build",
+              "build-system",
+              "d",
+              "dlang",
+              "make",
+              "recipe"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -312,12 +471,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The D Completion Daemon is an auto-complete program for the D programming language",
+            "homepage": null,
             "id": 11419535,
             "language": "D",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-10T17:43:02Z",
+            "open_issues": 63,
             "owner": "dlang-community",
             "repo": "DCD",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "autocomplete",
+              "code-completion",
+              "d",
+              "dlang",
+              "intellisense",
+              "symbols"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -328,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual D - Visual Studio extension for the D programming language",
+            "homepage": "http://rainers.github.io/visuald/visuald/StartPage.html",
             "id": 4564528,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-07-26T15:31:17Z",
+            "open_issues": 44,
             "owner": "dlang",
             "repo": "visuald",
-            "stars": 306
+            "stars": 306,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -344,12 +520,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D LSP server (dlang language server protocol server)",
+            "homepage": null,
             "id": 84109846,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-07-19T15:05:19Z",
+            "open_issues": 159,
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "d",
+              "language-server-protocol"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -360,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coordinate D tools to work together for you",
+            "homepage": "http://www.vim.org/scripts/script.php?script_id=5003",
             "id": 22913510,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2020-04-02T09:39:52Z",
+            "open_issues": 10,
             "owner": "idanarye",
             "repo": "vim-dutyl",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -382,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Parsing Expression Grammar (PEG) module, using the D programming language.",
+            "homepage": null,
             "id": 3593205,
             "language": "D",
+            "license": null,
             "last_commit": "2025-07-31T23:45:57Z",
+            "open_issues": 67,
             "owner": "dlang-community",
             "repo": "Pegged",
-            "stars": 549
+            "stars": 549,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -398,12 +592,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for lexing and parsing D source code",
+            "homepage": "https://libdparse.dlang.io",
             "id": 21142714,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-05-10T16:14:14Z",
+            "open_issues": 27,
             "owner": "dlang-community",
             "repo": "libdparse",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "ast",
+              "d",
+              "dlang",
+              "parser",
+              "parsing",
+              "syntax-tree"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -414,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile-Time Parser Generator in D programming language.",
+            "homepage": null,
             "id": 2041242,
             "language": "D",
+            "license": null,
             "last_commit": "2015-05-06T04:43:13Z",
+            "open_issues": 1,
             "owner": "youxkei",
             "repo": "ctpg",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -430,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parser & Resolver & Abstract Completion library for D",
+            "homepage": null,
             "id": 4341082,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-04T19:33:09Z",
+            "open_issues": 20,
             "owner": "aBothe",
             "repo": "D_Parser",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -446,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lexer generator",
+            "homepage": null,
             "id": 5359394,
             "language": "D",
+            "license": null,
             "last_commit": "2014-05-18T14:00:37Z",
+            "open_issues": 1,
             "owner": "MartinNowak",
             "repo": "lexer",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -462,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LALR(1) Parser Generator for the D Programming Language",
+            "homepage": null,
             "id": 8596337,
             "language": "D",
+            "license": null,
             "last_commit": "2017-07-14T04:25:40Z",
+            "open_issues": 0,
             "owner": "pwil3058",
             "repo": "dunnart",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -484,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to install and manage D compilers",
+            "homepage": null,
             "id": 3272778,
             "language": "D",
+            "license": null,
             "last_commit": "2025-05-08T08:04:29Z",
+            "open_issues": 24,
             "owner": "jacob-carlborg",
             "repo": "dvm",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -500,12 +731,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download and manage L(D)C2 compiler.",
+            "homepage": "http://ldcup.dub.pm/",
             "id": 905335988,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T01:12:57Z",
+            "open_issues": 1,
             "owner": "kassane",
             "repo": "ldcup",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "d",
+              "dlang",
+              "ldc2",
+              "ldc2-toolchain",
+              "opendlang",
+              "version-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -522,12 +765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github action for dlang compiler setup",
+            "homepage": null,
             "id": 207611023,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-05T19:23:00Z",
+            "open_issues": 16,
             "owner": "dlang-community",
             "repo": "setup-dlang",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -538,12 +786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions",
+            "homepage": null,
             "id": 284113488,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-05T12:46:28Z",
+            "open_issues": 3,
             "owner": "WebFreak001",
             "repo": "dub-upgrade",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -560,12 +813,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced unit test framework for D",
+            "homepage": null,
             "id": 11226361,
             "language": "D",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-28T17:59:50Z",
+            "open_issues": 4,
             "owner": "atilaneves",
             "repo": "unit-threaded",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "d",
+              "dlang",
+              "dlanguage",
+              "integration-testing",
+              "mock",
+              "mocking",
+              "property-based-testing",
+              "property-testing",
+              "testing",
+              "unit-testing",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -576,12 +846,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent assertion framework for D with expressive syntax and detailed error messages",
+            "homepage": "https://fluentasserts.szabobogdan.com/",
             "id": 85077228,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-06-22T09:42:54Z",
+            "open_issues": 0,
             "owner": "gedaiu",
             "repo": "fluent-asserts",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "assertions",
+              "asserts",
+              "bdd",
+              "bdd-style",
+              "d-language",
+              "dlang",
+              "tdd",
+              "testing",
+              "testing-framework",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -598,12 +884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Higgs JavaScript Virtual Machine",
+            "homepage": null,
             "id": 5534485,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-06-09T14:20:07Z",
+            "open_issues": 17,
             "owner": "higgsjs",
             "repo": "Higgs",
-            "stars": 883
+            "stars": 883,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -614,12 +905,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -636,12 +934,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An operating system written in D",
+            "homepage": "https://powernexos.org/",
             "id": 26831846,
             "language": "D",
+            "license": "MPL-2.0",
             "last_commit": "2019-03-02T00:24:14Z",
+            "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 506
+            "stars": 506,
+            "topics": [
+              "assembly",
+              "dlang",
+              "gas",
+              "kernel",
+              "operating-system",
+              "osdev",
+              "powernex"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -652,12 +963,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "First operating system written in D lang v2",
+            "homepage": null,
             "id": 12386602,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2025-06-16T09:36:09Z",
+            "open_issues": 32,
             "owner": "Rikarin",
             "repo": "Trinix",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -668,12 +984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An exokernel operating system written in Rust",
+            "homepage": null,
             "id": 1124334880,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-30T07:47:16Z",
+            "open_issues": 0,
             "owner": "xomboverlord",
             "repo": "xomb",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -690,12 +1011,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allocators, I/O streams, math, geometry, image and audio processing for D",
+            "homepage": "https://gecko0307.github.io/dlib",
             "id": 11385077,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-08-04T11:19:11Z",
+            "open_issues": 4,
             "owner": "gecko0307",
             "repo": "dlib",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "audio-processing",
+              "computational-geometry",
+              "containers",
+              "dlang",
+              "image-processing",
+              "json-parser",
+              "lexical-analysis",
+              "linear-algebra",
+              "memory-allocation",
+              "networking",
+              "threading",
+              "utility-library",
+              "xml-parser"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -706,12 +1046,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Containers backed by std.experimental.allocator",
+            "homepage": "https://dlang-community.github.io/containers/index.html",
             "id": 18615769,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2023-11-15T12:40:13Z",
+            "open_issues": 14,
             "owner": "dlang-community",
             "repo": "containers",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "array",
+              "containers",
+              "d",
+              "data-structures",
+              "double-linked-list",
+              "fast",
+              "hashmap",
+              "set",
+              "single-linked-list"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -722,12 +1077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overhead allocators, allocator-aware containers and lifetime management for D objects",
+            "homepage": null,
             "id": 29814736,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-08-19T23:28:52Z",
+            "open_issues": 3,
             "owner": "etcimon",
             "repo": "memutils",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -738,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reference counted string implementation for D's build in string construct.",
+            "homepage": null,
             "id": 40979326,
             "language": "D",
+            "license": null,
             "last_commit": "2019-09-12T09:39:11Z",
+            "open_issues": 0,
             "owner": "burner",
             "repo": "std.rcstring",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -760,12 +1125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "No-GC memory managment utilities for DLang",
+            "homepage": null,
             "id": 719344381,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-08-23T19:30:24Z",
+            "open_issues": 0,
             "owner": "Inochi2D",
             "repo": "numem",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -776,12 +1146,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nogc utility library.",
+            "homepage": null,
             "id": 839582107,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:39:42Z",
+            "open_issues": 0,
             "owner": "Kapendev",
             "repo": "joka",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "dlang",
+              "odin-lang"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -792,12 +1170,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alternate standard library for D.",
+            "homepage": null,
             "id": 934549399,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-08-28T02:01:30Z",
+            "open_issues": 1,
             "owner": "Inochi2D",
             "repo": "nulib",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dlang",
+              "stdlib-replacement"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -814,12 +1200,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dlang http client library inspired by python-requests",
+            "homepage": null,
             "id": 56168307,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-05-01T20:12:50Z",
+            "open_issues": 10,
             "owner": "ikod",
             "repo": "dlang-requests",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "d",
+              "dlang",
+              "dlang-requests",
+              "http-client"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -830,12 +1226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform event loop library of asynchronous objects",
+            "homepage": null,
             "id": 23385889,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-08-19T23:28:54Z",
+            "open_issues": 5,
             "owner": "etcimon",
             "repo": "libasync",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -846,12 +1247,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small and ready-to-go http server. Support for websockets included.",
+            "homepage": "https://trikko.github.io/serverino/",
             "id": 486284504,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:46:36Z",
+            "open_issues": 1,
             "owner": "trikko",
             "repo": "serverino",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "d",
+              "dlang",
+              "http",
+              "http-server"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -862,12 +1273,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Extremely lightweight HTTP server for D.",
+            "homepage": null,
             "id": 438768597,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-04-01T22:51:14Z",
+            "open_issues": 5,
             "owner": "andrewlalis",
             "repo": "handy-httpd",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "beginner-friendly",
+              "dlang",
+              "http-server"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -878,12 +1298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP/2 library in D, translated from nghttp2",
+            "homepage": null,
             "id": 31226423,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2023-03-02T19:49:43Z",
+            "open_issues": 2,
             "owner": "etcimon",
             "repo": "libhttp2",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -894,12 +1319,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -910,12 +1342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A component library for Vibe that functions as a CMS.",
+            "homepage": null,
             "id": 15764105,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2015-01-23T10:02:23Z",
+            "open_issues": 0,
             "owner": "rikkimax",
             "repo": "Cmsed",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -926,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hprose for Dlang",
+            "homepage": null,
             "id": 18673942,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2016-11-14T06:59:38Z",
+            "open_issues": 1,
             "owner": "hprose",
             "repo": "hprose-d",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -942,12 +1384,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A static site generator with a different approach",
+            "homepage": null,
             "id": 91019544,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2023-03-12T06:12:15Z",
+            "open_issues": 0,
             "owner": "kambrium",
             "repo": "dssg",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "d",
+              "dlang",
+              "dssg",
+              "markdown",
+              "mustache",
+              "static-site-generator",
+              "toml"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -964,12 +1419,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful binary serialisation library for D",
+            "homepage": null,
             "id": 11619359,
             "language": "D",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-14T11:03:06Z",
+            "open_issues": 5,
             "owner": "atilaneves",
             "repo": "cerealed",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "custom-serialisation",
+              "d",
+              "dlang",
+              "dlanguage",
+              "packets",
+              "serialisation",
+              "unmarshall"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -980,12 +1448,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D Protocol Buffer mixins to create structures at compile time",
+            "homepage": null,
             "id": 8889498,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2020-05-02T23:36:33Z",
+            "open_issues": 26,
             "owner": "msoucy",
             "repo": "dproto",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "d",
+              "dub",
+              "protocol-buffers"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -996,12 +1473,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for D that aims to provide the fastest possible implementation of some every day routines.",
+            "homepage": null,
             "id": 11093654,
             "language": "D",
+            "license": null,
             "last_commit": "2023-03-03T15:00:21Z",
+            "open_issues": 8,
             "owner": "etcimon",
             "repo": "fast",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "dlang"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1012,12 +1496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D library for converting any custom types to and from JSON the painless way.",
+            "homepage": null,
             "id": 22250554,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2019-07-12T07:01:44Z",
+            "open_issues": 6,
             "owner": "BlackEdder",
             "repo": "painlessjson",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1028,12 +1517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phobos candidate JSON implementation.",
+            "homepage": null,
             "id": 23148464,
             "language": "D",
+            "license": null,
             "last_commit": "2025-12-29T16:43:35Z",
+            "open_issues": 15,
             "owner": "dlang-community",
             "repo": "std_data_json",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1044,12 +1538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON library",
+            "homepage": "http://asdf.libmir.org",
             "id": 252686975,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2025-11-06T18:09:55Z",
+            "open_issues": 6,
             "owner": "libmir",
             "repo": "asdf",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1060,12 +1559,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1076,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A serialization library for the D programming language.",
+            "homepage": null,
             "id": 2217276,
             "language": "D",
+            "license": null,
             "last_commit": "2020-03-21T19:06:05Z",
+            "open_issues": 19,
             "owner": "jacob-carlborg",
             "repo": "orange",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1092,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A replacement of Phobos std.xml",
+            "homepage": "https://lodo1995.github.io/experimental.xml",
             "id": 53450498,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2017-07-27T14:24:05Z",
+            "open_issues": 19,
             "owner": "lodo1995",
             "repo": "experimental.xml",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1108,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "XML library for D with DOM compatibility",
+            "homepage": null,
             "id": 532543488,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-01-17T21:49:11Z",
+            "open_issues": 2,
             "owner": "ZILtoid1991",
             "repo": "newxml",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -1130,12 +1651,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official vibe.d development",
+            "homepage": null,
             "id": 4081150,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-07-04T14:36:17Z",
+            "open_issues": 451,
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1213
+            "stars": 1213,
+            "topics": [
+              "async",
+              "concurrency",
+              "d",
+              "dlang",
+              "networking",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1146,12 +1679,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1162,12 +1702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HibernateD is ORM for D language (similar to Hibernate)",
+            "homepage": null,
             "id": 9391449,
             "language": "D",
+            "license": null,
             "last_commit": "2024-12-22T21:33:27Z",
+            "open_issues": 21,
             "owner": "buggins",
             "repo": "hibernated",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1178,12 +1723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native D client driver for MySQL/MariaDB, works with or without Vibe.d",
+            "homepage": "https://github.com/mysql-d/mysql-native",
             "id": 4176168,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2024-01-10T00:06:56Z",
+            "open_issues": 41,
             "owner": "mysql-d",
             "repo": "mysql-native",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1194,12 +1744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DDBC is DB Connector for D language (similar to JDBC)",
+            "homepage": null,
             "id": 9391376,
             "language": "D",
+            "license": null,
             "last_commit": "2025-08-26T16:15:03Z",
+            "open_issues": 15,
             "owner": "buggins",
             "repo": "ddbc",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1210,12 +1765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database access for D2. Currently, only PostgreSQL client.",
+            "homepage": "http://pszturmaj.github.com/ddb",
             "id": 1555865,
             "language": "D",
+            "license": null,
             "last_commit": "2022-07-31T14:04:41Z",
+            "open_issues": 15,
             "owner": "pszturmaj",
             "repo": "ddb",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1226,12 +1786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orm for D with Vibe support.",
+            "homepage": null,
             "id": 15527277,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2016-05-12T10:57:08Z",
+            "open_issues": 0,
             "owner": "rikkimax",
             "repo": "Dvorm",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1242,12 +1807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PocketBase wrapper with serializer/deserializer support",
+            "homepage": null,
             "id": 583335207,
             "language": "D",
+            "license": "LGPL-3.0",
             "last_commit": "2023-06-18T11:35:02Z",
+            "open_issues": 7,
             "owner": "Hax-io",
             "repo": "libpb",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -1264,12 +1834,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.",
+            "homepage": "http://rdoc.info/projects/fazibear/colorize",
             "id": 382449,
             "language": "Ruby",
+            "license": "GPL-2.0",
             "last_commit": "2024-05-21T23:51:26Z",
+            "open_issues": 4,
             "owner": "fazibear",
             "repo": "colorize",
-            "stars": 1283
+            "stars": 1283,
+            "topics": [
+              "ansi-escape-sequences",
+              "gem",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1280,12 +1859,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1296,12 +1882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility library to help you write script-like programs in D",
+            "homepage": null,
             "id": 16724986,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-10T10:47:45Z",
+            "open_issues": 16,
             "owner": "Abscissa",
             "repo": "scriptlike",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1312,12 +1903,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "command-line fuzzy finder",
+            "homepage": null,
             "id": 255488651,
             "language": "D",
+            "license": "GPL-2.0",
             "last_commit": "2023-08-14T17:27:35Z",
+            "open_issues": 0,
             "owner": "fbeline",
             "repo": "luneta",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "bash",
+              "cli",
+              "d",
+              "fuzzyfinder",
+              "unix",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1328,12 +1931,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, powerful commmand line argument parser 🔨",
+            "homepage": null,
             "id": 211294272,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2024-08-21T09:19:36Z",
+            "open_issues": 5,
             "owner": "robik",
             "repo": "commandr",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "argument-parser",
+              "command-line-parser",
+              "dlang",
+              "getopt",
+              "subcommands"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1344,12 +1958,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line and config file parser for DLang",
+            "homepage": null,
             "id": 91346123,
             "language": "D",
+            "license": "LGPL-3.0",
             "last_commit": "2025-11-21T21:50:23Z",
+            "open_issues": 0,
             "owner": "burner",
             "repo": "argsd",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "command-line-parser",
+              "configparser",
+              "configuration-file",
+              "dlang"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1360,12 +1984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A processor for command-line arguments, an alternative to Getopt, written in D",
+            "homepage": null,
             "id": 52986090,
             "language": "D",
+            "license": "ISC",
             "last_commit": "2017-11-10T19:37:33Z",
+            "open_issues": 2,
             "owner": "markuslaker",
             "repo": "Argon",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1376,12 +2005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A D implementation of the expect framework.",
+            "homepage": null,
             "id": 13776184,
             "language": "D",
+            "license": null,
             "last_commit": "2020-12-21T17:20:22Z",
+            "open_issues": 3,
             "owner": "grogancolin",
             "repo": "dexpect",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1392,12 +2026,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plug-and-play colorful VT100 logging for your terminal",
+            "homepage": "https://code.dlang.org/packages/gogga",
             "id": 308275255,
             "language": "D",
+            "license": "LGPL-3.0",
             "last_commit": "2026-01-04T13:18:33Z",
+            "open_issues": 0,
             "owner": "deavmi",
             "repo": "gogga",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "colour",
+              "dlang",
+              "dlog",
+              "logging",
+              "vt100"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -1414,12 +2059,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OneDrive Client for Linux",
+            "homepage": "https://abraunegg.github.io",
             "id": 125155159,
             "language": "D",
-            "last_commit": "2026-08-28T09:56:11Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T03:43:07Z",
+            "open_issues": 24,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12750
+            "stars": 12751,
+            "topics": [
+              "business",
+              "linux",
+              "microsoft",
+              "office-365",
+              "office365",
+              "onedrive",
+              "onedrive-client",
+              "onedrive-for-business",
+              "onedrive-personal",
+              "onedrive-storage",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1430,12 +2092,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A literate programming tool for any language",
+            "homepage": "https://zyedidia.github.io/literate/",
             "id": 38539538,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-10T23:55:32Z",
+            "open_issues": 36,
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 916
+            "stars": 916,
+            "topics": [
+              "literate-programming",
+              "literate-programs"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1446,12 +2116,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest way to share your files on the web, for free",
+            "homepage": "https://tshare.download",
             "id": 700591607,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2023-12-13T14:30:52Z",
+            "open_issues": 0,
             "owner": "trikko",
             "repo": "tshare",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "d",
+              "dlang",
+              "filesharing",
+              "sharing",
+              "transfer-files"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1462,12 +2143,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soulseek server implementation in D",
+            "homepage": null,
             "id": 82344147,
             "language": "D",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T17:58:28Z",
+            "open_issues": 14,
             "owner": "soulfind-dev",
             "repo": "soulfind",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "d",
+              "dlang",
+              "p2p",
+              "portable",
+              "server",
+              "soulseek",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1478,12 +2172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line based todo list manager",
+            "homepage": null,
             "id": 18890948,
             "language": "D",
+            "license": "GPL-3.0",
             "last_commit": "2017-03-22T19:28:24Z",
+            "open_issues": 2,
             "owner": "BlackEdder",
             "repo": "todod",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -1500,12 +2199,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross Platform GUI for D programming language",
+            "homepage": null,
             "id": 17363774,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-04-05T09:15:27Z",
+            "open_issues": 99,
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 866
+            "stars": 866,
+            "topics": [
+              "cross-platform-gui",
+              "d",
+              "dlangui",
+              "linux",
+              "opengl",
+              "sdl",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1516,12 +2228,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1532,12 +2251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GtkD is a D binding and OO wrapper of GTK+ originally created by Antonio Monteiro",
+            "homepage": "http://gtkd.org",
             "id": 3441205,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-01T18:47:07Z",
+            "open_issues": 56,
             "owner": "gtkd-developers",
             "repo": "GtkD",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1548,12 +2272,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI toolkit for the D programming language based on Tcl/Tk",
+            "homepage": null,
             "id": 15747034,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2021-10-15T16:40:59Z",
+            "open_issues": 7,
             "owner": "nomad-software",
             "repo": "tkd",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "d",
+              "gui-toolkit"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1564,12 +2296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GObject Introspection D Package Repository",
+            "homepage": null,
             "id": 923238342,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-06-14T17:20:41Z",
+            "open_issues": 5,
             "owner": "Kymorphia",
             "repo": "gid",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1580,12 +2317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Qml bindings for the D programming language",
+            "homepage": null,
             "id": 31545053,
             "language": "D",
+            "license": "LGPL-3.0",
             "last_commit": "2022-10-12T09:24:40Z",
+            "open_issues": 3,
             "owner": "filcuc",
             "repo": "dqml",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1596,12 +2338,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of Sciter headers for the D language",
+            "homepage": "https://sciter.com",
             "id": 31928984,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2017-06-12T03:17:04Z",
+            "open_issues": 0,
             "owner": "sciter-sdk",
             "repo": "Sciter-Dport",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "dlang",
+              "gui",
+              "htmlayout",
+              "sciter",
+              "tiscript"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1612,12 +2365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny immediate-mode UI library.",
+            "homepage": null,
             "id": 1007216215,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-03-20T11:06:21Z",
+            "open_issues": 0,
             "owner": "Kapendev",
             "repo": "microui-d",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -1634,12 +2392,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiling terminal emulator for Linux using GTK+ 3",
+            "homepage": "https://gnunn1.github.io/tilix-web",
             "id": 48780523,
             "language": "D",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-01T19:01:40Z",
+            "open_issues": 455,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5715
+            "stars": 5715,
+            "topics": [
+              "dlang",
+              "gtk3",
+              "terminal",
+              "terminal-emulators",
+              "vte"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1650,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inochi2D Rigging Application",
+            "homepage": null,
             "id": 314383297,
             "language": "D",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-06-16T20:39:43Z",
+            "open_issues": 142,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1211
+            "stars": 1211,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1666,12 +2440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application that allows streaming with Inochi2D puppets",
+            "homepage": "https://inochi2d.com",
             "id": 385046417,
             "language": "D",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-11-08T18:18:23Z",
+            "open_issues": 26,
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 402
+            "stars": 402,
+            "topics": [
+              "streaming",
+              "vtuber",
+              "vtubing"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -1688,12 +2471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D language bindings for the Godot Engine's GDNative API",
+            "homepage": null,
             "id": 87456107,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2023-09-04T13:02:37Z",
+            "open_issues": 33,
             "owner": "godot-d",
             "repo": "godot-d",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1704,12 +2492,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSFML is a D binding of SFML ",
+            "homepage": null,
             "id": 9001097,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-28T17:31:53Z",
+            "open_issues": 49,
             "owner": "Jebbs",
             "repo": "DSFML",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "d",
+              "dlang",
+              "dsfml",
+              "sfml"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1720,12 +2518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resurrected copy of onroundit's raylib-d",
+            "homepage": null,
             "id": 347123032,
             "language": "D",
+            "license": "Zlib",
             "last_commit": "2026-04-27T12:47:07Z",
+            "open_issues": 10,
             "owner": "schveiguy",
             "repo": "raylib-d",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1736,12 +2539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D binding to the Allegro5 game development library",
+            "homepage": null,
             "id": 1078461,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-31T05:48:28Z",
+            "open_issues": 6,
             "owner": "SiegeLord",
             "repo": "DAllegro5",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1752,12 +2560,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D bindings for the sokol headers (https://github.com/floooh/sokol)",
+            "homepage": "http://sokol-d.dub.pm",
             "id": 730376427,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2026-08-28T16:38:57Z",
+            "open_issues": 3,
             "owner": "floooh",
             "repo": "sokol-d",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "bindings",
+              "cross-platform",
+              "d",
+              "dlang",
+              "emscripten",
+              "sokol",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -1773,12 +2594,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to SDL and the SDL_* libraries, compatible with BetterC, @nogc, and nothrow. (Mirror)",
+                "homepage": "https://git.sleeping.town/BindBC/bindbc-sdl",
                 "id": 124232670,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2026-06-01T13:09:29Z",
+                "open_issues": 2,
                 "owner": "BindBC",
                 "repo": "bindbc-sdl",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "sdl-image",
+                  "sdl-mixer",
+                  "sdl-net",
+                  "sdl-ttf",
+                  "sdl3",
+                  "sdl3-image"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1789,12 +2624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D bindings for nuklear",
+                "homepage": null,
                 "id": 165145836,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2023-09-22T18:03:45Z",
+                "open_issues": 1,
                 "owner": "Timu5",
                 "repo": "bindbc-nuklear",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1805,12 +2645,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic D bindings to OpenGL, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 152732765,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2026-07-31T15:41:23Z",
+                "open_issues": 0,
                 "owner": "BindBC",
                 "repo": "bindbc-opengl",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "opengl",
+                  "opengl-bindings"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1821,12 +2671,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to GLFW, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 140157285,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2026-01-02T10:16:26Z",
+                "open_issues": 0,
                 "owner": "BindBC",
                 "repo": "bindbc-glfw",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "glfw",
+                  "glfw-bindings"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1837,12 +2697,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGPU for D",
+                "homepage": null,
                 "id": 212442980,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2025-12-01T19:03:03Z",
+                "open_issues": 1,
                 "owner": "DLangGamedev",
                 "repo": "bindbc-wgpu",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "3d-graphics",
+                  "dlang",
+                  "rendering",
+                  "webgpu",
+                  "wgpu"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1853,12 +2724,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D binding to c-imgui",
+                "homepage": null,
                 "id": 306948464,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2025-10-22T19:33:39Z",
+                "open_issues": 7,
                 "owner": "Inochi2D",
                 "repo": "i2d-imgui",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "bindbc",
+                  "imgui"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1869,12 +2748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic and static D bindings for bgfx",
+                "homepage": null,
                 "id": 211602751,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2022-12-17T14:51:48Z",
+                "open_issues": 1,
                 "owner": "GoaLitiuM",
                 "repo": "bindbc-bgfx",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1885,12 +2769,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to the FreeType library, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 178420727,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2025-12-14T09:32:11Z",
+                "open_issues": 0,
                 "owner": "BindBC",
                 "repo": "bindbc-freetype",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "freetype",
+                  "freetype-bindings"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1901,12 +2795,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to the C API of Lua, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 216367028,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2024-03-02T18:44:26Z",
+                "open_issues": 2,
                 "owner": "BindBC",
                 "repo": "bindbc-lua",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "lua",
+                  "lua-bindings"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1917,12 +2821,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic and static D binding to the raylib library",
+                "homepage": null,
                 "id": 419875082,
                 "language": "C",
+                "license": "BSL-1.0",
                 "last_commit": "2023-12-24T15:25:37Z",
+                "open_issues": 1,
                 "owner": "o3o",
                 "repo": "bindbc-raylib3",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "binding",
+                  "d",
+                  "dlang",
+                  "raylib"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1933,12 +2847,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to the CSFML library, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 309336050,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2024-11-28T14:22:40Z",
+                "open_issues": 2,
                 "owner": "BindBC",
                 "repo": "bindbc-sfml",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "bindbc",
+                  "csfml",
+                  "dlang",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1949,12 +2873,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to OpenAL, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 160939060,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2024-01-18T08:17:58Z",
+                "open_issues": 1,
                 "owner": "BindBC",
                 "repo": "bindbc-openal",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "openal",
+                  "openal-soft"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1965,12 +2899,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BindBC binding to SoLoud",
+                "homepage": null,
                 "id": 166959861,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2025-04-13T11:32:43Z",
+                "open_issues": 0,
                 "owner": "DLangGamedev",
                 "repo": "bindbc-soloud",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "sound-engine"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1981,12 +2922,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D language binding to Newton Dynamics",
+                "homepage": null,
                 "id": 198807392,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2025-03-29T22:31:59Z",
+                "open_issues": 0,
                 "owner": "DLangGamedev",
                 "repo": "bindbc-newton",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "physics-engine"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -1997,12 +2945,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static & dynamic D bindings to FreeImage, compatible with BetterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 179520798,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2023-07-07T20:52:20Z",
+                "open_issues": 0,
                 "owner": "BindBC",
                 "repo": "bindbc-freeimage",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bindbc",
+                  "dlang",
+                  "freeimage"
+                ]
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2013,12 +2970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static and dynamic bindings to the Blend2D C API for D",
+                "homepage": null,
                 "id": 231122117,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2023-04-05T20:40:04Z",
+                "open_issues": 0,
                 "owner": "kdmult",
                 "repo": "bindbc-blend2d",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2029,12 +2991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KiWi binding for D programming language",
+                "homepage": null,
                 "id": 203799680,
                 "language": "D",
+                "license": null,
                 "last_commit": "2019-10-25T15:58:16Z",
+                "open_issues": 0,
                 "owner": "aferust",
                 "repo": "bindbc-kiwi",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2045,12 +3012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic and static bindings to nanovg, compatible with -betterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 256982277,
                 "language": "D",
+                "license": null,
                 "last_commit": "2020-04-20T11:26:03Z",
+                "open_issues": 0,
                 "owner": "aferust",
                 "repo": "bindbc-nanovg",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2061,12 +3033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A configurable dynamic and static D binding to the HarfBuzz library which is compatible with @nogc, nothrow, and BetterC.",
+                "homepage": null,
                 "id": 204997538,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2024-11-19T16:29:25Z",
+                "open_issues": 0,
                 "owner": "DlangGraphicsWG",
                 "repo": "bindbc-harfbuzz",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2077,12 +3054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurable dynamic and static binding to Facebook's zstandard compression library.",
+                "homepage": null,
                 "id": 163115715,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2019-05-07T17:05:20Z",
+                "open_issues": 0,
                 "owner": "ZILtoid1991",
                 "repo": "bindbc-zstandard",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2093,12 +3075,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D bindings for the JoyShockLibrary",
+                "homepage": null,
                 "id": 276436763,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2020-10-01T12:40:40Z",
+                "open_issues": 0,
                 "owner": "ZILtoid1991",
                 "repo": "bindbc-JSL",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2109,12 +3096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic and static bindings to SDL2_gfx, compatible with -betterC, @nogc, and nothrow.",
+                "homepage": null,
                 "id": 222802900,
                 "language": "D",
+                "license": null,
                 "last_commit": "2019-11-19T22:39:34Z",
+                "open_issues": 0,
                 "owner": "aferust",
                 "repo": "bindbc-sdlgfx",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2125,24 +3117,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 300805021,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2020-10-03T05:42:40Z",
+                "open_issues": 0,
                 "owner": "DarkRiDDeR",
                 "repo": "bindbc-nng",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform, @nogc, nothrow, and BetterC compatible shared library loading API. (Mirror)",
+            "homepage": "https://git.sleeping.town/BindBC/bindbc-loader",
             "id": 124233500,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2025-01-28T13:37:19Z",
+            "open_issues": 1,
             "owner": "BindBC",
             "repo": "bindbc-loader",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "dlang"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2158,12 +3162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to ENet for the D Programming Language.",
+                "homepage": null,
                 "id": 21228553,
                 "language": "D",
+                "license": null,
                 "last_commit": "2020-09-08T12:47:14Z",
+                "open_issues": 2,
                 "owner": "DerelictOrg",
                 "repo": "DerelictENet",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2174,12 +3183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to libpq for the D Programming Language.",
+                "homepage": null,
                 "id": 12804677,
                 "language": "D",
+                "license": null,
                 "last_commit": "2025-09-08T13:05:36Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictPQ",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2190,12 +3204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic bindings to the Open Dynamics Engine physics library for the D Programming Language.",
+                "homepage": null,
                 "id": 16762439,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-06-16T12:24:42Z",
+                "open_issues": 1,
                 "owner": "DerelictOrg",
                 "repo": "DerelictODE",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2206,12 +3225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic bindings to libogg for the D Programming Language.",
+                "homepage": null,
                 "id": 15132201,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-06-04T03:46:35Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictOgg",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2222,12 +3246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to OpenGLES for the D Programming Language.",
+                "homepage": null,
                 "id": 19974014,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-02-12T22:48:33Z",
+                "open_issues": 6,
                 "owner": "DerelictOrg",
                 "repo": "DerelictGLES",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2238,12 +3267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to the PhysicsFS library for the D Programming Language. ",
+                "homepage": null,
                 "id": 12192508,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-09-22T03:17:19Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictPHYSFS",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2254,12 +3288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic bindings to libvorbis for the D Programming Language.",
+                "homepage": null,
                 "id": 15132232,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-08-12T07:59:16Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictVorbis",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2270,12 +3309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to the ALURE library for the D Programming Language.",
+                "homepage": null,
                 "id": 17285051,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-06-04T02:46:03Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictALURE",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2286,12 +3330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to libtheora for the D Programming Language.",
+                "homepage": null,
                 "id": 20255799,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-06-04T03:59:49Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictTheora",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             },
@@ -2302,12 +3351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic binding to the DevIL library for the D Programming Language.",
+                "homepage": null,
                 "id": 15276574,
                 "language": "D",
+                "license": null,
                 "last_commit": "2017-11-15T07:50:14Z",
+                "open_issues": 0,
                 "owner": "DerelictOrg",
                 "repo": "DerelictIL",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             }
@@ -2326,12 +3380,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Games math library for D",
+            "homepage": null,
             "id": 492283001,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-11T14:51:24Z",
+            "open_issues": 0,
             "owner": "Inochi2D",
             "repo": "inmath",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "dlang",
+              "math",
+              "nogc"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2342,12 +3405,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of godot-math to D: vectors, matrices, rectangles, points, AABBs, planes, frustums.",
+            "homepage": "https://docs.godotengine.org/en/stable/tutorials/math/index.html",
             "id": 1097648230,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-10T16:30:24Z",
+            "open_issues": 0,
             "owner": "AuburnSounds",
             "repo": "godot-math",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "d",
+              "dlang",
+              "game-development",
+              "godot-engine",
+              "small-vectors"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2358,12 +3432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtual text mode with 8x8 Unicode font and markup language.",
+            "homepage": null,
             "id": 805790086,
             "language": "D",
+            "license": null,
             "last_commit": "2026-05-04T13:11:57Z",
+            "open_issues": 2,
             "owner": "AuburnSounds",
             "repo": "text-mode",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2374,12 +3453,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2390,12 +3476,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross Platform D-Lang Game Engine with scripting support",
+            "homepage": null,
             "id": 228531733,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-31T16:52:17Z",
+            "open_issues": 5,
             "owner": "MrcSnm",
             "repo": "HipremeEngine",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "android",
+              "crossplatform",
+              "directx-11",
+              "dlang",
+              "game-engine",
+              "gameengine",
+              "hipremeengine",
+              "javascript",
+              "lua",
+              "openal",
+              "opengl",
+              "opengl-es",
+              "opensl-es",
+              "opensource",
+              "uwp",
+              "webassembly",
+              "webgl",
+              "xbox"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2406,12 +3516,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "2D graphics engine written in D",
+            "homepage": null,
             "id": 30218095,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-01-17T21:42:01Z",
+            "open_issues": 1,
             "owner": "ZILtoid1991",
             "repo": "pixelperfectengine",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2422,12 +3537,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A delightfully simple 2D game engine.",
+            "homepage": null,
             "id": 767346331,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:38:12Z",
+            "open_issues": 1,
             "owner": "Kapendev",
             "repo": "parin",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "game-development",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2438,12 +3562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dlang sdl2 opengl wrappers",
+            "homepage": null,
             "id": 248184097,
             "language": "D",
+            "license": "Unlicense",
             "last_commit": "2024-07-27T09:37:19Z",
+            "open_issues": 0,
             "owner": "drug007",
             "repo": "gfm7",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2454,12 +3583,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D game engine for D",
+            "homepage": "https://gecko0307.github.io/dagon/",
             "id": 70403001,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T09:10:16Z",
+            "open_issues": 7,
             "owner": "gecko0307",
             "repo": "dagon",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "dlang",
+              "game-engine",
+              "opengl",
+              "rendering",
+              "sdl2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2470,12 +3612,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin-based client-server voxel game engine written in D language",
+            "homepage": null,
             "id": 21798503,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2022-05-10T16:24:02Z",
+            "open_issues": 3,
             "owner": "MrSmith33",
             "repo": "voxelman",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "d",
+              "dlang",
+              "engine",
+              "game",
+              "game-engine",
+              "launcher",
+              "opengl",
+              "voxel",
+              "voxelman"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2492,12 +3649,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FPS with physics based puzzles",
+            "homepage": "https://gamejolt.com/games/electronvolt/46185",
             "id": 7225339,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-06-29T11:29:08Z",
+            "open_issues": 1,
             "owner": "gecko0307",
             "repo": "electronvolt",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2508,12 +3670,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A backgammon client with multiplayer support",
+            "homepage": null,
             "id": 157265071,
             "language": "D",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-19T11:06:47Z",
+            "open_issues": 2,
             "owner": "jonathanballs",
             "repo": "backgammony",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "ai",
+              "backgammon",
+              "gtk",
+              "linux",
+              "multiplayer",
+              "p2p",
+              "trustless"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2524,12 +3699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3d multiplayer deathmatch space game written in D 2.0",
+            "homepage": null,
             "id": 5736356,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2014-06-11T16:52:45Z",
+            "open_issues": 1,
             "owner": "Ingrater",
             "repo": "Spacecraft",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2540,12 +3720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dtanks",
+            "homepage": null,
             "id": 31157411,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-01-28T22:45:34Z",
+            "open_issues": 0,
             "owner": "kingsleyh",
             "repo": "dtanks",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2562,12 +3747,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2578,12 +3770,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2594,12 +3793,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allocators, I/O streams, math, geometry, image and audio processing for D",
+            "homepage": "https://gecko0307.github.io/dlib",
             "id": 11385077,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-08-04T11:19:11Z",
+            "open_issues": 4,
             "owner": "gecko0307",
             "repo": "dlib",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "audio-processing",
+              "computational-geometry",
+              "containers",
+              "dlang",
+              "image-processing",
+              "json-parser",
+              "lexical-analysis",
+              "linear-algebra",
+              "memory-allocation",
+              "networking",
+              "threading",
+              "utility-library",
+              "xml-parser"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2610,12 +3828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An auxiliary general-purpose D library",
+            "homepage": null,
             "id": 855632,
             "language": "D",
+            "license": null,
             "last_commit": "2026-08-20T18:36:28Z",
+            "open_issues": 13,
             "owner": "CyberShadow",
             "repo": "ae",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2626,12 +3849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial OpenCV binding for D programming language",
+            "homepage": null,
             "id": 179586450,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2021-09-06T12:19:56Z",
+            "open_issues": 1,
             "owner": "aferust",
             "repo": "opencvd",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2648,12 +3876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 99009304,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-02T18:52:43Z",
+            "open_issues": 15,
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1294
+            "stars": 1294,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2664,12 +3897,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow wrapper for D",
+            "homepage": null,
             "id": 260663724,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2021-06-15T14:07:00Z",
+            "open_issues": 0,
             "owner": "ShigekiKarita",
             "repo": "tfd",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "d",
+              "dlang",
+              "mir",
+              "tensorflow",
+              "tfd"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2680,12 +3924,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 247284114,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2023-03-05T17:05:13Z",
+            "open_issues": 0,
             "owner": "lempiji",
             "repo": "bindbc-onnxruntime",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2696,12 +3945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autograd and GPGPU library for dynamic neural networks in D",
+            "homepage": "http://karita.xyz/grain2/grain.html",
             "id": 195398358,
             "language": "D",
+            "license": null,
             "last_commit": "2020-03-14T17:15:05Z",
+            "open_issues": 0,
             "owner": "ShigekiKarita",
             "repo": "grain2",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2718,12 +3972,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DCompute: Native execution of D on GPUs and other Accelerators",
+            "homepage": null,
             "id": 63517055,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-07-19T08:04:31Z",
+            "open_issues": 25,
             "owner": "libmir",
             "repo": "dcompute",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "cuda",
+              "d",
+              "fpga",
+              "gpgpu",
+              "gpu",
+              "ldc",
+              "opencl"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2734,12 +4001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic bindings to the CUDA library for the D Programming Language.",
+            "homepage": null,
             "id": 25292327,
             "language": "D",
+            "license": null,
             "last_commit": "2019-02-22T18:22:43Z",
+            "open_issues": 0,
             "owner": "DerelictOrg",
             "repo": "DerelictCUDA",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2750,12 +4022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic bindings to the OpenCL library for the D Programming Language.",
+            "homepage": null,
             "id": 27719746,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2019-10-30T20:11:43Z",
+            "open_issues": 0,
             "owner": "DerelictOrg",
             "repo": "DerelictCL",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2772,12 +4049,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mir (backports): Sparse tensors, Hoffman",
+            "homepage": "http://mir.libmir.org",
             "id": 37379986,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2022-06-05T10:20:02Z",
+            "open_issues": 0,
             "owner": "libmir",
             "repo": "mir",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "blas",
+              "glas",
+              "llvm",
+              "math",
+              "mir",
+              "mir-glas",
+              "numeric"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2788,12 +4078,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mir (backports): Sparse tensors, Hoffman",
+            "homepage": "http://mir.libmir.org",
             "id": 37379986,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2022-06-05T10:20:02Z",
+            "open_issues": 0,
             "owner": "libmir",
             "repo": "mir",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "blas",
+              "glas",
+              "llvm",
+              "math",
+              "mir",
+              "mir-glas",
+              "numeric"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2804,12 +4107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scientific library for the D programming language",
+            "homepage": null,
             "id": 1287514,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2020-04-30T01:46:03Z",
+            "open_issues": 8,
             "owner": "DlangScience",
             "repo": "scid",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2820,12 +4128,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Random Number Generators",
+            "homepage": "http://mir-random.libmir.org/",
             "id": 74410870,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-10T15:39:48Z",
+            "open_issues": 2,
             "owner": "libmir",
             "repo": "mir-random",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "dub",
+              "mir-random",
+              "phobos",
+              "random",
+              "random-generation",
+              "rng",
+              "tinflex"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2836,12 +4157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A statistics library for D.",
+            "homepage": null,
             "id": 21941091,
             "language": "D",
+            "license": null,
             "last_commit": "2022-12-10T17:22:08Z",
+            "open_issues": 7,
             "owner": "DlangScience",
             "repo": "dstats",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2854,12 +4180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 282186629,
                 "language": "D",
+                "license": null,
                 "last_commit": "2020-07-24T10:15:06Z",
+                "open_issues": 0,
                 "owner": "lempiji",
                 "repo": "bindbc-mecab",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:02.690Z"
             }
@@ -2881,12 +4212,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.",
+            "homepage": "https://ebay.github.io/tsv-utils/",
             "id": 55643245,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2022-09-14T17:43:16Z",
+            "open_issues": 24,
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1482
+            "stars": 1482,
+            "topics": [
+              "cli",
+              "command-line",
+              "csv",
+              "d",
+              "data-mining",
+              "data-science",
+              "delimited-files",
+              "dlang",
+              "reservoir-sampling",
+              "sampling",
+              "shuffle",
+              "statistics",
+              "tabular-data",
+              "tsv",
+              "uniq"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2897,12 +4249,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A markdown parsing and rendering library for D programming language.",
+            "homepage": null,
             "id": 162270939,
             "language": "D",
+            "license": null,
             "last_commit": "2022-04-15T09:48:14Z",
+            "open_issues": 1,
             "owner": "huntlabs",
             "repo": "hunt-markdown",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "dlang",
+              "markdown",
+              "parser",
+              "render"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2919,12 +4281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logging utilities that aimed to be used in highly loaded applications",
+            "homepage": null,
             "id": 18491965,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2017-11-10T01:41:00Z",
+            "open_issues": 2,
             "owner": "NCrashed",
             "repo": "dlogg",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2935,12 +4302,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and modular logging library",
+            "homepage": "https://deavmi.assigned.network/projects/dlog",
             "id": 441127561,
             "language": "D",
+            "license": "LGPL-3.0",
             "last_commit": "2025-03-21T12:07:36Z",
+            "open_issues": 2,
             "owner": "deavmi",
             "repo": "dlog",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dlang",
+              "library",
+              "logging"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2957,12 +4333,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2973,12 +4356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An SDLang (Simple Declarative Language) library for D",
+            "homepage": "http://sdlang.org",
             "id": 8474022,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-30T01:06:05Z",
+            "open_issues": 34,
             "owner": "dlang-community",
             "repo": "SDLang-D",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -2989,12 +4377,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YAML parser and emitter for the D programming language",
+            "homepage": "https://dlang-community.github.io/D-YAML/",
             "id": 2216701,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2026-01-24T17:04:19Z",
+            "open_issues": 21,
             "owner": "dlang-community",
             "repo": "D-YAML",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "dlang",
+              "emitter",
+              "parser",
+              "yaml",
+              "yaml-parser"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3005,12 +4404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a compile time ini file parser and writter generator for D",
+            "homepage": null,
             "id": 20290754,
             "language": "D",
+            "license": "LGPL-3.0",
             "last_commit": "2022-10-19T11:30:42Z",
+            "open_issues": 0,
             "owner": "burner",
             "repo": "inifiled",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -3027,12 +4431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 56943916,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-23T13:37:28Z",
+            "open_issues": 18,
             "owner": "adamdruppe",
             "repo": "adrdox",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3043,12 +4452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PoC blog implementation in D + vibe.d",
+            "homepage": null,
             "id": 36841098,
             "language": "D",
+            "license": "BSL-1.0",
             "last_commit": "2020-11-20T15:12:24Z",
+            "open_issues": 6,
             "owner": "mihails-strasuns",
             "repo": "mood",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -3065,12 +4479,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+            "homepage": "http://arsd-official.dpldocs.info/arsd.html",
             "id": 2052937,
             "language": "D",
+            "license": null,
             "last_commit": "2026-06-28T14:27:19Z",
+            "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "d"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3081,12 +4502,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency injection framework for D with support for autowiring.",
+            "homepage": null,
             "id": 20462012,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2026-01-08T22:07:00Z",
+            "open_issues": 2,
             "owner": "mbierlee",
             "repo": "poodinis",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "d",
+              "dependency-injection",
+              "dlang",
+              "dub",
+              "injection",
+              "ioc",
+              "ioc-container",
+              "poodinis"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -3103,12 +4538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.",
+            "homepage": null,
             "id": 24461622,
             "language": "D",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T23:28:56Z",
+            "open_issues": 0,
             "owner": "etcimon",
             "repo": "botan",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3119,12 +4559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D version of the C headers for openssl",
+            "homepage": null,
             "id": 2691399,
             "language": "C",
+            "license": null,
             "last_commit": "2025-08-26T11:09:03Z",
+            "open_issues": 12,
             "owner": "D-Programming-Deimos",
             "repo": "openssl",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3135,12 +4580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A D Library of encryption, decryption, encode, hash, and message digital signatures.",
+            "homepage": null,
             "id": 135366960,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2025-01-01T09:59:07Z",
+            "open_issues": 1,
             "owner": "shove70",
             "repo": "crypto",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -3157,12 +4607,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Web framework for D Programming Language. Full-stack high-performance.",
+            "homepage": "http://www.huntlabs.net",
             "id": 58442039,
             "language": "D",
+            "license": null,
             "last_commit": "2024-03-11T11:03:26Z",
+            "open_issues": 22,
             "owner": "huntlabs",
             "repo": "hunt-framework",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "dlang",
+              "full-stack",
+              "http2",
+              "microservice",
+              "mvc",
+              "orm",
+              "restful-api",
+              "template-engine",
+              "web-framework",
+              "webservice",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3173,12 +4640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for creating cross-platform GUI applications.",
+            "homepage": null,
             "id": 2586513,
             "language": "D",
+            "license": null,
             "last_commit": "2026-05-02T20:19:26Z",
+            "open_issues": 13,
             "owner": "d-widget-toolkit",
             "repo": "dwt",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3189,12 +4661,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A refined core library for D programming language. The module has concurrency / collections / event / io / logging / text / serialization and more.",
+            "homepage": null,
             "id": 84389437,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-17T09:42:17Z",
+            "open_issues": 15,
             "owner": "huntlabs",
             "repo": "hunt",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "asynchronous",
+              "collection",
+              "concurrency",
+              "dlang",
+              "event-driven",
+              "io",
+              "logging"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3205,12 +4690,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Advanced unit testing toolkit for the D programming language",
+            "homepage": null,
             "id": 12986313,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2020-02-04T21:19:51Z",
+            "open_issues": 3,
             "owner": "nomad-software",
             "repo": "dunit",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "d",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3221,12 +4714,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An asynchronous event-driven network framework( port netty ) written in D.",
+            "homepage": null,
             "id": 55131849,
             "language": "D",
+            "license": null,
             "last_commit": "2018-09-12T02:53:31Z",
+            "open_issues": 3,
             "owner": "huntlabs",
             "repo": "collie",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "asynchronous",
+              "collie",
+              "dlang",
+              "event-driven",
+              "network"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3237,12 +4741,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.",
+            "homepage": "https://www.huntlabs.net",
             "id": 62301006,
             "language": "D",
+            "license": null,
             "last_commit": "2022-07-22T09:57:30Z",
+            "open_issues": 7,
             "owner": "huntlabs",
             "repo": "hunt-entity",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "database",
+              "dlang",
+              "entity",
+              "hibernate",
+              "jpa",
+              "mysql",
+              "orm",
+              "postgresql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3253,12 +4772,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database abstraction layer library using pure D programing language, support PostgreSQL and MySQL.",
+            "homepage": "https://www.huntlabs.net",
             "id": 95102625,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-15T08:15:53Z",
+            "open_issues": 21,
             "owner": "huntlabs",
             "repo": "hunt-database",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "database",
+              "dlang",
+              "mysql",
+              "native",
+              "postgresql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3269,12 +4800,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grpc for D programming language, hunt-http library based.",
+            "homepage": null,
             "id": 146406965,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-12T05:22:40Z",
+            "open_issues": 11,
             "owner": "huntlabs",
             "repo": "grpc-dlang",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "dlang",
+              "grpc",
+              "hunt",
+              "hunt-grpc",
+              "rpc"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3285,12 +4827,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra high performance RPC",
+            "homepage": null,
             "id": 93359313,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-22T02:26:40Z",
+            "open_issues": 0,
             "owner": "huntlabs",
             "repo": "kissrpc",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "data-compression",
+              "epoll",
+              "flatbuffers",
+              "high-preformance",
+              "idl-protocol",
+              "rpc-framework"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3301,12 +4855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic Binding for libui (https://github.com/andlabs/libui) in D",
+            "homepage": null,
             "id": 59381257,
             "language": "D",
+            "license": "MIT",
             "last_commit": "2021-05-28T07:59:33Z",
+            "open_issues": 4,
             "owner": "extrawurst",
             "repo": "DerelictLibui",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3317,12 +4876,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http library for D, support http 1.1 / http 2.0 (http2) / websocket server and client.",
+            "homepage": null,
             "id": 141401513,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-17T13:49:58Z",
+            "open_issues": 4,
             "owner": "huntlabs",
             "repo": "hunt-http",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "http-client",
+              "http-protocol",
+              "http-server",
+              "http2",
+              "hunt",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3333,12 +4904,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).",
+            "homepage": null,
             "id": 137469996,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-21T06:18:34Z",
+            "open_issues": 3,
             "owner": "huntlabs",
             "repo": "hunt-net",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "codec",
+              "socket",
+              "ssl",
+              "tcp",
+              "tls",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3349,12 +4932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D Programming Language implementation of the google flatbuffers library",
+            "homepage": null,
             "id": 56118431,
             "language": "D",
+            "license": null,
             "last_commit": "2017-07-21T08:20:50Z",
+            "open_issues": 1,
             "owner": "huntlabs",
             "repo": "flatbuffers",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3365,12 +4953,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cache library for D. Support memory、redis、memcached backend.",
+            "homepage": "https://www.huntlabs.net",
             "id": 117651958,
             "language": "D",
+            "license": null,
             "last_commit": "2022-12-26T02:17:25Z",
+            "open_issues": 1,
             "owner": "huntlabs",
             "repo": "hunt-cache",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cache",
+              "memcache",
+              "memcached",
+              "memory",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3381,12 +4980,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hunt Console creation easier to create powerful command-line applications.",
+            "homepage": null,
             "id": 163092090,
             "language": "D",
+            "license": null,
             "last_commit": "2021-10-29T10:05:04Z",
+            "open_issues": 1,
             "owner": "huntlabs",
             "repo": "hunt-console",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "command",
+              "command-line",
+              "console",
+              "hunt"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3397,12 +5006,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 162109630,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-18T02:39:18Z",
+            "open_issues": 0,
             "owner": "huntlabs",
             "repo": "hunt-validation",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "validation",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3413,12 +5030,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A time library for D programming language.",
+            "homepage": null,
             "id": 164577950,
             "language": "D",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-17T11:55:59Z",
+            "open_issues": 0,
             "owner": "huntlabs",
             "repo": "hunt-time",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "chrono",
+              "date",
+              "datetime",
+              "time",
+              "timezone"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3429,12 +5057,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Apache V2 gossip protocol implementation for D programming language.",
+            "homepage": null,
             "id": 171814978,
             "language": "D",
+            "license": null,
             "last_commit": "2019-03-11T12:22:33Z",
+            "open_issues": 1,
             "owner": "huntlabs",
             "repo": "hunt-gossip",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "dlang",
+              "gossip",
+              "gossip-protocol"
+            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -3443,15 +5080,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:02.690Z",
+    "last_updated": "2026-08-29T04:40:33.229Z",
     "original_repository_info": {
       "archived": false,
+      "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
+      "homepage": null,
       "id": 21602406,
       "language": "D",
+      "license": null,
       "last_commit": "2026-06-28T00:08:29Z",
+      "open_issues": 3,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 762
+      "stars": 762,
+      "topics": [
+        "dlang"
+      ]
     },
     "original_repository_sha": "508bfd09b260630d896ba6c5e464619d1592e28a",
     "enhanced_repository": "enhansome/enhansome-d",
