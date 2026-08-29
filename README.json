@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-08-28T23:21:31Z",
-            "open_issues": 3821,
+            "last_commit": "2026-08-29T10:06:34Z",
+            "open_issues": 3826,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3302,
@@ -155,7 +155,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T10:26:40Z",
+            "last_commit": "2026-08-29T06:27:25Z",
             "open_issues": 581,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -770,8 +770,8 @@
             "id": 207611023,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2025-10-05T19:23:00Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-29T11:16:10Z",
+            "open_issues": 13,
             "owner": "dlang-community",
             "repo": "setup-dlang",
             "stars": 48,
@@ -2064,11 +2064,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T03:43:07Z",
+            "last_commit": "2026-08-29T06:31:26Z",
             "open_issues": 24,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12751,
+            "stars": 12753,
             "topics": [
               "business",
               "linux",
@@ -2152,7 +2152,7 @@
             "open_issues": 14,
             "owner": "soulfind-dev",
             "repo": "soulfind",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "d",
               "dlang",
@@ -2208,7 +2208,7 @@
             "open_issues": 99,
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "cross-platform-gui",
               "d",
@@ -2428,7 +2428,7 @@
             "open_issues": 142,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1211,
+            "stars": 1212,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:33.229Z",
+    "last_updated": "2026-08-29T12:48:10.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
