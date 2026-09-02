@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-08-31T16:04:42Z",
-            "open_issues": 3817,
+            "last_commit": "2026-09-02T10:59:56Z",
+            "open_issues": 3811,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3305,
@@ -155,8 +155,8 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T04:22:49Z",
-            "open_issues": 579,
+            "last_commit": "2026-09-02T03:45:50Z",
+            "open_issues": 578,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1368,
@@ -476,7 +476,7 @@
             "id": 11419535,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T11:30:16Z",
+            "last_commit": "2026-09-02T09:43:20Z",
             "open_issues": 63,
             "owner": "dlang-community",
             "repo": "DCD",
@@ -1307,7 +1307,7 @@
             "open_issues": 2,
             "owner": "etcimon",
             "repo": "libhttp2",
-            "stars": 36,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -1843,7 +1843,7 @@
             "open_issues": 4,
             "owner": "fazibear",
             "repo": "colorize",
-            "stars": 1283,
+            "stars": 1284,
             "topics": [
               "ansi-escape-sequences",
               "gem",
@@ -2064,11 +2064,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T07:21:38Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-02T05:41:28Z",
+            "open_issues": 21,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12760,
+            "stars": 12759,
             "topics": [
               "business",
               "linux",
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:56:20.018Z",
+    "last_updated": "2026-09-02T11:37:14.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
