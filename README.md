@@ -1,6 +1,6 @@
 # Awesome D with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 317,929 | 🐛 16 | 🌐 Python | 📅 2026-09-01.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 317,904 | 🐛 18 | 🌐 Python | 📅 2026-09-01.
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28.
 
@@ -119,7 +119,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Organizations that contribute to D projects.*
 
-* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash) ⭐ 425 | 🐛 32 | 🌐 D | 📅 2020-12-18, a 3D game engine written in D, and other related libs.
+* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash) ⭐ 426 | 🐛 32 | 🌐 D | 📅 2020-12-18, a 3D game engine written in D, and other related libs.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp) ⭐ 245 | 🐛 86 | 🌐 D | 📅 2024-06-11, [autowrap](https://github.com/symmetryinvestments/autowrap) ⭐ 82 | 🐛 51 | 🌐 D | 📅 2026-04-20, [mir-algorithm](https://github.com/libmir/mir-algorithm) ⭐ 179 | 🐛 28 | 🌐 D | 📅 2026-02-04, and various other projects.
 * [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
@@ -189,8 +189,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,305 | 🐛 3,811 | 🌐 D | 📅 2026-09-02 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
-* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,368 | 🐛 578 | 🌐 D | 📅 2026-09-02 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,306 | 🐛 3,812 | 🌐 D | 📅 2026-09-03 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,368 | 🐛 579 | 🌐 D | 📅 2026-09-03 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ## Alternative / WIP Compilers
@@ -227,7 +227,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Integrated Development Environment.*
 
-* [DCD](https://github.com/dlang-community/DCD) ⭐ 362 | 🐛 63 | 🌐 D | 📅 2026-09-02 - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support) ⭐ 362 | 🐛 63 | 🌐 D | 📅 2026-09-02.
+* [DCD](https://github.com/dlang-community/DCD) ⭐ 362 | 🐛 64 | 🌐 D | 📅 2026-09-02 - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support) ⭐ 362 | 🐛 64 | 🌐 D | 📅 2026-09-02.
 * [Visual D](https://github.com/dlang/visuald) ⭐ 307 | 🐛 44 | 🌐 D | 📅 2026-08-31 - Visual Studio extension for the D programming language.
 * [serve-d](https://github.com/Pure-D/serve-d) ⭐ 261 | 🐛 155 | 🌐 D | 📅 2026-08-29 - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 * [Dutyl](https://github.com/idanarye/vim-dutyl) ⭐ 79 | 🐛 10 | 🌐 Vim script | 📅 2020-04-02 - Vim plugin that integrates various D development tools
@@ -240,7 +240,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [Pegged](https://github.com/dlang-community/Pegged) ⭐ 549 | 🐛 67 | 🌐 D | 📅 2025-07-31 - A Parsing Expression Grammar (PEG) module written in D.
 * [libdparse](https://github.com/dlang-community/libdparse) ⭐ 125 | 🐛 27 | 🌐 D | 📅 2026-05-10 - A D language lexer and parser, (possibly) future standard D parser/lexer.
-* [ctpg](https://github.com/youxkei/ctpg) ⭐ 45 | 🐛 0 | 🌐 D | 📅 2015-05-06 - Compile-Time Parser (with converter) Generator written in D.
+* [ctpg](https://github.com/youxkei/ctpg) ⭐ 45 | 🐛 1 | 🌐 D | 📅 2015-05-06 - Compile-Time Parser (with converter) Generator written in D.
 * [Mono-D's DParser](https://github.com/aBothe/D_Parser) ⭐ 30 | 🐛 20 | 🌐 C# | 📅 2020-06-04 - A D parser written in C# and used in Mono-D.
 * [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) ⭐ 14 | 🐛 1 | 🌐 D | 📅 2014-05-18 - A lexer generator.
 * [dunnart](https://github.com/pwil3058/dunnart) ⭐ 14 | 🐛 0 | 🌐 D | 📅 2017-07-14 - LALR(1) Parser Generator written in D.
@@ -384,7 +384,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,759 | 🐛 21 | 🌐 D | 📅 2026-09-02 - #1 Free OneDrive Client for Linux.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,767 | 🐛 21 | 🌐 D | 📅 2026-09-03 - #1 Free OneDrive Client for Linux.
 * [Literate](https://github.com/zyedidia/Literate) ⭐ 916 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
 * [tshare](https://github.com/trikko/tshare) ⭐ 141 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
 * [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 47 | 🐛 14 | 🌐 D | 📅 2026-08-17 - Soulseek server implementation in D.
@@ -408,8 +408,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## GUI Applications
 
-* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,715 | 🐛 456 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
-* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,213 | 🐛 143 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
+* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,717 | 🐛 456 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,214 | 🐛 143 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
 * [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 402 | 🐛 26 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 
 ## Game Bindings
@@ -602,4 +602,4 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
