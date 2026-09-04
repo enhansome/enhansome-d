@@ -1,8 +1,8 @@
 # Awesome D with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 317,904 | 🐛 18 | 🌐 Python | 📅 2026-09-01.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 318,152 | 🐛 16 | 🌐 Python | 📅 2026-09-01.
 
-Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28.
+Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 763 | 🐛 3 | 🌐 D | 📅 2026-06-28 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 763 | 🐛 3 | 🌐 D | 📅 2026-06-28.
 
 ## Contents
 
@@ -183,13 +183,13 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](https://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 539 | 🌐 D | 📅 2026-08-19 - Official package and build management system for D.
+* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 541 | 🌐 D | 📅 2026-08-19 - Official package and build management system for D.
 
 ## Compilers
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,306 | 🐛 3,812 | 🌐 D | 📅 2026-09-03 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,307 | 🐛 3,810 | 🌐 D | 📅 2026-09-03 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,368 | 🐛 579 | 🌐 D | 📅 2026-09-03 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
@@ -211,8 +211,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Manage projects and compile software from source code.*
 
-* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 539 | 🌐 D | 📅 2026-08-19 - De facto official package and build management system for D. Will be included officially soon.
-* [reggae](https://github.com/atilaneves/reggae) ⭐ 191 | 🐛 32 | 🌐 D | 📅 2026-08-18 - meta build system in D
+* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 541 | 🌐 D | 📅 2026-08-19 - De facto official package and build management system for D. Will be included officially soon.
+* [reggae](https://github.com/atilaneves/reggae) ⭐ 191 | 🐛 33 | 🌐 D | 📅 2026-09-04 - meta build system in D
 * [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 67 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
 * [cook2](https://github.com/gecko0307/Cook2) ⚠️ Archived - Fast incremental build tool intended for projects in D
 * [Makefile](https://github.com/bioinfornatics/MakefileForD) ⭐ 20 | 🐛 0 | 🌐 CSS | 📅 2016-04-19 - Makefile template for D projects
@@ -227,9 +227,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Integrated Development Environment.*
 
-* [DCD](https://github.com/dlang-community/DCD) ⭐ 362 | 🐛 64 | 🌐 D | 📅 2026-09-02 - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support) ⭐ 362 | 🐛 64 | 🌐 D | 📅 2026-09-02.
+* [DCD](https://github.com/dlang-community/DCD) ⭐ 362 | 🐛 63 | 🌐 D | 📅 2026-09-04 - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support) ⭐ 362 | 🐛 63 | 🌐 D | 📅 2026-09-04.
 * [Visual D](https://github.com/dlang/visuald) ⭐ 307 | 🐛 44 | 🌐 D | 📅 2026-08-31 - Visual Studio extension for the D programming language.
-* [serve-d](https://github.com/Pure-D/serve-d) ⭐ 261 | 🐛 155 | 🌐 D | 📅 2026-08-29 - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
+* [serve-d](https://github.com/Pure-D/serve-d) ⭐ 262 | 🐛 155 | 🌐 D | 📅 2026-08-29 - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 * [Dutyl](https://github.com/idanarye/vim-dutyl) ⭐ 79 | 🐛 10 | 🌐 Vim script | 📅 2020-04-02 - Vim plugin that integrates various D development tools
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
@@ -359,7 +359,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Clients and bindings to C clients for relational and nosql databases.*
 
-* [vibe.d](https://github.com/vibe-d/vibe.d) ⭐ 1,213 | 🐛 451 | 🌐 D | 📅 2026-07-04 - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
+* [vibe.d](https://github.com/vibe-d/vibe.d) ⭐ 1,214 | 🐛 451 | 🌐 D | 📅 2026-07-04 - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
 * [arsd](https://github.com/adamdruppe/arsd) ⭐ 563 | 🐛 53 | 🌐 D | 📅 2026-06-28 - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [hibernated](https://github.com/buggins/hibernated) ⭐ 84 | 🐛 21 | 🌐 D | 📅 2024-12-22 - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 * [mysql-native](https://github.com/mysql-d/mysql-native) ⭐ 80 | 🐛 41 | 🌐 D | 📅 2024-01-10 - A MySQL client implemented in native D.
@@ -384,10 +384,10 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,767 | 🐛 21 | 🌐 D | 📅 2026-09-03 - #1 Free OneDrive Client for Linux.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,771 | 🐛 22 | 🌐 D | 📅 2026-09-04 - #1 Free OneDrive Client for Linux.
 * [Literate](https://github.com/zyedidia/Literate) ⭐ 916 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
-* [tshare](https://github.com/trikko/tshare) ⭐ 141 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
-* [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 47 | 🐛 14 | 🌐 D | 📅 2026-08-17 - Soulseek server implementation in D.
+* [tshare](https://github.com/trikko/tshare) ⭐ 142 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
+* [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 47 | 🐛 15 | 🌐 D | 📅 2026-09-04 - Soulseek server implementation in D.
 * [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,349 | 🐛 154 | 🌐 C | 📅 2026-05-02.
 
 ## GUI Libraries
@@ -409,7 +409,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## GUI Applications
 
 * [tilix](https://github.com/gnunn1/tilix) ⭐ 5,717 | 🐛 456 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
-* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,214 | 🐛 143 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,215 | 🐛 143 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
 * [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 402 | 🐛 26 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 
 ## Game Bindings
@@ -424,7 +424,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [BindBC](https://github.com/BindBC) - Bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader) ⭐ 27 | 🐛 1 | 🌐 D | 📅 2025-01-28.
   * [SDL 2](https://github.com/BindBC/bindbc-sdl) ⭐ 131 | 🐛 2 | 🌐 D | 📅 2026-06-01 - Multimedia library
   * [Nuklear](https://github.com/Timu5/bindbc-nuklear) ⭐ 46 | 🐛 1 | 🌐 D | 📅 2023-09-22 - Immediate mode GUI
-  * [OpenGL](https://github.com/BindBC/bindbc-opengl) ⭐ 42 | 🐛 0 | 🌐 D | 📅 2026-07-31 - Graphics API
+  * [OpenGL](https://github.com/BindBC/bindbc-opengl) ⭐ 43 | 🐛 0 | 🌐 D | 📅 2026-07-31 - Graphics API
   * [GLFW 3](https://github.com/BindBC/bindbc-glfw) ⭐ 42 | 🐛 0 | 🌐 D | 📅 2026-01-02 - Window/Input library
   * [WebGPU](https://github.com/DLangGamedev/bindbc-wgpu) ⭐ 33 | 🐛 1 | 🌐 C++ | 📅 2025-12-01 - Modern GPU API
   * [Imgui](https://github.com/Inochi2D/i2d-imgui) ⭐ 25 | 🐛 7 | 🌐 D | 📅 2025-10-22 - Immediate mode GUI
@@ -479,7 +479,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Libraries for 3D-related projects.*
 
-* [Dagon](https://github.com/gecko0307/dagon) ⭐ 408 | 🐛 7 | 🌐 D | 📅 2026-08-25 - 3D game engine for D. See: <https://gecko0307.github.io/dagon/>
+* [Dagon](https://github.com/gecko0307/dagon) ⭐ 409 | 🐛 7 | 🌐 D | 📅 2026-09-03 - 3D game engine for D. See: <https://gecko0307.github.io/dagon/>
 * [Voxelman](https://github.com/MrSmith33/voxelman) ⭐ 129 | 🐛 3 | 🌐 D | 📅 2022-05-10 - Plugin-based client-server voxel game engine written in D language.
 
 ## Games
@@ -510,7 +510,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Machine Learning
 
-* [vectorflow](https://github.com/Netflix/vectorflow) ⭐ 1,294 | 🐛 15 | 🌐 D | 📅 2024-05-02 - Nexflix's opensource deep learning framework.
+* [vectorflow](https://github.com/Netflix/vectorflow) ⭐ 1,295 | 🐛 15 | 🌐 D | 📅 2024-05-02 - Nexflix's opensource deep learning framework.
 * [tfd](https://github.com/ShigekiKarita/tfd) ⭐ 33 | 🐛 0 | 🌐 D | 📅 2021-06-15 - Tensorflow wrapper for D
 * [bindbc-onnxruntime](https://github.com/lempiji/bindbc-onnxruntime) ⭐ 11 | 🐛 0 | 🌐 D | 📅 2023-03-05 - bindbc bindings to Microsoft's cross-platform, high performance ML inferencing and training accelerator
 * [grain2](https://github.com/ShigekiKarita/grain2) ⭐ 8 | 🐛 0 | 🌐 D | 📅 2020-03-14 - Autograd and GPGPU library for dynamic neural networks in D
@@ -602,4 +602,4 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
