@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "Circular-Studios",
             "repo": "Dash",
-            "stars": 427,
+            "stars": 426,
             "topics": [
               "3d",
               "d",
@@ -80,7 +80,7 @@
             "open_issues": 11,
             "owner": "PhilippeSigaud",
             "repo": "D-templates-tutorial",
-            "stars": 236,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-07T12:28:45Z",
-            "open_issues": 3802,
+            "last_commit": "2026-09-08T05:11:39Z",
+            "open_issues": 3806,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3307,
+            "stars": 3306,
             "topics": [
               "compiler",
               "d",
@@ -155,7 +155,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T12:32:02Z",
+            "last_commit": "2026-09-08T03:51:55Z",
             "open_issues": 580,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -297,7 +297,7 @@
             "open_issues": 32,
             "owner": "atilaneves",
             "repo": "reggae",
-            "stars": 191,
+            "stars": 190,
             "topics": [
               "build-system",
               "build-tool",
@@ -476,8 +476,8 @@
             "id": 11419535,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T12:09:15Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-07T17:28:25Z",
+            "open_issues": 60,
             "owner": "dlang-community",
             "repo": "DCD",
             "stars": 362,
@@ -508,7 +508,7 @@
             "open_issues": 44,
             "owner": "dlang",
             "repo": "visuald",
-            "stars": 309,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -529,7 +529,7 @@
             "open_issues": 155,
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 263,
+            "stars": 262,
             "topics": [
               "d",
               "language-server-protocol"
@@ -553,7 +553,7 @@
             "open_issues": 10,
             "owner": "idanarye",
             "repo": "vim-dutyl",
-            "stars": 79,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -719,7 +719,7 @@
             "open_issues": 24,
             "owner": "jacob-carlborg",
             "repo": "dvm",
-            "stars": 59,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -893,7 +893,7 @@
             "open_issues": 17,
             "owner": "higgsjs",
             "repo": "Higgs",
-            "stars": 883,
+            "stars": 882,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -943,7 +943,7 @@
             "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 506,
+            "stars": 505,
             "topics": [
               "assembly",
               "dlang",
@@ -972,7 +972,7 @@
             "open_issues": 32,
             "owner": "Rikarin",
             "repo": "Trinix",
-            "stars": 110,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -1016,7 +1016,7 @@
             "id": 11385077,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-07T12:56:24Z",
+            "last_commit": "2026-09-07T21:45:00Z",
             "open_issues": 4,
             "owner": "gecko0307",
             "repo": "dlib",
@@ -1612,7 +1612,7 @@
             "open_issues": 19,
             "owner": "lodo1995",
             "repo": "experimental.xml",
-            "stars": 20,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -1660,7 +1660,7 @@
             "open_issues": 451,
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "async",
               "concurrency",
@@ -1711,7 +1711,7 @@
             "open_issues": 21,
             "owner": "buggins",
             "repo": "hibernated",
-            "stars": 84,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -1774,7 +1774,7 @@
             "open_issues": 15,
             "owner": "pszturmaj",
             "repo": "ddb",
-            "stars": 38,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2064,11 +2064,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T09:21:57Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-08T03:00:16Z",
+            "open_issues": 17,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12779,
+            "stars": 12782,
             "topics": [
               "business",
               "linux",
@@ -2101,7 +2101,7 @@
             "open_issues": 36,
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 918,
+            "stars": 917,
             "topics": [
               "literate-programming",
               "literate-programs"
@@ -2208,7 +2208,7 @@
             "open_issues": 100,
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "cross-platform-gui",
               "d",
@@ -2281,7 +2281,7 @@
             "open_issues": 7,
             "owner": "nomad-software",
             "repo": "tkd",
-            "stars": 118,
+            "stars": 117,
             "topics": [
               "d",
               "gui-toolkit"
@@ -2401,7 +2401,7 @@
             "open_issues": 457,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5718,
+            "stars": 5717,
             "topics": [
               "dlang",
               "gtk3",
@@ -3798,7 +3798,7 @@
             "id": 11385077,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-07T12:56:24Z",
+            "last_commit": "2026-09-07T21:45:00Z",
             "open_issues": 4,
             "owner": "gecko0307",
             "repo": "dlib",
@@ -3837,7 +3837,7 @@
             "open_issues": 13,
             "owner": "CyberShadow",
             "repo": "ae",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:56:54.583Z",
+    "last_updated": "2026-09-08T11:38:45.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5092,7 +5092,7 @@
       "open_issues": 3,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 763,
+      "stars": 762,
       "topics": [
         "dlang"
       ]
