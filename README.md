@@ -1,8 +1,8 @@
 # Awesome D with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 319,666 | 🐛 18 | 🌐 Python | 📅 2026-09-01.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 319,908 | 🐛 21 | 🌐 Python | 📅 2026-09-01.
 
-Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-09-08 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-09-08.
+Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-09-10 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-09-10.
 
 ## Contents
 
@@ -183,14 +183,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](https://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 538 | 🌐 D | 📅 2026-09-07 - Official package and build management system for D.
+* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 539 | 🌐 D | 📅 2026-09-07 - Official package and build management system for D.
 
 ## Compilers
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,307 | 🐛 3,795 | 🌐 D | 📅 2026-09-10 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
-* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,371 | 🐛 581 | 🌐 D | 📅 2026-09-10 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,307 | 🐛 3,794 | 🌐 D | 📅 2026-09-11 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,371 | 🐛 583 | 🌐 D | 📅 2026-09-11 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ## Alternative / WIP Compilers
@@ -211,7 +211,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Manage projects and compile software from source code.*
 
-* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 538 | 🌐 D | 📅 2026-09-07 - De facto official package and build management system for D. Will be included officially soon.
+* [dub](https://github.com/dlang/dub) ⭐ 736 | 🐛 539 | 🌐 D | 📅 2026-09-07 - De facto official package and build management system for D. Will be included officially soon.
 * [reggae](https://github.com/atilaneves/reggae) ⭐ 190 | 🐛 32 | 🌐 D | 📅 2026-09-04 - meta build system in D
 * [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 67 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
 * [cook2](https://github.com/gecko0307/Cook2) ⚠️ Archived - Fast incremental build tool intended for projects in D
@@ -280,14 +280,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) ⭐ 505 | 🐛 14 | 🌐 D | 📅 2019-03-02 - A kernel written in D
 * [Trinix](https://github.com/Rikarin/Trinix) ⚠️ Archived - Hybrid operating system for x64 PC written in D
-* [XOmB](https://github.com/xomboverlord/xomb) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-12-30 - An exokernel operating system written in D
+* [XOmB](https://github.com/xomboverlord/xomb) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-12-30 - An exokernel operating system written in D
 * [SerpentOS](https://gitlab.com/serpent-os) - Snek factory
 
 ## Bare Metal / Kernel Development
 
 * [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
 * [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
-* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-12-30.
+* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-12-30.
 * [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ## General Containers
@@ -313,7 +313,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [dlang-requests](https://github.com/ikod/dlang-requests) ⭐ 159 | 🐛 10 | 🌐 D | 📅 2026-05-01 - HTTP client library inspired by python-requests
 * [libasync](https://github.com/etcimon/libasync) ⭐ 148 | 🐛 5 | 🌐 D | 📅 2026-08-19 - Cross-platform event loop library of asynchronous objects
-* [serverino](https://github.com/trikko/serverino) ⭐ 79 | 🐛 0 | 🌐 D | 📅 2026-09-09 - Small and ready-to-go http server, in D
+* [serverino](https://github.com/trikko/serverino) ⭐ 80 | 🐛 0 | 🌐 D | 📅 2026-09-09 - Small and ready-to-go http server, in D
 * [Handy-Httpd](https://github.com/andrewlalis/handy-httpd) ⚠️ Archived - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 * [libhttp2](https://github.com/etcimon/libhttp2) ⭐ 35 | 🐛 2 | 🌐 D | 📅 2023-03-02 - HTTP/2 library in D, translated from nghttp2
 
@@ -384,11 +384,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,796 | 🐛 16 | 🌐 D | 📅 2026-09-10 - #1 Free OneDrive Client for Linux.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,800 | 🐛 17 | 🌐 D | 📅 2026-09-11 - #1 Free OneDrive Client for Linux.
 * [Literate](https://github.com/zyedidia/Literate) ⭐ 918 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
 * [tshare](https://github.com/trikko/tshare) ⭐ 142 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
 * [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 47 | 🐛 14 | 🌐 D | 📅 2026-09-06 - Soulseek server implementation in D.
-* [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,350 | 🐛 154 | 🌐 C | 📅 2026-05-02.
+* [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,352 | 🐛 154 | 🌐 C | 📅 2026-05-02.
 
 ## GUI Libraries
 
@@ -397,7 +397,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [DLangUI](https://github.com/buggins/dlangui) ⭐ 866 | 🐛 100 | 🌐 D | 📅 2026-04-05 - Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide) ⭐ 492 | 🐛 127 | 🌐 D | 📅 2024-03-12.
 * [minigui](https://arsd-official.dpldocs.info/arsd.minigui.html) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components. It's part of the [arsd libraries](https://github.com/adamdruppe/arsd/blob/master/minigui.d) ⭐ 565 | 🐛 53 | 🌐 D | 📅 2026-06-28.
 * [GtkD](https://github.com/gtkd-developers/GtkD) ⭐ 327 | 🐛 56 | 🌐 D | 📅 2025-11-01 - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-* [tkD](https://github.com/nomad-software/tkd) ⭐ 117 | 🐛 8 | 🌐 D | 📅 2021-10-15 - GUI toolkit for the D programming language based on Tcl/Tk.
+* [tkD](https://github.com/nomad-software/tkd) ⚠️ Archived - GUI toolkit for the D programming language based on Tcl/Tk.
 * [giD](https://github.com/Kymorphia/gid) ⭐ 43 | 🐛 5 | 🌐 D | 📅 2026-06-14 - GObject Introspection D Package Repository.
 * [dqml](https://github.com/filcuc/dqml) ⭐ 42 | 🐛 3 | 🌐 D | 📅 2022-10-12 - Qt Qml bindings for the D programming language.
 * [Sciter-Dport](https://github.com/sciter-sdk/Sciter-Dport) ⭐ 33 | 🐛 0 | 🌐 D | 📅 2017-06-12 - D bindings for the [Sciter](https://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
@@ -412,6 +412,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,217 | 🐛 143 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
 * [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 404 | 🐛 26 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 * [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
+* [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
 
 ## Game Bindings
 
@@ -471,7 +472,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [PixmapPresenter](https://github.com/adamdruppe/arsd/blob/master/pixmappresenter.d) ⭐ 565 | 🐛 53 | 🌐 D | 📅 2026-06-28 - High-level display library for blitting fully-rendered frames to the screen (→ software-rendering, retro graphics).
 * [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) ⭐ 144 | 🐛 5 | 🌐 D | 📅 2026-09-09 - Cross Platform D-Lang Game Engine with scripting support.
 * [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) ⚠️ Archived - 2D graphics engine written in D.
-* [Parin](https://github.com/Kapendev/parin) ⭐ 90 | 🐛 2 | 🌐 D | 📅 2026-09-08 - A delightfully simple 2D game engine.
+* [Parin](https://github.com/Kapendev/parin) ⭐ 90 | 🐛 2 | 🌐 D | 📅 2026-09-10 - A delightfully simple 2D game engine.
 * [gfm](https://github.com/drug007/gfm7) ⭐ 4 | 🐛 0 | 🌐 D | 📅 2024-07-27 - D gamedev toolkit.
 
 *Libraries for 2D/3D-related projects.*
@@ -496,6 +497,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Runani](https://kapendev.itch.io/runani) - An endless runner game where you help cute animals.
 * [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
 * [Would you still save the world with me if I were a worm?](https://0xeab.itch.io/would-you-still-save-the-world-with-me-if-i-were-a-worm) - Help your wormy partner find the exit of each of the 20 puzzles to eventually save the world that has fallen into a wormhole.
+* [K, Merge With Me](https://kapendev.itch.io/k-merge-with-me) - Hide-and-run game with pretty pixel art.
 
 ## Internationalization
 
@@ -603,4 +605,4 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
