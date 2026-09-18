@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-17T02:02:12Z",
-            "open_issues": 3792,
+            "last_commit": "2026-09-18T07:26:12Z",
+            "open_issues": 3794,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3308,
@@ -293,8 +293,8 @@
             "id": 30976075,
             "language": "D",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T18:24:31Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-17T18:23:22Z",
+            "open_issues": 32,
             "owner": "atilaneves",
             "repo": "reggae",
             "stars": 190,
@@ -476,7 +476,7 @@
             "id": 11419535,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T13:45:00Z",
+            "last_commit": "2026-09-17T22:41:03Z",
             "open_issues": 57,
             "owner": "dlang-community",
             "repo": "DCD",
@@ -914,7 +914,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -943,7 +943,7 @@
             "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "assembly",
               "dlang",
@@ -1328,7 +1328,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -1568,7 +1568,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -1688,7 +1688,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -1868,7 +1868,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -2064,11 +2064,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T07:13:55Z",
+            "last_commit": "2026-09-18T08:53:12Z",
             "open_issues": 15,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12818,
+            "stars": 12823,
             "topics": [
               "business",
               "linux",
@@ -2208,7 +2208,7 @@
             "open_issues": 100,
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "cross-platform-gui",
               "d",
@@ -2237,7 +2237,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -2401,7 +2401,7 @@
             "open_issues": 456,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5721,
+            "stars": 5720,
             "topics": [
               "dlang",
               "gtk3",
@@ -2428,7 +2428,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1222,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2449,7 +2449,7 @@
             "open_issues": 26,
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "streaming",
               "vtuber",
@@ -3462,7 +3462,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -3756,7 +3756,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -3779,7 +3779,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -4342,7 +4342,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -4488,7 +4488,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:59:22.232Z",
+    "last_updated": "2026-09-18T11:40:16.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
