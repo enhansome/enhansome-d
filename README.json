@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-18T07:26:12Z",
-            "open_issues": 3794,
+            "last_commit": "2026-09-19T05:26:54Z",
+            "open_issues": 3790,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3308,
+            "stars": 3309,
             "topics": [
               "compiler",
               "d",
@@ -477,10 +477,10 @@
             "language": "D",
             "license": "GPL-3.0",
             "last_commit": "2026-09-17T22:41:03Z",
-            "open_issues": 57,
+            "open_issues": 56,
             "owner": "dlang-community",
             "repo": "DCD",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "autocomplete",
               "code-completion",
@@ -1155,7 +1155,7 @@
             "open_issues": 0,
             "owner": "Kapendev",
             "repo": "joka",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "dlang",
               "odin-lang"
@@ -1482,7 +1482,7 @@
             "open_issues": 8,
             "owner": "etcimon",
             "repo": "fast",
-            "stars": 111,
+            "stars": 110,
             "topics": [
               "dlang"
             ]
@@ -2064,11 +2064,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T08:53:12Z",
+            "last_commit": "2026-09-19T01:54:07Z",
             "open_issues": 15,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12823,
+            "stars": 12826,
             "topics": [
               "business",
               "linux",
@@ -2401,7 +2401,7 @@
             "open_issues": 456,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5720,
+            "stars": 5719,
             "topics": [
               "dlang",
               "gtk3",
@@ -2449,7 +2449,7 @@
             "open_issues": 26,
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "streaming",
               "vtuber",
@@ -3589,7 +3589,7 @@
             "language": "D",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T21:23:00Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "gecko0307",
             "repo": "dagon",
             "stars": 411,
@@ -4221,7 +4221,7 @@
             "open_issues": 24,
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "cli",
               "command-line",
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:40:16.979Z",
+    "last_updated": "2026-09-19T11:23:02.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
