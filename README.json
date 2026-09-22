@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-20T23:27:48Z",
-            "open_issues": 3783,
+            "last_commit": "2026-09-22T06:28:35Z",
+            "open_issues": 3788,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3310,
+            "stars": 3309,
             "topics": [
               "compiler",
               "d",
@@ -155,11 +155,11 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T04:13:32Z",
+            "last_commit": "2026-09-22T04:07:21Z",
             "open_issues": 584,
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1371,
+            "stars": 1370,
             "topics": [
               "compiler",
               "d",
@@ -241,7 +241,7 @@
             "open_issues": 106,
             "owner": "dlang-community",
             "repo": "dfmt",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "code-formatter",
               "dlang",
@@ -819,7 +819,7 @@
             "language": "D",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-14T14:09:43Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "atilaneves",
             "repo": "unit-threaded",
             "stars": 123,
@@ -1130,7 +1130,7 @@
             "id": 719344381,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-08-29T23:55:46Z",
+            "last_commit": "2026-09-21T23:35:49Z",
             "open_issues": 0,
             "owner": "Inochi2D",
             "repo": "numem",
@@ -1175,7 +1175,7 @@
             "id": 934549399,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-15T11:53:31Z",
+            "last_commit": "2026-09-21T23:37:37Z",
             "open_issues": 1,
             "owner": "Inochi2D",
             "repo": "nulib",
@@ -1252,7 +1252,7 @@
             "id": 486284504,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-21T07:41:31Z",
+            "last_commit": "2026-09-22T08:27:34Z",
             "open_issues": 0,
             "owner": "trikko",
             "repo": "serverino",
@@ -1711,28 +1711,7 @@
             "open_issues": 21,
             "owner": "buggins",
             "repo": "hibernated",
-            "stars": 83,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:57:02.690Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mysql-native",
-          "description": "A MySQL client implemented in native D.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native D client driver for MySQL/MariaDB, works with or without Vibe.d",
-            "homepage": "https://github.com/mysql-d/mysql-native",
-            "id": 4176168,
-            "language": "D",
-            "license": "BSL-1.0",
-            "last_commit": "2024-01-10T00:06:56Z",
-            "open_issues": 41,
-            "owner": "mysql-d",
-            "repo": "mysql-native",
-            "stars": 80,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -1753,6 +1732,27 @@
             "open_issues": 15,
             "owner": "buggins",
             "repo": "ddbc",
+            "stars": 81,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mysql-native",
+          "description": "A MySQL client implemented in native D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native D client driver for MySQL/MariaDB, works with or without Vibe.d",
+            "homepage": "https://github.com/mysql-d/mysql-native",
+            "id": 4176168,
+            "language": "D",
+            "license": "BSL-1.0",
+            "last_commit": "2024-01-10T00:06:56Z",
+            "open_issues": 41,
+            "owner": "mysql-d",
+            "repo": "mysql-native",
             "stars": 80,
             "topics": []
           },
@@ -2064,11 +2064,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T07:26:58Z",
+            "last_commit": "2026-09-22T07:21:02Z",
             "open_issues": 17,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12831,
+            "stars": 12839,
             "topics": [
               "business",
               "linux",
@@ -2208,7 +2208,7 @@
             "open_issues": 100,
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 867,
+            "stars": 868,
             "topics": [
               "cross-platform-gui",
               "d",
@@ -2401,7 +2401,7 @@
             "open_issues": 456,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5719,
+            "stars": 5720,
             "topics": [
               "dlang",
               "gtk3",
@@ -3885,7 +3885,7 @@
             "open_issues": 15,
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1295,
+            "stars": 1296,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T13:12:51.963Z",
+    "last_updated": "2026-09-22T11:59:15.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
