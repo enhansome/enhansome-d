@@ -125,10 +125,10 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-09-23T22:17:03Z",
-            "open_issues": 3792,
+            "open_issues": 3795,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3311,
+            "stars": 3312,
             "topics": [
               "compiler",
               "d",
@@ -272,7 +272,7 @@
             "open_issues": 537,
             "owner": "dlang",
             "repo": "dub",
-            "stars": 738,
+            "stars": 739,
             "topics": [
               "d",
               "dub",
@@ -2068,7 +2068,7 @@
             "open_issues": 19,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12848,
+            "stars": 12852,
             "topics": [
               "business",
               "linux",
@@ -2401,7 +2401,7 @@
             "open_issues": 456,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5722,
+            "stars": 5723,
             "topics": [
               "dlang",
               "gtk3",
@@ -2428,7 +2428,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1224,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -5080,7 +5080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:06:10.769Z",
+    "last_updated": "2026-09-25T12:06:06.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
