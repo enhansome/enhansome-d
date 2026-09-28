@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-27T04:28:56Z",
+            "last_commit": "2026-09-28T13:21:46Z",
             "open_issues": 3798,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3313,
+            "stars": 3312,
             "topics": [
               "compiler",
               "d",
@@ -155,11 +155,11 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T04:34:07Z",
+            "last_commit": "2026-09-28T04:35:53Z",
             "open_issues": 584,
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1371,
+            "stars": 1373,
             "topics": [
               "compiler",
               "d",
@@ -269,7 +269,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-09-24T09:43:15Z",
-            "open_issues": 538,
+            "open_issues": 540,
             "owner": "dlang",
             "repo": "dub",
             "stars": 738,
@@ -526,7 +526,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-08-29T20:19:36Z",
-            "open_issues": 155,
+            "open_issues": 157,
             "owner": "Pure-D",
             "repo": "serve-d",
             "stars": 267,
@@ -1016,8 +1016,8 @@
             "id": 11385077,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-09T22:13:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-27T18:49:30Z",
+            "open_issues": 4,
             "owner": "gecko0307",
             "repo": "dlib",
             "stars": 230,
@@ -1247,12 +1247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Small and ready-to-go http server. Support for websockets included.",
+            "description": "Small, fast, zero-dependency web server for D: HTTP, HTTPS and WebSockets.",
             "homepage": "https://serverino.dev",
             "id": 486284504,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:33:16Z",
+            "last_commit": "2026-09-28T08:50:20Z",
             "open_issues": 0,
             "owner": "trikko",
             "repo": "serverino",
@@ -1261,7 +1261,13 @@
               "d",
               "dlang",
               "http",
-              "http-server"
+              "http-server",
+              "https",
+              "web",
+              "web-server",
+              "webserver",
+              "websocket",
+              "zero-dependency"
             ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2068,7 +2074,7 @@
             "open_issues": 19,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12856,
+            "stars": 12859,
             "topics": [
               "business",
               "linux",
@@ -2401,7 +2407,7 @@
             "open_issues": 456,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5723,
+            "stars": 5724,
             "topics": [
               "dlang",
               "gtk3",
@@ -2428,7 +2434,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1229,
+            "stars": 1230,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2449,7 +2455,7 @@
             "open_issues": 26,
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "streaming",
               "vtuber",
@@ -2480,7 +2486,7 @@
             "open_issues": 33,
             "owner": "godot-d",
             "repo": "godot-d",
-            "stars": 212,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2565,7 +2571,7 @@
             "id": 730376427,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-09-21T08:11:58Z",
+            "last_commit": "2026-09-28T08:17:23Z",
             "open_issues": 2,
             "owner": "floooh",
             "repo": "sokol-d",
@@ -2598,8 +2604,8 @@
                 "homepage": "https://git.sleeping.town/BindBC/bindbc-sdl",
                 "id": 124232670,
                 "language": "D",
-                "license": "BSL-1.0",
-                "last_commit": "2026-06-01T13:09:29Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-27T15:30:41Z",
                 "open_issues": 3,
                 "owner": "BindBC",
                 "repo": "bindbc-sdl",
@@ -3525,7 +3531,7 @@
             "open_issues": 1,
             "owner": "ZILtoid1991",
             "repo": "pixelperfectengine",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -3542,7 +3548,7 @@
             "id": 767346331,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:52:31Z",
+            "last_commit": "2026-09-27T20:38:10Z",
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
@@ -3798,8 +3804,8 @@
             "id": 11385077,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-09T22:13:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-27T18:49:30Z",
+            "open_issues": 4,
             "owner": "gecko0307",
             "repo": "dlib",
             "stars": 230,
@@ -5080,7 +5086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T12:21:28.257Z",
+    "last_updated": "2026-09-28T14:21:47.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5092,7 +5098,7 @@
       "open_issues": 4,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 762,
+      "stars": 763,
       "topics": [
         "dlang"
       ]
