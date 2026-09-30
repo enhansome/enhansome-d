@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-29T10:40:12Z",
-            "open_issues": 3799,
+            "last_commit": "2026-09-29T23:44:19Z",
+            "open_issues": 3801,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3312,
+            "stars": 3313,
             "topics": [
               "compiler",
               "d",
@@ -155,7 +155,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T04:35:53Z",
+            "last_commit": "2026-09-30T04:51:00Z",
             "open_issues": 585,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -268,8 +268,8 @@
             "id": 6470655,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-29T10:20:23Z",
-            "open_issues": 542,
+            "last_commit": "2026-09-29T22:52:02Z",
+            "open_issues": 539,
             "owner": "dlang",
             "repo": "dub",
             "stars": 738,
@@ -480,7 +480,7 @@
             "open_issues": 56,
             "owner": "dlang-community",
             "repo": "DCD",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "autocomplete",
               "code-completion",
@@ -1176,8 +1176,8 @@
             "id": 934549399,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-21T23:37:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-29T21:22:27Z",
+            "open_issues": 1,
             "owner": "Inochi2D",
             "repo": "nulib",
             "stars": 15,
@@ -2075,7 +2075,7 @@
             "open_issues": 19,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12862,
+            "stars": 12870,
             "topics": [
               "business",
               "linux",
@@ -2212,7 +2212,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-04-05T09:15:27Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "buggins",
             "repo": "dlangui",
             "stars": 869,
@@ -2408,7 +2408,7 @@
             "open_issues": 456,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5723,
+            "stars": 5724,
             "topics": [
               "dlang",
               "gtk3",
@@ -3150,7 +3150,7 @@
             "open_issues": 1,
             "owner": "BindBC",
             "repo": "bindbc-loader",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "dlang"
             ]
@@ -3553,7 +3553,7 @@
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "game-development",
               "game-engine",
@@ -3986,7 +3986,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-07-19T08:04:31Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "libmir",
             "repo": "dcompute",
             "stars": 143,
@@ -5088,7 +5088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:14:20.422Z",
+    "last_updated": "2026-09-30T12:55:34.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
