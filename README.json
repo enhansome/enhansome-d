@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-01T06:43:43Z",
-            "open_issues": 3799,
+            "last_commit": "2026-10-02T03:51:06Z",
+            "open_issues": 3801,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3315,
@@ -155,7 +155,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T05:03:05Z",
+            "last_commit": "2026-10-02T04:53:18Z",
             "open_issues": 585,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -1253,7 +1253,7 @@
             "id": 486284504,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-30T16:54:46Z",
+            "last_commit": "2026-10-02T12:43:09Z",
             "open_issues": 0,
             "owner": "trikko",
             "repo": "serverino",
@@ -1667,7 +1667,7 @@
             "open_issues": 451,
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "async",
               "concurrency",
@@ -2071,11 +2071,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T00:16:21Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-02T04:06:04Z",
+            "open_issues": 20,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12873,
+            "stars": 12881,
             "topics": [
               "business",
               "linux",
@@ -2132,7 +2132,7 @@
             "open_issues": 0,
             "owner": "trikko",
             "repo": "tshare",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "d",
               "dlang",
@@ -2215,7 +2215,7 @@
             "open_issues": 101,
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 869,
+            "stars": 870,
             "topics": [
               "cross-platform-gui",
               "d",
@@ -2435,7 +2435,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1231,
+            "stars": 1235,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -3492,7 +3492,7 @@
             "open_issues": 5,
             "owner": "MrcSnm",
             "repo": "HipremeEngine",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "android",
               "crossplatform",
@@ -3893,7 +3893,7 @@
             "open_issues": 15,
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1296,
+            "stars": 1297,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -4229,7 +4229,7 @@
             "open_issues": 24,
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "cli",
               "command-line",
@@ -4573,7 +4573,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-08-26T11:09:03Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "D-Programming-Deimos",
             "repo": "openssl",
             "stars": 47,
@@ -4817,7 +4817,7 @@
             "open_issues": 11,
             "owner": "huntlabs",
             "repo": "grpc-dlang",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "dlang",
               "grpc",
@@ -5088,7 +5088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:46:47.310Z",
+    "last_updated": "2026-10-02T13:02:51.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
