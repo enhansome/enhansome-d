@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-03T07:59:20Z",
-            "open_issues": 3799,
+            "last_commit": "2026-10-04T01:20:30Z",
+            "open_issues": 3798,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3317,
+            "stars": 3318,
             "topics": [
               "compiler",
               "d",
@@ -155,8 +155,8 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:35:45Z",
-            "open_issues": 585,
+            "last_commit": "2026-10-04T05:06:21Z",
+            "open_issues": 586,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1373,
@@ -529,7 +529,7 @@
             "open_issues": 157,
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "d",
               "language-server-protocol"
@@ -851,7 +851,7 @@
             "id": 85077228,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-06-22T09:42:54Z",
+            "last_commit": "2026-10-04T09:25:59Z",
             "open_issues": 0,
             "owner": "gedaiu",
             "repo": "fluent-asserts",
@@ -1152,7 +1152,7 @@
             "id": 839582107,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-28T19:03:23Z",
+            "last_commit": "2026-10-04T09:24:59Z",
             "open_issues": 0,
             "owner": "Kapendev",
             "repo": "joka",
@@ -2071,11 +2071,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T07:45:02Z",
+            "last_commit": "2026-10-03T23:16:17Z",
             "open_issues": 22,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12886,
+            "stars": 12887,
             "topics": [
               "business",
               "linux",
@@ -2145,6 +2145,33 @@
         },
         {
           "node_type": "item",
+          "title": "websitino",
+          "description": "Single-binary static file server for local development, with directory listing, Markdown rendering and https.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A lightweight static file server for development",
+            "homepage": "https://trikko.github.io/websitino/",
+            "id": 964521422,
+            "language": "D",
+            "license": "MIT",
+            "last_commit": "2026-10-03T17:23:11Z",
+            "open_issues": 0,
+            "owner": "trikko",
+            "repo": "websitino",
+            "stars": 95,
+            "topics": [
+              "d",
+              "dlang",
+              "file-server",
+              "static-site",
+              "static-website"
+            ]
+          },
+          "first_seen": "2026-10-04T12:46:30.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Soulfind",
           "description": "Soulseek server implementation in D.",
           "children": [],
@@ -2155,8 +2182,8 @@
             "id": 82344147,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T10:41:56Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-03T17:21:02Z",
+            "open_issues": 13,
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 47,
@@ -2435,7 +2462,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1235,
+            "stars": 1236,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2462,6 +2489,48 @@
               "vtuber",
               "vtubing"
             ]
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Daphne",
+          "description": "Advanced audio player and music library manager written in D using giD (GTK 4 and GStreamer).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GObject Introspection D Package Repository",
+            "homepage": null,
+            "id": 923238342,
+            "language": "D",
+            "license": "MIT",
+            "last_commit": "2026-06-14T17:20:41Z",
+            "open_issues": 5,
+            "owner": "Kymorphia",
+            "repo": "gid",
+            "stars": 44,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Veb",
+          "description": "Minimal, tabbed web browser written in D using giD (GTK4, libadwaita, WebKitGTK 6).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GObject Introspection D Package Repository",
+            "homepage": null,
+            "id": 923238342,
+            "language": "D",
+            "license": "MIT",
+            "last_commit": "2026-06-14T17:20:41Z",
+            "open_issues": 5,
+            "owner": "Kymorphia",
+            "repo": "gid",
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         }
@@ -2531,7 +2600,7 @@
             "language": "D",
             "license": "Zlib",
             "last_commit": "2026-04-27T12:47:07Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "schveiguy",
             "repo": "raylib-d",
             "stars": 93,
@@ -2572,8 +2641,8 @@
             "id": 730376427,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-09-28T08:17:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T14:25:45Z",
+            "open_issues": 3,
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 28,
@@ -3378,7 +3447,7 @@
       "title": "Game Bindings"
     },
     {
-      "description": "D libraries for game development.\nLibraries for 2D-related projects.\nLibraries for 2D/3D-related projects.\nLibraries for 3D-related projects.",
+      "description": "General utilities.\nLibraries for 2D-related projects.\nLibraries for 3D-related projects.",
       "items": [
         {
           "node_type": "item",
@@ -3404,6 +3473,31 @@
             ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "raylib-d-template",
+          "description": "A simple template for raylib-d projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple template for raylib-d projects.",
+            "homepage": null,
+            "id": 1274538768,
+            "language": "D",
+            "license": "MIT",
+            "last_commit": "2026-10-04T07:41:12Z",
+            "open_issues": 0,
+            "owner": "Kapendev",
+            "repo": "raylib-d-template",
+            "stars": 5,
+            "topics": [
+              "game-development",
+              "gamedev",
+              "raylib"
+            ]
+          },
+          "first_seen": "2026-10-04T12:46:30.327Z"
         },
         {
           "node_type": "item",
@@ -3452,6 +3546,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gfm",
+          "description": "D gamedev toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "dlang sdl2 opengl wrappers",
+            "homepage": null,
+            "id": 248184097,
+            "language": "D",
+            "license": "Unlicense",
+            "last_commit": "2024-07-27T09:37:19Z",
+            "open_issues": 0,
+            "owner": "drug007",
+            "repo": "gfm7",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wasip1libc-d",
+          "description": "A minimal WASI Preview 1 libc + browser host.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A minimal WASI Preview 1 libc + browser host for the D programming language.",
+            "homepage": null,
+            "id": 1380559745,
+            "language": "D",
+            "license": "MIT",
+            "last_commit": "2026-10-03T11:50:21Z",
+            "open_issues": 0,
+            "owner": "Kapendev",
+            "repo": "wasip1libc-d",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-04T12:46:30.327Z"
         },
         {
           "node_type": "item",
@@ -3549,7 +3685,7 @@
             "id": 767346331,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:39:50Z",
+            "last_commit": "2026-10-04T12:31:05Z",
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
@@ -3559,27 +3695,6 @@
               "game-engine",
               "gamedev"
             ]
-          },
-          "first_seen": "2026-08-28T18:57:02.690Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gfm",
-          "description": "D gamedev toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "dlang sdl2 opengl wrappers",
-            "homepage": null,
-            "id": 248184097,
-            "language": "D",
-            "license": "Unlicense",
-            "last_commit": "2024-07-27T09:37:19Z",
-            "open_issues": 0,
-            "owner": "drug007",
-            "repo": "gfm7",
-            "stars": 3,
-            "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3599,7 +3714,7 @@
             "open_issues": 5,
             "owner": "gecko0307",
             "repo": "dagon",
-            "stars": 413,
+            "stars": 414,
             "topics": [
               "3d",
               "3d-engine",
@@ -4601,6 +4716,43 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "neverstored",
+          "description": "Hand a secret to someone without ever storing it, end-to-end encrypted between two browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hand a secret to someone while you are both there. Nothing is ever stored.",
+            "homepage": "https://neverstored.com",
+            "id": 1369783774,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-04T10:56:19Z",
+            "open_issues": 0,
+            "owner": "trikko",
+            "repo": "neverstored",
+            "stars": 7,
+            "topics": [
+              "cli",
+              "criptography",
+              "dlang",
+              "docker",
+              "e2e-encryption",
+              "elliptic-curve-cryptography",
+              "ephemeral",
+              "password-sharing",
+              "privacy",
+              "secret-sharing",
+              "secrets",
+              "security",
+              "self-hosted",
+              "serverino",
+              "zero-knowledge"
+            ]
+          },
+          "first_seen": "2026-10-04T12:46:30.327Z"
         }
       ],
       "title": "Cryptography"
@@ -5088,7 +5240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:56:03.808Z",
+    "last_updated": "2026-10-04T12:46:30.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5096,8 +5248,8 @@
       "id": 21602406,
       "language": "D",
       "license": null,
-      "last_commit": "2026-09-20T16:09:29Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-04T10:59:41Z",
+      "open_issues": 3,
       "owner": "dlang-community",
       "repo": "awesome-d",
       "stars": 763,
@@ -5105,7 +5257,7 @@
         "dlang"
       ]
     },
-    "original_repository_sha": "6d8201ec23d3d2976097e7d9b2316d3ccf6f60f6",
+    "original_repository_sha": "1e167aff76e0763d9c17ddd5de238c0a5bbb8847",
     "enhanced_repository": "enhansome/enhansome-d",
     "enhanced_repository_description": null,
     "title": "Awesome D with stars"
