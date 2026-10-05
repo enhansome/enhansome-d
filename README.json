@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-04T01:20:30Z",
-            "open_issues": 3798,
+            "last_commit": "2026-10-05T12:45:23Z",
+            "open_issues": 3801,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3318,
+            "stars": 3320,
             "topics": [
               "compiler",
               "d",
@@ -155,11 +155,11 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T05:06:21Z",
-            "open_issues": 586,
+            "last_commit": "2026-10-05T04:53:06Z",
+            "open_issues": 585,
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1373,
+            "stars": 1374,
             "topics": [
               "compiler",
               "d",
@@ -348,6 +348,34 @@
         },
         {
           "node_type": "item",
+          "title": "rules_d",
+          "description": "Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "D rules for Bazel",
+            "homepage": "https://registry.bazel.build/modules/rules_d",
+            "id": 53954149,
+            "language": "Starlark",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-05T12:26:35Z",
+            "open_issues": 14,
+            "owner": "bazel-contrib",
+            "repo": "rules_d",
+            "stars": 27,
+            "topics": [
+              "bazel",
+              "bazel-rules",
+              "dlang",
+              "dmd",
+              "dub",
+              "ldc"
+            ]
+          },
+          "first_seen": "2026-10-05T15:10:42.908Z"
+        },
+        {
+          "node_type": "item",
           "title": "cook2",
           "description": "Fast incremental build tool intended for projects in D",
           "children": [],
@@ -457,6 +485,27 @@
             ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gazelle_d",
+          "description": "Gazelle extension for generating Bazel build files from D sources and DUB manifests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1227552033,
+            "language": "Go",
+            "license": null,
+            "last_commit": "2026-10-03T22:04:11Z",
+            "open_issues": 11,
+            "owner": "dcarp",
+            "repo": "gazelle_d",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-05T15:10:42.908Z"
         }
       ],
       "title": "Build Tools"
@@ -914,7 +963,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -943,7 +992,7 @@
             "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "assembly",
               "dlang",
@@ -1335,7 +1384,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -1575,7 +1624,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -1667,7 +1716,7 @@
             "open_issues": 451,
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1217,
+            "stars": 1218,
             "topics": [
               "async",
               "concurrency",
@@ -1695,7 +1744,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -1875,7 +1924,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -2071,11 +2120,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T23:16:17Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-05T08:03:38Z",
+            "open_issues": 18,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12887,
+            "stars": 12888,
             "topics": [
               "business",
               "linux",
@@ -2182,8 +2231,8 @@
             "id": 82344147,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T17:21:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-05T09:20:44Z",
+            "open_issues": 12,
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 47,
@@ -2271,7 +2320,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -2432,10 +2481,10 @@
             "language": "D",
             "license": "MPL-2.0",
             "last_commit": "2026-07-01T19:01:40Z",
-            "open_issues": 457,
+            "open_issues": 458,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5725,
+            "stars": 5727,
             "topics": [
               "dlang",
               "gtk3",
@@ -2483,7 +2532,7 @@
             "open_issues": 26,
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 407,
+            "stars": 406,
             "topics": [
               "streaming",
               "vtuber",
@@ -2641,8 +2690,8 @@
             "id": 730376427,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-10-03T14:25:45Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-05T10:40:19Z",
+            "open_issues": 2,
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 28,
@@ -3486,7 +3535,7 @@
             "id": 1274538768,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-04T07:41:12Z",
+            "last_commit": "2026-10-04T21:27:44Z",
             "open_issues": 0,
             "owner": "Kapendev",
             "repo": "raylib-d-template",
@@ -3528,27 +3577,6 @@
         },
         {
           "node_type": "item",
-          "title": "text-mode",
-          "description": "Virtual text mode with 8x8 Unicode font and markup language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Virtual text mode with 8x8 Unicode font and markup language.",
-            "homepage": null,
-            "id": 805790086,
-            "language": "D",
-            "license": null,
-            "last_commit": "2026-05-04T13:11:57Z",
-            "open_issues": 2,
-            "owner": "AuburnSounds",
-            "repo": "text-mode",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:57:02.690Z"
-        },
-        {
-          "node_type": "item",
           "title": "gfm",
           "description": "D gamedev toolkit.",
           "children": [],
@@ -3563,6 +3591,27 @@
             "open_issues": 0,
             "owner": "drug007",
             "repo": "gfm7",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "text-mode",
+          "description": "Virtual text mode with 8x8 Unicode font and markup language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Virtual text mode with 8x8 Unicode font and markup language.",
+            "homepage": null,
+            "id": 805790086,
+            "language": "D",
+            "license": null,
+            "last_commit": "2026-05-04T13:11:57Z",
+            "open_issues": 2,
+            "owner": "AuburnSounds",
+            "repo": "text-mode",
             "stars": 3,
             "topics": []
           },
@@ -3605,7 +3654,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -3685,7 +3734,7 @@
             "id": 767346331,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-04T12:31:05Z",
+            "last_commit": "2026-10-04T21:38:37Z",
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
@@ -3878,7 +3927,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -3901,7 +3950,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -4465,7 +4514,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -4611,7 +4660,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "d"
             ]
@@ -5240,7 +5289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:46:30.327Z",
+    "last_updated": "2026-10-05T15:10:42.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5248,16 +5297,16 @@
       "id": 21602406,
       "language": "D",
       "license": null,
-      "last_commit": "2026-10-04T10:59:41Z",
+      "last_commit": "2026-10-04T21:42:01Z",
       "open_issues": 3,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 763,
+      "stars": 764,
       "topics": [
         "dlang"
       ]
     },
-    "original_repository_sha": "1e167aff76e0763d9c17ddd5de238c0a5bbb8847",
+    "original_repository_sha": "7fb6d2de1852a1fea5f5c3c3ca62a6a096a79bb5",
     "enhanced_repository": "enhansome/enhansome-d",
     "enhanced_repository_description": null,
     "title": "Awesome D with stars"
