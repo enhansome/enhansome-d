@@ -128,7 +128,7 @@
             "open_issues": 3799,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3321,
+            "stars": 3322,
             "topics": [
               "compiler",
               "d",
@@ -358,7 +358,7 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T00:22:00Z",
+            "last_commit": "2026-10-06T12:27:28Z",
             "open_issues": 14,
             "owner": "bazel-contrib",
             "repo": "rules_d",
@@ -2124,7 +2124,7 @@
             "open_issues": 18,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12889,
+            "stars": 12891,
             "topics": [
               "business",
               "linux",
@@ -5289,7 +5289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:01:08.295Z",
+    "last_updated": "2026-10-06T13:32:06.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
