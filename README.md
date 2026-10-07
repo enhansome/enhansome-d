@@ -1,6 +1,6 @@
 # Awesome D with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,550 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,800 | 🐛 20 | 🌐 Python | 📅 2026-10-07.
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md).
 
@@ -120,7 +120,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Organizations that contribute to D projects.*
 
-* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash) ⭐ 426 | 🐛 33 | 🌐 D | 📅 2020-12-18, a 3D game engine written in D, and other related libs.
+* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash) ⭐ 425 | 🐛 33 | 🌐 D | 📅 2020-12-18, a 3D game engine written in D, and other related libs.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://saoc.io/). Have sponsored the development of [excel-d](https://blog.dlang.org/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp) ⭐ 245 | 🐛 86 | 🌐 D | 📅 2024-06-11, [autowrap](https://github.com/symmetryinvestments/autowrap) ⭐ 82 | 🐛 51 | 🌐 D | 📅 2026-04-20, [mir-algorithm](https://github.com/libmir/mir-algorithm) ⭐ 180 | 🐛 30 | 🌐 D | 📅 2026-02-04, and various other projects.
 * [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
@@ -190,15 +190,15 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,322 | 🐛 3,799 | 🌐 D | 📅 2026-10-06 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
-* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,375 | 🐛 585 | 🌐 D | 📅 2026-10-06 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,322 | 🐛 3,797 | 🌐 D | 📅 2026-10-07 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,374 | 🐛 585 | 🌐 D | 📅 2026-10-07 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
 ## Alternative / WIP Compilers
 
 *These compilers may differ from or be incompatible with the official set of tools.*
 
-* [SDC](https://github.com/snazzy-d/SDC) ⭐ 272 | 🐛 95 | 🌐 D | 📅 2026-10-05 - The Snazzy D Compiler. Written in D. Grows Smarter every day.
+* [SDC](https://github.com/snazzy-d/SDC) ⭐ 272 | 🐛 95 | 🌐 D | 📅 2026-10-07 - The Snazzy D Compiler. Written in D. Grows Smarter every day.
 * [OpenD](https://opendlang.org/index.html) - A fork of the D language focused on practical and incremental improvements.
 
 ## Dev Tools
@@ -215,14 +215,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [dub](https://github.com/dlang/dub) ⭐ 740 | 🐛 539 | 🌐 D | 📅 2026-09-29 - De facto official package and build management system for D. Will be included officially soon.
 * [reggae](https://github.com/atilaneves/reggae) ⭐ 190 | 🐛 32 | 🌐 D | 📅 2026-09-17 - meta build system in D
-* [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 67 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
-* [rules\_d](https://github.com/bazel-contrib/rules_d) ⭐ 27 | 🐛 14 | 🌐 Starlark | 📅 2026-10-06 - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
+* [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 68 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
+* [rules\_d](https://github.com/bazel-contrib/rules_d) ⭐ 27 | 🐛 14 | 🌐 Starlark | 📅 2026-10-07 - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
 * [cook2](https://github.com/gecko0307/Cook2) ⚠️ Archived - Fast incremental build tool intended for projects in D
 * [Makefile](https://github.com/bioinfornatics/MakefileForD) ⭐ 20 | 🐛 0 | 🌐 CSS | 📅 2016-04-19 - Makefile template for D projects
 * [wild](https://github.com/Vild/Wild) ⭐ 6 | 🐛 2 | 🌐 D | 📅 2016-08-14 - Wild build system, used to build the [PowerNex](https://github.com/PowerNex/PowerNex) ⭐ 504 | 🐛 14 | 🌐 D | 📅 2019-03-02 kernel
 * [premake](https://github.com/premake/premake-dlang) ⚠️ Archived - Premake has built-in support for D projects
 * [wox](https://github.com/redthing1/wox) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2023-05-18 - A highly flexible recipe build system inspired by Make
-* [gazelle\_d](https://github.com/dcarp/gazelle_d) ⭐ 0 | 🐛 11 | 🌐 Go | 📅 2026-10-03 - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
+* [gazelle\_d](https://github.com/dcarp/gazelle_d) ⭐ 0 | 🐛 11 | 🌐 Go | 📅 2026-10-07 - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
 * [scons-d](https://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [button](https://jasonwhite.io/button/) - A universal build system to build your software at the push of a button.
 * [XMake](https://xmake.io) - XMake is a crossplatform build system, that incorporated the D language and also has support for DUB repositories.
@@ -388,12 +388,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,891 | 🐛 18 | 🌐 D | 📅 2026-10-06 - #1 Free OneDrive Client for Linux.
-* [Literate](https://github.com/zyedidia/Literate) ⭐ 918 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,895 | 🐛 14 | 🌐 D | 📅 2026-10-07 - #1 Free OneDrive Client for Linux.
+* [Literate](https://github.com/zyedidia/Literate) ⭐ 916 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
 * [tshare](https://github.com/trikko/tshare) ⭐ 143 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
 * [websitino](https://github.com/trikko/websitino) ⭐ 95 | 🐛 0 | 🌐 D | 📅 2026-10-03 - Single-binary static file server for local development, with directory listing, Markdown rendering and https.
 * [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 47 | 🐛 12 | 🌐 D | 📅 2026-10-05 - Soulseek server implementation in D.
-* [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,365 | 🐛 154 | 🌐 C | 📅 2026-05-02.
+* [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,363 | 🐛 154 | 🌐 C | 📅 2026-05-02.
 
 ## GUI Libraries
 
@@ -413,9 +413,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## GUI Applications
 
-* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,727 | 🐛 458 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
-* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,237 | 🐛 144 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
-* [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 406 | 🐛 26 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
+* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,726 | 🐛 458 | 🌐 D | 📅 2026-07-01 - A tiling terminal emulator for Linux using GTK+ 3.
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,239 | 🐛 144 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
+* [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 407 | 🐛 26 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 * [Daphne](https://codeberg.org/Kymorphia/daphne-music) - Advanced audio player and music library manager written in D using [giD](https://github.com/Kymorphia/gid) ⭐ 44 | 🐛 5 | 🌐 D | 📅 2026-06-14 (GTK 4 and GStreamer).
 * [Veb](https://codeberg.org/ddn/veb) - Minimal, tabbed web browser written in D using [giD](https://github.com/Kymorphia/gid) ⭐ 44 | 🐛 5 | 🌐 D | 📅 2026-06-14 (GTK4, libadwaita, WebKitGTK 6).
 * [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
@@ -601,7 +601,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [hunt-database](https://github.com/huntlabs/hunt-database) ⭐ 49 | 🐛 21 | 🌐 D | 📅 2023-11-15 - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 * [grpc](https://github.com/huntlabs/grpc-dlang) ⭐ 45 | 🐛 11 | 🌐 D | 📅 2022-03-12 - Grpc for D programming language, hunt-http library based.
 * [kissrpc](https://github.com/huntlabs/kissrpc) ⭐ 41 | 🐛 0 | 🌐 D | 📅 2018-03-22 - Fast and light, flatbuffers based rpc framework.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) ⭐ 33 | 🐛 4 | 🌐 D | 📅 2021-05-28 - Dynamic Binding for [libui](https://github.com/andlabs/libui) ⭐ 10,898 | 🐛 250 | 🌐 C | 📅 2024-05-29
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) ⭐ 33 | 🐛 4 | 🌐 D | 📅 2021-05-28 - Dynamic Binding for [libui](https://github.com/andlabs/libui) ⭐ 10,896 | 🐛 250 | 🌐 C | 📅 2024-05-29
 * [hunt-http](https://github.com/huntlabs/hunt-http) ⭐ 31 | 🐛 4 | 🌐 D | 📅 2022-05-17 - HTTP/1 and HTTP/2 protocol library for D.
 * [hunt-net](https://github.com/huntlabs/hunt-net) ⭐ 20 | 🐛 3 | 🌐 D | 📅 2022-02-21 - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
 * [flatbuffers](https://github.com/huntlabs/flatbuffers) ⭐ 10 | 🐛 1 | 🌐 D | 📅 2017-07-21 - D Programming Language implementation of the google flatbuffers library.
@@ -613,4 +613,4 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
