@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-11T04:45:21Z",
-            "open_issues": 3800,
+            "last_commit": "2026-10-12T12:03:52Z",
+            "open_issues": 3815,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3324,
@@ -155,7 +155,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T04:58:08Z",
+            "last_commit": "2026-10-12T05:12:16Z",
             "open_issues": 588,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -358,7 +358,7 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T10:05:33Z",
+            "last_commit": "2026-10-11T20:21:35Z",
             "open_issues": 11,
             "owner": "bazel-contrib",
             "repo": "rules_d",
@@ -1484,7 +1484,7 @@
             "open_issues": 5,
             "owner": "atilaneves",
             "repo": "cerealed",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "custom-serialisation",
               "d",
@@ -1538,7 +1538,7 @@
             "open_issues": 8,
             "owner": "etcimon",
             "repo": "fast",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "dlang"
             ]
@@ -2120,11 +2120,11 @@
             "id": 125155159,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T08:14:15Z",
+            "last_commit": "2026-10-12T05:40:29Z",
             "open_issues": 14,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12907,
+            "stars": 12911,
             "topics": [
               "business",
               "linux",
@@ -2235,7 +2235,7 @@
             "open_issues": 11,
             "owner": "soulfind-dev",
             "repo": "soulfind",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "d",
               "dlang",
@@ -2511,7 +2511,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1242,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2690,7 +2690,7 @@
             "id": 730376427,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-10-05T10:40:19Z",
+            "last_commit": "2026-10-12T11:14:03Z",
             "open_issues": 2,
             "owner": "floooh",
             "repo": "sokol-d",
@@ -3560,7 +3560,7 @@
             "id": 1097648230,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-27T11:57:04Z",
+            "last_commit": "2026-10-12T11:53:31Z",
             "open_issues": 0,
             "owner": "AuburnSounds",
             "repo": "godot-math",
@@ -5293,7 +5293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:20:54.236Z",
+    "last_updated": "2026-10-12T15:56:44.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
