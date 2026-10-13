@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-12T12:03:52Z",
-            "open_issues": 3815,
+            "last_commit": "2026-10-13T13:56:23Z",
+            "open_issues": 3821,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3324,
+            "stars": 3325,
             "topics": [
               "compiler",
               "d",
@@ -155,8 +155,8 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T05:12:16Z",
-            "open_issues": 588,
+            "last_commit": "2026-10-13T06:11:27Z",
+            "open_issues": 592,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1374,
@@ -269,7 +269,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-09-29T22:52:02Z",
-            "open_issues": 539,
+            "open_issues": 540,
             "owner": "dlang",
             "repo": "dub",
             "stars": 740,
@@ -358,7 +358,7 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T20:21:35Z",
+            "last_commit": "2026-10-13T14:04:52Z",
             "open_issues": 11,
             "owner": "bazel-contrib",
             "repo": "rules_d",
@@ -529,7 +529,7 @@
             "open_issues": 56,
             "owner": "dlang-community",
             "repo": "DCD",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "autocomplete",
               "code-completion",
@@ -1968,7 +1968,7 @@
             "open_issues": 0,
             "owner": "fbeline",
             "repo": "luneta",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "bash",
               "cli",
@@ -2120,11 +2120,11 @@
             "id": 125155159,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T05:40:29Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-12T23:50:06Z",
+            "open_issues": 15,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12911,
+            "stars": 12913,
             "topics": [
               "business",
               "linux",
@@ -2484,7 +2484,7 @@
             "open_issues": 458,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5729,
+            "stars": 5732,
             "topics": [
               "dlang",
               "gtk3",
@@ -2728,7 +2728,7 @@
                 "open_issues": 2,
                 "owner": "BindBC",
                 "repo": "bindbc-sdl",
-                "stars": 131,
+                "stars": 130,
                 "topics": [
                   "bindbc",
                   "dlang",
@@ -4397,7 +4397,7 @@
             "open_issues": 24,
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1485,
+            "stars": 1484,
             "topics": [
               "cli",
               "command-line",
@@ -5293,7 +5293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:56:44.069Z",
+    "last_updated": "2026-10-13T14:30:03.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5302,10 +5302,10 @@
       "language": "D",
       "license": null,
       "last_commit": "2026-10-04T21:42:01Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 765,
+      "stars": 766,
       "topics": [
         "dlang"
       ]
