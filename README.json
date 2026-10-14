@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-13T13:56:23Z",
-            "open_issues": 3821,
+            "last_commit": "2026-10-14T02:25:54Z",
+            "open_issues": 3818,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3325,
+            "stars": 3327,
             "topics": [
               "compiler",
               "d",
@@ -155,11 +155,11 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T06:11:27Z",
+            "last_commit": "2026-10-14T04:14:24Z",
             "open_issues": 592,
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1374,
+            "stars": 1375,
             "topics": [
               "compiler",
               "d",
@@ -992,7 +992,7 @@
             "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "assembly",
               "dlang",
@@ -1716,7 +1716,7 @@
             "open_issues": 443,
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1219,
+            "stars": 1220,
             "topics": [
               "async",
               "concurrency",
@@ -2120,11 +2120,11 @@
             "id": 125155159,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T23:50:06Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-14T04:35:57Z",
+            "open_issues": 17,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12913,
+            "stars": 12917,
             "topics": [
               "business",
               "linux",
@@ -2511,7 +2511,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2532,7 +2532,7 @@
             "open_issues": 26,
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 407,
+            "stars": 406,
             "topics": [
               "streaming",
               "vtuber",
@@ -4061,7 +4061,7 @@
             "open_issues": 15,
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1297,
+            "stars": 1298,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -5293,7 +5293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:30:03.041Z",
+    "last_updated": "2026-10-14T12:16:07.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5302,10 +5302,10 @@
       "language": "D",
       "license": null,
       "last_commit": "2026-10-04T21:42:01Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 766,
+      "stars": 767,
       "topics": [
         "dlang"
       ]
