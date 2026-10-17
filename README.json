@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-15T23:39:58Z",
-            "open_issues": 3824,
+            "last_commit": "2026-10-17T01:46:29Z",
+            "open_issues": 3830,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3328,
@@ -155,8 +155,8 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T03:53:12Z",
-            "open_issues": 592,
+            "last_commit": "2026-10-17T03:42:47Z",
+            "open_issues": 589,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1376,
@@ -210,7 +210,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-02-18T14:48:43Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "dlang-community",
             "repo": "D-Scanner",
             "stars": 258,
@@ -238,7 +238,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-05-30T13:54:25Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "dlang-community",
             "repo": "dfmt",
             "stars": 220,
@@ -986,7 +986,7 @@
             "open_issues": 2,
             "owner": "evrlang",
             "repo": "ever",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "compiler",
               "dlang",
@@ -2146,11 +2146,11 @@
             "id": 125155159,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T04:28:44Z",
+            "last_commit": "2026-10-16T23:08:32Z",
             "open_issues": 16,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12923,
+            "stars": 12926,
             "topics": [
               "business",
               "linux",
@@ -2510,7 +2510,7 @@
             "open_issues": 458,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5732,
+            "stars": 5733,
             "topics": [
               "dlang",
               "gtk3",
@@ -2537,7 +2537,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1247,
+            "stars": 1249,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -3764,7 +3764,7 @@
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
-            "stars": 93,
+            "stars": 95,
             "topics": [
               "cross-platform",
               "dlang",
@@ -3772,7 +3772,9 @@
               "game-engine",
               "game-framework",
               "gamedev",
-              "graphics"
+              "graphics",
+              "wasm",
+              "webassembly"
             ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -4035,7 +4037,7 @@
             "id": 855632,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-26T09:36:16Z",
+            "last_commit": "2026-10-16T15:37:07Z",
             "open_issues": 13,
             "owner": "CyberShadow",
             "repo": "ae",
@@ -4884,8 +4886,8 @@
             "id": 2586513,
             "language": "D",
             "license": null,
-            "last_commit": "2026-05-02T20:19:26Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-16T17:59:11Z",
+            "open_issues": 13,
             "owner": "d-widget-toolkit",
             "repo": "dwt",
             "stars": 139,
@@ -5319,7 +5321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:47:58.249Z",
+    "last_updated": "2026-10-17T11:04:36.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
