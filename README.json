@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-19T08:41:06Z",
-            "open_issues": 3821,
+            "last_commit": "2026-10-20T07:51:22Z",
+            "open_issues": 3819,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3328,
+            "stars": 3329,
             "topics": [
               "compiler",
               "d",
@@ -155,11 +155,11 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T03:58:24Z",
+            "last_commit": "2026-10-20T04:11:16Z",
             "open_issues": 589,
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1378,
+            "stars": 1377,
             "topics": [
               "compiler",
               "d",
@@ -241,7 +241,7 @@
             "open_issues": 107,
             "owner": "dlang-community",
             "repo": "dfmt",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "code-formatter",
               "dlang",
@@ -272,7 +272,7 @@
             "open_issues": 542,
             "owner": "dlang",
             "repo": "dub",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "d",
               "dub",
@@ -900,7 +900,7 @@
             "id": 85077228,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-04T09:25:59Z",
+            "last_commit": "2026-10-19T20:00:32Z",
             "open_issues": 0,
             "owner": "gedaiu",
             "repo": "fluent-asserts",
@@ -959,7 +959,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -1210,7 +1210,7 @@
             "open_issues": 0,
             "owner": "Inochi2D",
             "repo": "numem",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -1231,7 +1231,7 @@
             "open_issues": 0,
             "owner": "Kapendev",
             "repo": "joka",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "dlang",
               "odin-lang"
@@ -1255,7 +1255,7 @@
             "open_issues": 1,
             "owner": "Inochi2D",
             "repo": "nulib",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "dlang",
               "stdlib-replacement"
@@ -1406,7 +1406,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -1646,7 +1646,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -1766,7 +1766,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -1946,7 +1946,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -2146,11 +2146,11 @@
             "id": 125155159,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T07:18:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-19T18:54:14Z",
+            "open_issues": 18,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12930,
+            "stars": 12932,
             "topics": [
               "business",
               "linux",
@@ -2342,7 +2342,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -2510,7 +2510,7 @@
             "open_issues": 458,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5733,
+            "stars": 5734,
             "topics": [
               "dlang",
               "gtk3",
@@ -2678,7 +2678,7 @@
             "open_issues": 11,
             "owner": "schveiguy",
             "repo": "raylib-d",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2701,35 +2701,6 @@
             "repo": "DAllegro5",
             "stars": 45,
             "topics": []
-          },
-          "first_seen": "2026-08-28T18:57:02.690Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sokol-d",
-          "description": "D bindings for the sokol headers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "D bindings for the sokol headers (https://github.com/floooh/sokol)",
-            "homepage": "http://sokol-d.dub.pm",
-            "id": 730376427,
-            "language": "C",
-            "license": "Zlib",
-            "last_commit": "2026-10-19T08:14:38Z",
-            "open_issues": 2,
-            "owner": "floooh",
-            "repo": "sokol-d",
-            "stars": 28,
-            "topics": [
-              "bindings",
-              "cross-platform",
-              "d",
-              "dlang",
-              "emscripten",
-              "sokol",
-              "wasm"
-            ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
         },
@@ -3294,9 +3265,38 @@
             "open_issues": 1,
             "owner": "BindBC",
             "repo": "bindbc-loader",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "dlang"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sokol-d",
+          "description": "D bindings for the sokol headers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "D bindings for the sokol headers (https://github.com/floooh/sokol)",
+            "homepage": "http://sokol-d.dub.pm",
+            "id": 730376427,
+            "language": "C",
+            "license": "Zlib",
+            "last_commit": "2026-10-19T08:14:38Z",
+            "open_issues": 2,
+            "owner": "floooh",
+            "repo": "sokol-d",
+            "stars": 28,
+            "topics": [
+              "bindings",
+              "cross-platform",
+              "d",
+              "dlang",
+              "emscripten",
+              "sokol",
+              "wasm"
             ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -3676,7 +3676,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -3739,11 +3739,11 @@
             "id": 767346331,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:57:54Z",
+            "last_commit": "2026-10-20T01:24:26Z",
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
-            "stars": 133,
+            "stars": 137,
             "topics": [
               "cross-platform",
               "dlang",
@@ -3955,7 +3955,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -3978,7 +3978,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -4542,7 +4542,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -4688,7 +4688,7 @@
             "id": 2052937,
             "language": "D",
             "license": null,
-            "last_commit": "2026-09-28T15:41:53Z",
+            "last_commit": "2026-10-20T01:21:37Z",
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
@@ -5321,7 +5321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:49:40.177Z",
+    "last_updated": "2026-10-20T11:58:37.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5333,7 +5333,7 @@
       "open_issues": 3,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 767,
+      "stars": 768,
       "topics": [
         "dlang"
       ]
