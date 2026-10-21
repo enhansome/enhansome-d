@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-20T07:51:22Z",
-            "open_issues": 3819,
+            "last_commit": "2026-10-20T23:57:37Z",
+            "open_issues": 3822,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3329,
@@ -155,7 +155,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T04:11:16Z",
+            "last_commit": "2026-10-21T04:00:04Z",
             "open_issues": 589,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -269,7 +269,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-09-29T22:52:02Z",
-            "open_issues": 542,
+            "open_issues": 543,
             "owner": "dlang",
             "repo": "dub",
             "stars": 741,
@@ -358,8 +358,8 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T14:04:52Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-21T07:45:31Z",
+            "open_issues": 13,
             "owner": "bazel-contrib",
             "repo": "rules_d",
             "stars": 27,
@@ -498,7 +498,7 @@
             "id": 1227552033,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-07T22:14:45Z",
+            "last_commit": "2026-10-21T05:55:03Z",
             "open_issues": 11,
             "owner": "dcarp",
             "repo": "gazelle_d",
@@ -963,7 +963,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -1018,7 +1018,7 @@
             "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "assembly",
               "dlang",
@@ -1227,7 +1227,7 @@
             "id": 839582107,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-18T12:21:21Z",
+            "last_commit": "2026-10-20T22:35:17Z",
             "open_issues": 0,
             "owner": "Kapendev",
             "repo": "joka",
@@ -1410,7 +1410,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -1650,7 +1650,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -1770,7 +1770,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -1950,7 +1950,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -2147,10 +2147,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T18:54:14Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12932,
+            "stars": 12936,
             "topics": [
               "business",
               "linux",
@@ -2346,7 +2346,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -2510,7 +2510,7 @@
             "open_issues": 458,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5734,
+            "stars": 5735,
             "topics": [
               "dlang",
               "gtk3",
@@ -3680,7 +3680,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -3739,11 +3739,11 @@
             "id": 767346331,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-20T01:24:26Z",
+            "last_commit": "2026-10-20T22:33:20Z",
             "open_issues": 2,
             "owner": "Kapendev",
             "repo": "parin",
-            "stars": 137,
+            "stars": 140,
             "topics": [
               "cross-platform",
               "dlang",
@@ -3959,7 +3959,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -3982,7 +3982,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -4546,7 +4546,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -4692,7 +4692,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "d"
             ]
@@ -5321,7 +5321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:58:37.065Z",
+    "last_updated": "2026-10-21T12:13:47.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
