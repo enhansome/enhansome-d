@@ -125,7 +125,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-10-26T00:30:59Z",
-            "open_issues": 3816,
+            "open_issues": 3817,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3331,
@@ -269,7 +269,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-09-29T22:52:02Z",
-            "open_issues": 543,
+            "open_issues": 545,
             "owner": "dlang",
             "repo": "dub",
             "stars": 742,
@@ -358,7 +358,7 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T14:54:11Z",
+            "last_commit": "2026-10-26T20:16:28Z",
             "open_issues": 12,
             "owner": "bazel-contrib",
             "repo": "rules_d",
@@ -498,7 +498,7 @@
             "id": 1227552033,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-24T10:14:27Z",
+            "last_commit": "2026-10-26T18:41:55Z",
             "open_issues": 11,
             "owner": "dcarp",
             "repo": "gazelle_d",
@@ -578,7 +578,7 @@
             "open_issues": 158,
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "d",
               "language-server-protocol"
@@ -2146,11 +2146,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T09:37:48Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-27T07:06:31Z",
+            "open_issues": 17,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12938,
+            "stars": 12943,
             "topics": [
               "business",
               "linux",
@@ -2410,7 +2410,7 @@
             "id": 923238342,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:57:19Z",
+            "last_commit": "2026-10-27T06:00:05Z",
             "open_issues": 0,
             "owner": "Kymorphia",
             "repo": "gid",
@@ -2537,7 +2537,7 @@
             "open_issues": 144,
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1253,
+            "stars": 1254,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2579,7 +2579,7 @@
             "id": 923238342,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:57:19Z",
+            "last_commit": "2026-10-27T06:00:05Z",
             "open_issues": 0,
             "owner": "Kymorphia",
             "repo": "gid",
@@ -2600,7 +2600,7 @@
             "id": 923238342,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:57:19Z",
+            "last_commit": "2026-10-27T06:00:05Z",
             "open_issues": 0,
             "owner": "Kymorphia",
             "repo": "gid",
@@ -3284,7 +3284,7 @@
             "id": 730376427,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-10-26T11:10:12Z",
+            "last_commit": "2026-10-26T17:56:34Z",
             "open_issues": 2,
             "owner": "floooh",
             "repo": "sokol-d",
@@ -3689,6 +3689,37 @@
         },
         {
           "node_type": "item",
+          "title": "Parin",
+          "description": "A delightfully simple 2D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A delightfully simple 2D game engine.",
+            "homepage": null,
+            "id": 767346331,
+            "language": "D",
+            "license": "MIT",
+            "last_commit": "2026-10-23T03:49:17Z",
+            "open_issues": 2,
+            "owner": "Kapendev",
+            "repo": "parin",
+            "stars": 144,
+            "topics": [
+              "cross-platform",
+              "dlang",
+              "game-development",
+              "game-engine",
+              "game-framework",
+              "gamedev",
+              "graphics",
+              "wasm",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:02.690Z"
+        },
+        {
+          "node_type": "item",
           "title": "HipremeEngine",
           "description": "Cross Platform D-Lang Game Engine with scripting support.",
           "children": [],
@@ -3723,37 +3754,6 @@
               "webassembly",
               "webgl",
               "xbox"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:02.690Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Parin",
-          "description": "A delightfully simple 2D game engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A delightfully simple 2D game engine.",
-            "homepage": null,
-            "id": 767346331,
-            "language": "D",
-            "license": "MIT",
-            "last_commit": "2026-10-23T03:49:17Z",
-            "open_issues": 2,
-            "owner": "Kapendev",
-            "repo": "parin",
-            "stars": 143,
-            "topics": [
-              "cross-platform",
-              "dlang",
-              "game-development",
-              "game-engine",
-              "game-framework",
-              "gamedev",
-              "graphics",
-              "wasm",
-              "webassembly"
             ]
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -4587,7 +4587,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2026-01-24T17:04:19Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "dlang-community",
             "repo": "D-YAML",
             "stars": 123,
@@ -5321,7 +5321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T13:27:39.216Z",
+    "last_updated": "2026-10-27T12:35:16.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
