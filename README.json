@@ -124,8 +124,8 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-04T14:00:21Z",
-            "open_issues": 3827,
+            "last_commit": "2026-11-05T12:34:36Z",
+            "open_issues": 3818,
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3337,
@@ -156,7 +156,7 @@
             "language": "D",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T09:26:15Z",
-            "open_issues": 594,
+            "open_issues": 595,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1384,
@@ -269,7 +269,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-11-03T12:22:02Z",
-            "open_issues": 545,
+            "open_issues": 537,
             "owner": "dlang",
             "repo": "dub",
             "stars": 742,
@@ -358,7 +358,7 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T00:05:13Z",
+            "last_commit": "2026-11-05T07:17:22Z",
             "open_issues": 12,
             "owner": "bazel-contrib",
             "repo": "rules_d",
@@ -498,7 +498,7 @@
             "id": 1227552033,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-11-03T00:00:11Z",
+            "last_commit": "2026-11-05T02:10:49Z",
             "open_issues": 11,
             "owner": "dcarp",
             "repo": "gazelle_d",
@@ -575,7 +575,7 @@
             "language": "D",
             "license": "MIT",
             "last_commit": "2026-08-29T20:19:36Z",
-            "open_issues": 159,
+            "open_issues": 157,
             "owner": "Pure-D",
             "repo": "serve-d",
             "stars": 273,
@@ -963,7 +963,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -1410,7 +1410,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -1650,7 +1650,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -1770,7 +1770,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -1810,8 +1810,8 @@
             "id": 9391376,
             "language": "D",
             "license": null,
-            "last_commit": "2026-11-04T08:56:48Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-04T19:41:02Z",
+            "open_issues": 10,
             "owner": "buggins",
             "repo": "ddbc",
             "stars": 81,
@@ -1832,7 +1832,7 @@
             "language": "D",
             "license": "BSL-1.0",
             "last_commit": "2024-01-10T00:06:56Z",
-            "open_issues": 44,
+            "open_issues": 50,
             "owner": "mysql-d",
             "repo": "mysql-native",
             "stars": 80,
@@ -1950,7 +1950,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -2146,11 +2146,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T09:11:37Z",
+            "last_commit": "2026-11-04T19:38:28Z",
             "open_issues": 21,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12973,
+            "stars": 12976,
             "topics": [
               "business",
               "linux",
@@ -2313,8 +2313,8 @@
             "id": 17363774,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-04T13:31:52Z",
-            "open_issues": 105,
+            "last_commit": "2026-11-05T14:35:40Z",
+            "open_issues": 92,
             "owner": "buggins",
             "repo": "dlangui",
             "stars": 870,
@@ -2346,7 +2346,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -2926,7 +2926,7 @@
                 "language": "D",
                 "license": "BSL-1.0",
                 "last_commit": "2025-12-14T09:32:11Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "BindBC",
                 "repo": "bindbc-freetype",
                 "stars": 19,
@@ -3680,7 +3680,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -3730,7 +3730,7 @@
             "id": 228531733,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T23:50:04Z",
+            "last_commit": "2026-11-05T14:44:10Z",
             "open_issues": 5,
             "owner": "MrcSnm",
             "repo": "HipremeEngine",
@@ -3791,7 +3791,7 @@
             "id": 70403001,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T14:46:30Z",
+            "last_commit": "2026-11-05T14:38:36Z",
             "open_issues": 5,
             "owner": "gecko0307",
             "repo": "dagon",
@@ -3959,7 +3959,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -3982,7 +3982,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -4546,7 +4546,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -4692,7 +4692,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "d"
             ]
@@ -4793,7 +4793,7 @@
             "open_issues": 1,
             "owner": "shove70",
             "repo": "crypto",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -5321,7 +5321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T14:48:06.205Z",
+    "last_updated": "2026-11-05T14:53:05.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5333,7 +5333,7 @@
       "open_issues": 4,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 770,
+      "stars": 771,
       "topics": [
         "dlang"
       ]
