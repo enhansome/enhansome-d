@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "Circular-Studios",
             "repo": "Dash",
-            "stars": 425,
+            "stars": 422,
             "topics": [
               "3d",
               "d",
@@ -124,11 +124,11 @@
             "id": 1257070,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-19T07:35:03Z",
-            "open_issues": 3855,
+            "last_commit": "2026-11-20T08:20:09Z",
+            "open_issues": 3843,
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3346,
+            "stars": 3345,
             "topics": [
               "compiler",
               "d",
@@ -155,8 +155,8 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T03:06:16Z",
-            "open_issues": 596,
+            "last_commit": "2026-11-19T18:49:45Z",
+            "open_issues": 595,
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1386,
@@ -358,8 +358,8 @@
             "id": 53954149,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T08:29:29Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-20T13:26:17Z",
+            "open_issues": 14,
             "owner": "bazel-contrib",
             "repo": "rules_d",
             "stars": 27,
@@ -498,7 +498,7 @@
             "id": 1227552033,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-11-11T03:26:13Z",
+            "last_commit": "2026-11-19T19:00:01Z",
             "open_issues": 11,
             "owner": "dcarp",
             "repo": "gazelle_d",
@@ -574,11 +574,11 @@
             "id": 84109846,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-11-19T12:50:38Z",
+            "last_commit": "2026-11-20T05:41:05Z",
             "open_issues": 157,
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "d",
               "language-server-protocol"
@@ -942,7 +942,7 @@
             "open_issues": 17,
             "owner": "higgsjs",
             "repo": "Higgs",
-            "stars": 886,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -963,7 +963,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -1018,7 +1018,7 @@
             "open_issues": 14,
             "owner": "PowerNex",
             "repo": "PowerNex",
-            "stars": 507,
+            "stars": 506,
             "topics": [
               "assembly",
               "dlang",
@@ -1410,7 +1410,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -1650,7 +1650,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -1738,11 +1738,11 @@
             "id": 4081150,
             "language": "D",
             "license": "MIT",
-            "last_commit": "2026-11-19T15:34:00Z",
-            "open_issues": 428,
+            "last_commit": "2026-11-20T10:57:05Z",
+            "open_issues": 427,
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1225,
+            "stars": 1224,
             "topics": [
               "async",
               "concurrency",
@@ -1770,7 +1770,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -1945,7 +1945,7 @@
             "open_issues": 4,
             "owner": "fazibear",
             "repo": "colorize",
-            "stars": 1287,
+            "stars": 1286,
             "topics": [
               "ansi-escape-sequences",
               "gem",
@@ -1970,7 +1970,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -2166,11 +2166,11 @@
             "id": 125155159,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T06:01:55Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-20T10:46:05Z",
+            "open_issues": 18,
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 13021,
+            "stars": 13023,
             "topics": [
               "business",
               "linux",
@@ -2277,7 +2277,7 @@
             "id": 82344147,
             "language": "D",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T02:08:09Z",
+            "last_commit": "2026-11-19T23:24:15Z",
             "open_issues": 13,
             "owner": "soulfind-dev",
             "repo": "soulfind",
@@ -2333,7 +2333,7 @@
             "id": 17363774,
             "language": "D",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-19T12:44:11Z",
+            "last_commit": "2026-11-20T14:56:00Z",
             "open_issues": 69,
             "owner": "buggins",
             "repo": "dlangui",
@@ -2366,7 +2366,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -2434,7 +2434,7 @@
             "open_issues": 0,
             "owner": "Kymorphia",
             "repo": "gid",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2530,7 +2530,7 @@
             "open_issues": 458,
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5746,
+            "stars": 5745,
             "topics": [
               "dlang",
               "gtk3",
@@ -2603,7 +2603,7 @@
             "open_issues": 0,
             "owner": "Kymorphia",
             "repo": "gid",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "Kymorphia",
             "repo": "gid",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -3700,7 +3700,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -3979,7 +3979,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -4002,7 +4002,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -4109,7 +4109,7 @@
             "open_issues": 15,
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1296,
+            "stars": 1295,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -4178,7 +4178,7 @@
             "open_issues": 0,
             "owner": "ShigekiKarita",
             "repo": "grain2",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:02.690Z"
@@ -4445,7 +4445,7 @@
             "open_issues": 24,
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1485,
+            "stars": 1484,
             "topics": [
               "cli",
               "command-line",
@@ -4566,7 +4566,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -4712,7 +4712,7 @@
             "open_issues": 53,
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "d"
             ]
@@ -5341,7 +5341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:08.839Z",
+    "last_updated": "2026-11-20T15:41:53.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
@@ -5353,7 +5353,7 @@
       "open_issues": 3,
       "owner": "dlang-community",
       "repo": "awesome-d",
-      "stars": 772,
+      "stars": 770,
       "topics": [
         "dlang"
       ]
